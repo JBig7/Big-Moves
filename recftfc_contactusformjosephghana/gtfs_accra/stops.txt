@@ -1,0 +1,913 @@
+stop_id,stop_name,stop_lat,stop_lon
+accusing.ripples.notch,Rawlings Park,5.545849,-0.209029
+acid.outcasts.mindset,Sempe bus stop,5.538712107911713,-0.238777627736546
+active.crispy.highly,Atomic Second,5.66776329436039,-0.176757076319855
+adjust.quilting.cracks,Bridge,5.545275350504535,-0.247785987327101
+admits.habits.move,Block factory,5.548803116664603,-0.335459844590862
+adopt.specifies.glaze,Fusi,5.698304825810265,-0.291957921282974
+advantage.petition.typed,Kaysens Gas,5.642474855081704,-0.060376826788605
+advises.rewrites.adjudicated,Gyankama,5.815421596114919,-0.187350284446812
+affirming.written.automatic,Site 10,5.651446363904101,2.7633325586e-5
+again.reduction.cuter,Union oil,5.566544048470806,-0.288410130227067
+aged.unsecured.outlawing,Agya appiah,5.715758855114053,-0.307162342835676
+ages.hardback.springing,Ghacem,5.635069475271825,0.005116646554659
+agree.puts.placidly,Adenta,5.706192,-0.165543
+allergy.mondays.rules,Libya Quarters,5.672902,-0.181963
+alley.rifled.clumped,Shop,5.686044456862083,-0.151984730241512
+already.intervene.scanty,Obeyeyie,5.681009,-0.33617
+also.tides.microfilm,Premier,5.542271202804,-0.24395657396749
+altering.organs.trickster,New Tema,5.550436,-0.200627
+alternating.faded.graduations,Mampong,5.913986308924673,-0.140631380181338
+amplified.wriggled.soothing,Tabora Junction,5.619192842609112,-0.261852143771714
+animals.litigate.tacky,Church junction,5.65046557079114,-0.105038085613604
+animate.rattled.envisage,Neoplan,5.568913896687643,-0.218412502843151
+animates.tadpoles.ivory,Mallam,5.575322,-0.290112
+anode.sundial.collides,SCC,5.547383868130963,-0.338581465254113
+antechamber.taste.hairdresser,Modole,5.820351,-0.017368
+appealing.quibble.messing,Odorgonor SHS,5.591897722377947,-0.287364970803977
+applause.showcase.entrusted,Achimota,5.620503218566649,-0.225055788281815
+approvals.tequila.mute,Madina Zongo Junction,5.678497,-0.17399
+arching.drags.dolphin,Ridge bus stop,5.562039351347918,-0.195651561266711
+archive.seabirds.marriage,Obibini junction,5.747824031815266,-0.18842796910149
+archives.punters.depth,Accra CMB,5.55069571288984,-0.213214217401285
+areas.chips.reporters,Dome crossing,5.647988365031111,-0.236614452561034
+armful.sunblock.amicably,Kontunse,5.74170516627054,-0.316268075577518
+armrest.rift.snug,Atomic First,5.667098558027766,-0.238798021844409
+arranger.blotchy.snowboard,Capital Hill,5.637667917591717,-0.281075099215538
+arranger.plenty.earmarked,Taxi Curve,5.644755,0.00316
+arrives.snowballs.stone,Odorkor,5.581195,-0.263832
+ascendant.expand.quantity,Odorgonno SHS,5.591770724233874,-0.287507188158839
+assume.tinny.gripes,Opeibea,5.599612461154478,-0.179092831614392
+assurance.chairing.upwardly,Academy junction,5.571078208346884,-0.245541785202364
+assure.emerald.attaching,Graphic,5.555611387755522,-0.219270421983312
+atomic.cherished.youth,EV station,5.685862147202227,-0.142634652900272
+atomic.edge.emporium,Achimota Overhead,5.619660549571171,-0.230391062979707
+attends.cheer.redefined,Madina Market Station,5.677775,-0.170405
+aunts.official.response,Kotoku,5.740199151703181,-0.356553247938834
+avert.snorkelers.pined,Agape School,5.708683142066349,-0.046733871494033
+awaited.starfish.venue,New Hawkers Market,5.686413,-0.033952
+awakening.backed.sounding,Dansoman Roundabout,5.557446311057528,-0.264777571748278
+badminton.observers.earliest,East Legon Roundabout,5.659898386792369,-0.152226148883796
+baffle.notion.grasp,Roundabout,5.62418122254246,-0.172611035814044
+bandstand.dignitary.bank,Highway illegal stop,5.687814990560149,-0.13769768629906
+baths.turned.bikers,Glory Land Junction,5.578341371022891,-0.257572982647784
+beak.special.talents,Block factory,5.753007863281264,-0.337794008315431
+beanbag.dazzling.entry,New Town,5.662008878001212,-0.327240411273693
+beanbag.thumbnail.glares,Mercy Kiddy Montessori Ceinter,5.559581580593142,-0.250706736486005
+bearable.laptops.include,Community 1 (Tema Casino),5.645329,0.001081
+bearings.shorter.deleting,Sarpeiman,5.725639092458318,-0.311150156004825
+bedrock.tearfully.lived,Hong kong,5.60113646669149,-0.260815999934221
+beep.setting.plankton,Hasto Super Market,5.667422499197071,-0.196111494028239
+belong.storybook.levels,ICGC,5.659127900969182,-0.132364261240252
+beyond.signs.work,Dromo plaza,5.690314777168496,-0.253873785451146
+bidder.stirs.asking,Kingsway,5.553526893305255,-0.211236287728919
+bleaker.boards.century,Estate Junction,5.637370885999067,-0.062939774816956
+blip.widen.teams,Assemblies,5.69112633714774,-0.171770927485886
+blockage.terminal.unguarded,Atomic First,5.665243644320295,-0.177598230080907
+blocks.upstarts.wallet,Obeyeyie,5.681725153654465,-0.33660270518138
+blogging.mixers.perusing,Accra CMB,5.550764,-0.212761
+blogging.unusable.rental,Salvation army bus stop,5.540919760800368,-0.239304156985429
+blotting.clerics.energy,Community 20,5.647802,0.002146
+blotting.spades.lines,Kisseman,5.63742100028078,-0.213106922954119
+blows.terms.venturing,Sakaman junction,5.555751627585202,-0.304178704954266
+bluffing.screeches.herring,Lakeside,5.692343,-0.137089
+boardroom.boring.prune,Pentecost,5.498597179790695,-0.365648523114899
+boardroom.dark.smile,Anyaa,5.598725,-0.289304
+boards.snack.reverses,Adenta Barrier,5.705996420699881,-0.171291179171173
+boards.trunk.strain,Fammilk Junction,5.621377273651806,-0.298819793394191
+body.magnitude.sweat,Karikari bus stop,5.531303,-0.260684
+boggles.sunblock.tarnished,Fertilizer junction,5.588412200980071,-0.097843433670725
+bond.hungry.attaching,Zenith Bank,5.574817702969407,-0.276849349625265
+bookings.reshaping.cubs,Wonder Junction,5.674996138989219,-0.238868760257804
+booklets.marker.narrates,Abotsi Anya,5.584983285814578,-0.102481194450488
+boomed.promoting.install,Community 8 bus stop,5.6732788734398,-0.009775171723086
+botanists.achieving.nesting,Toman,5.711681339861382,-0.304913015665853
+bouncing.cabinet.northward,Flat top,5.609367461724916,-0.238016583790378
+boxing.hatter.hoped,Mannet,5.641006734971584,-0.127980449006117
+brains.playful.unusable,Agege,5.529141,-0.264784
+breaches.singers.courtyard,Union oil,5.566495136127963,-0.288267709319068
+breathed.confusion.spinners,Masalatsi,5.642188277796208,-0.311112807421892
+brighter.hello.poets,Haatso,5.667486504099078,-0.204709905092967
+bristle.collision.generally,Ashiaman,5.686331,-0.032458
+brittle.video.duet,Under bridge,5.674819204476774,-0.044071464031811
+built.organic.prickly,Kaneshie Market,5.565268127706621,-0.236020386257247
+bulbs.cares.dished,Ablekuma Curve,5.627368,-0.313218
+bunkers.workroom.shrubbery,Kwashieman,5.603180835346818,-0.256401271746049
+burst.rashers.leaky,Santa Maria,5.605412,-0.275787
+butlers.trouble.fever,Titanic beach,5.610877002970841,-0.047484592608831
+butter.explain.typed,American House,5.648135,-0.150593
+calibrate.carry.impulse,Market Junction,5.690585,-0.031854
+called.coverings.adapt,Achimota,5.621028,-0.22609
+caller.loafing.sharpen,Police station,5.543631390871083,-0.264685770276827
+campus.lorry.playback,Ablekuma Curve,5.627882,-0.312169
+candidate.hothouse.constants,Carmo Pharmacy,5.645330592154806,-0.237176153966281
+canines.stood.sadly,Block factory,5.690232088456781,-0.256334671370479
+cans.highlighted.punks,Tabora Number 3,5.607007974234182,-0.258801414316319
+carpentry.tailing.stability,Musuku Roundabout,5.680935961652389,-0.240290955147622
+carry.gobbling.vital,Chemuna Mamponse,5.526199,-0.250654
+cars.window.butlers,Obek school,5.6420611183291864,-0.339115977473133
+caskets.huddling.searching,Community 11 Apostolic church,5.668081723996599,-0.018554499287916
+cavalier.snowboard.canyons,Akweteyman,5.610614630105093,-0.233297691113836
+cave.backed.coconuts,Ritz Junction,5.685364459969979,-0.171511522370857
+champions.smug.inflame,Papillon bus stop,5.546978054034592,-0.239737551442661
+change.skins.regal,Club House,5.622841741023712,-0.219133616707862
+charge.cubic.giggle,Goil,5.598310781552127,-0.081593179933444
+chats.prominent.kitten,Adjei Kojo,5.706041362388616,-0.078809690582594
+cheaper.frock.ghost,Free Pipe,5.599868260350689,-0.237585819838937
+cheaply.octagon.chart,Temple of God Baptist Church,5.683977982066953,-0.160479111334484
+cheerily.theme.parent,Pokoasi,5.686701606390141,-0.280953687563035
+chest.altitude.reporters,Akotoshi No 2,5.750009332828609,-0.342215803249538
+choker.reflexes.mouse,Zenu,5.718872,-0.053324
+choppy.indulges.snacks,Circle Station,5.57044,-0.215629
+claw.develops.shaver,Driving school,5.585202869933514,-0.264875838670805
+clerk.skirting.recover,Neoplan,5.568797219864085,-0.218404005907923
+clipboard.defeated.lunged,Bortianor,5.54777943478572,-0.348666103361396
+clouds.ratio.reliving,Whitehouse,5.527708848057869,-0.235518117045181
+cocoons.swerving.dared,Christ Pentecost ministry international,5.650529314355372,-0.009806157177686
+collapsed.staple.behalf,Mallam Junction,5.570922250427631,-0.285468618215159
+collected.recital.massive,Weija traffic,5.556406706754348,-0.302310483029593
+combos.toast.ascendant,Toman,5.711768331912166,-0.304757188783607
+committee.erupts.trooper,Kwabenya,5.69075854672209,-0.247917186656561
+compacts.nicknames.jetliner,Spot M,5.653222175312644,-0.258668827081414
+complain.quit.scrapping,Lotto Kiosk,5.680927634402227,-0.344385645189979
+complains.fuzz.flitting,Lapaz Market,5.607402752879811,-0.25707585124684
+comply.defenders.bravest,Community 4 bus stop,5.658060814252129,-0.003376785757923
+computers.useful.airports,NIC,5.613456227202786,-0.296657570942663
+confetti.electric.acute,Madina Estate,5.664678715916315,-0.159924198157872
+confirms.presumes.nurses,Nima Police station,5.57296254332373,-0.201444633512032
+congratulations.clays.stump,Madina Zongo Junction,5.679284,-0.173348
+connects.locker.seashell,Water works,5.579587790964567,-0.277862221549062
+conqueror.passage.rumble,Lapaz Market,5.608369,-0.244671
+consults.bought.roofer,Chop bar,5.639695821392065,-0.350130094943431
+contained.tour.marker,Agya Appiah,5.715710616531374,-0.307329280852135
+convey.bookshelf.ledge,Adenta Barrier,5.704236,-0.171326
+convinced.plausible.valve,Container,5.738534512223239,-0.315013036664904
+couches.tolerates.equipment,Otano,5.655409866997144,-0.13086544065108
+couching.disappointment.upload,Danchira cement shop,5.654101123937024,-0.384264524373567
+coughed.nasal.contemplate,Community 18,5.660604048321408,-0.076241938553344
+courage.resonates.engrossed,Cafe Junction,5.742337297907409,-0.353448075925158
+courier.fallback.vegetable,Tollbooth,5.733617157826078,-0.31365056770752
+courts.themes.linked,Go Oil Madina,5.676113,-0.173785
+cover.rebel.statement,Satellite,5.746083156217893,-0.318383358036055
+coverings.shares.spaces,Dzorwulu Junction,5.618402373504876,-0.191197086274643
+crab.mixes.gains,Madina Zongo Junction,5.678015,-0.173272
+crabmeat.squish.button,Kasoa,5.688628641635683,-0.283153261731621
+crackles.presses.departure,Afro Arab Microfinance,5.589336904388609,-0.196292725584529
+creaking.duplicity.poses,Kasoa,5.534901,-0.427396
+create.trombone.dining,Pamprom,5.562996828850314,-0.23230180022749
+cringe.boast.canyons,Commercial Bank,5.662082243861257,-0.237359678499049
+crisps.vest.confronts,Community 9 bus stop,5.678635833660125,-0.011919239043527
+crossings.sulky.crucially,New town junction,5.685879178642075,-0.143563141072477
+crouches.lunge.listed,Alhaji junction bus stop,5.531225830197224,-0.247577466328046
+crowbar.magic.upsetting,Church of Pentecost,5.5819738,-0.2656927
+cuddled.rafters.tasks,Total Fuel Station 37 Road,5.591220216775896,-0.180991029459656
+culminate.scatters.homework,Total filling station,5.646203150974369,6.60789328922e-4
+curdle.navigating.retrofit,First stop,5.787395415957486,-0.183628946110046
+curtail.suitably.discusses,EPSON,5.546991543975317,-0.236065637755956
+customers.publisher.captive,St Peters,5.669562052034719,-0.159897339816081
+cyclones.shelved.uncouth,Bishop bowers school,5.547649887121484,-0.232453500748761
+dabbled.unspoiled.crowd,Jayee junction,5.558949914640218,-0.295197680210117
+dandelions.event.pizazz,Kasoa Main Terminal,5.534571,-0.423359
+danger.asserts.mainly,Community 5 Traffic,5.650518512408325,-0.011242689244271
+dares.daunted.chucked,Last stop,5.667598242728822,-0.159929088214615
+dark.responded.registry,Greenhand Clinic,5.583373990841374,-0.231020585804263
+dash.hardens.increased,Blacksmith bus stop,5.551108038532122,-0.240159383093558
+dating.inched.difficult,Shikpontele,5.71790086498758,-0.308483754797128
+daunted.regrowth.hissing,Spot M,5.653159253266361,-0.258720346274533
+daydreamed.supplying.distiller,Tutu,5.890062775691944,-0.153389643933771
+debut.straddled.origins,Drug Store,5.602856307723663,-0.274740584390442
+decades.middle.goose,Dam,5.698039809825284,-0.118380417490649
+decanter.wonderfully.clays,School Bus Junction,5.677269,-0.125252
+decimals.contrived.outbursts,Peace be,5.685910036680937,-0.145234145081803
+declines.react.resurgent,Masalasti,5.702549,-0.171625
+defected.explores.tight,Dansoman,5.52993925421215,-0.265326962739338
+define.washed.mandolin,Goil filling station,5.550149905371274,-0.353827653386775
+deflated.hammer.sublet,West Hills mall,5.546378508315171,-0.341897689890514
+deflect.jumps.resembles,AMA,5.549708,-0.20343
+deleting.whisk.sock,Overhead,5.581425,-0.198727
+departure.rationed.emperor,Plaza bus stop,5.534060713116008,-0.236179338684916
+depleted.quirky.obsessions,Kasoa Overhead,5.535254,-0.420701
+deputy.handy.stung,Madina New Market,5.682297,-0.171563
+describe.send.skillet,Canada,5.656440558356663,-0.304063958479962
+describes.pizzeria.inserting,Site 10,5.651485275689946,1.2918359596e-4
+describes.triggers.exfoliating,Mampong Presyterian SHS,5.906363373088978,-0.145590004078046
+desktop.grandest.explorer,Sawmill,5.660553015363249,-0.326754298260578
+desktops.positives.cabbage,Neoplan,5.568854488317716,-0.218412297621146
+destined.caressing.momentous,Atomic Second,5.667837167868953,-0.177027924430197
+detained.empty.repeat,Salaga Market,5.539996,-0.208945
+devalued.trace.blog,Jayee junction,5.558854289932624,-0.29513479178541
+devastates.flippant.pillars,New Market Junction,5.558200368918881,-0.419954105074218
+developed.houseboat.wobbling,Kakalika,5.530970206841005,-0.242527300543065
+devices.alley.wafted,Kasoa Main Terminal,5.534175,-0.424072
+devours.corrode.profile,Akofena Palace,5.676304627903032,-0.241348183930754
+dial.gobblers.untruth,Dome Market,5.642524,-0.236298
+differ.assurance.twisty,Block factory,5.548685202058612,-0.335378492653396
+difficult.youngest.snipped,Mangoase,5.637895905352377,-0.331595538884079
+digital.sprain.firelight,Darkuman Junction,5.576155254794473,-0.254407181142163
+dined.nurture.tradition,Ohemaa Junction,5.687354960560522,-0.326246342275632
+diplomas.genius.splints,Atomic Second,5.667854325113147,-0.177138676691339
+directly.timer.alas,Curve (market entrance),5.548288706229536,-0.218311532411487
+disco.alarmed.pays,Hospital junction,5.564396550633818,-0.289341619771485
+dispenser.bandwagon.impact,Mamobi,5.592084654471427,-0.195441241034365
+dissolves.ferrying.blip,Kpobiman,5.734821026488748,-0.313973657606257
+distrusts.skittles.pancreas,Kasoa Main Terminal,5.534785,-0.423377
+ditching.resembles.standards,Overhead,5.560461806850459,-0.229876013324265
+diver.animal.pans,Afuaman,5.640065134841604,-0.349241410621162
+diverged.library.hopeless,Estate bus stop,5.688682179396796,-0.267334127893631
+diverts.melts.anguished,Mangoase,5.532246270921368,-0.249254505134901
+dividers.purchaser.chromatic,Methodist,5.53442674090052,-0.244456853696952
+doghouse.riders.remission,Galiliea Market,5.538373206986649,-0.400059640510321
+dolly.tripling.encounter,Agbogbloshi Agege,5.551646,-0.219435
+dolphin.mothering.robe,Go Oil Madina,5.675825546803542,-0.173979229494374
+downs.sing.waiters,Adenta Taxi Rank,5.710649330174471,-0.171499005484281
+drank.gross.incursion,Oduma Clinic,5.64161204882399,-0.329437683427608
+dress.gilding.donor,TDC tower,5.632407561232387,-0.013121111131788
+drips.lessening.messy,Obeyeyie Filling Station,5.681437212611574,-0.338910781620843
+drivers.replied.extensive,Ayawaso,5.676821117783565,-0.289008515721599
+drives.moon.crossword,Agbogba,5.692169,-0.199271
+driveways.comforted.envelope,Aunty Aku,5.612793,-0.284976
+drum.professes.sweated,Alhaji Curve,5.626552285724987,-0.26175876977188
+duplicity.gifted.commuting,Pentang Hospital,5.713321551285547,-0.186783803607625
+dust.rescue.dummy,Masalatsi,5.642996831637545,-0.311286756449787
+dusters.nature.impaled,Gimpa,5.638654968519321,-0.209577014982713
+dwelled.universe.carbonate,Korle- bu junction,5.52979380681944,-0.22532254952888
+earplugs.rises.reclining,USA,5.532264879812812,-0.247954039468127
+easy.kitchen.forwarded,Welfare,5.676740399220949,-0.159909500372792
+ecologist.holdings.eats,Melcom,5.636452861387688,-0.311012818872716
+economics.deeds.cabinets,Circle Station,5.569253,-0.216706
+edges.adjusting.loudness,Kpobiman,5.736766757870376,-0.3143107316817
+edicts.innocence.boil,first Light,5.569687778484155,-0.243121699557907
+editor.redeemed.deferring,Overhead,5.682283563038339,-0.02548421521004
+elastic.prettiest.tilt,Accra Digital Center,5.567396597269425,-0.223180814372042
+elbow.introduce.debit,Medie,5.760893,-0.325874
+electric.partly.rotation,Sankara,5.57259967312057,-0.189939887065252
+embodied.resources.sleepless,Emmanet Real Estate,5.697684594766782,-0.014814792039986
+embraced.dentures.soups,CAC junction,5.686158732329433,-0.156383603199373
+empire.gracing.digests,Welfare Junction,5.685992813141267,-0.160487905501418
+empty.presumes.growl,Chantan,5.626184,-0.255654
+encourages.hinted.dynamics,Peduase,5.806977415535022,-0.181255218862696
+encrusted.boards.spoken,Glory oil,5.690159511624362,-0.259074192023866
+endlessly.stolen.disco,Broadcasting,5.552091,-0.358797
+energetic.skid.dish,Maloka Market No 2,5.549289,-0.216611
+engage.cape.gathering,Ghana Rubber,5.561163166141865,-0.224257039018114
+engages.dividing.canoe,Spot M,5.653309813415556,-0.258621069411404
+engine.slower.threaded,El Paso,5.647331,-0.001227
+engineers.cello.subway,Amasaman,5.705053,-0.297976
+engrossed.wordplay.character,Akofirm Junction,5.667523965173146,-0.211070207318386
+ethic.treble.bluffs,Masalachi,5.642785729975439,-0.275822252442859
+event.proclaim.quiche,Atadeka,5.728817,-0.062408
+evicted.knockouts.spraying,Kasoa,5.533669,-0.424735
+evoke.clay.manuals,Flat,5.547211788105259,-0.233280487658839
+evolution.breaches.dominate,Assembly,5.609917582193749,-0.27956536541265
+exacting.paradise.railing,Kasoa Main Terminal,5.534539,-0.423544
+examine.streaking.mushroom,Pito Junction,5.6732,-0.327687
+example.whirlpool.reactions,Darsalam,5.690949259877248,-0.32352267878761
+examples.vowel.transmitted,KFC,5.667349834601059,-0.188194137547213
+exclusive.novels.clerk,West Hills mall,5.546214529721324,-0.341852421565695
+exclusive.supposing.friday,Control,5.54656300328046,-0.264544918223743
+excuse.oldest.discussed,Kings Way,5.552728,-0.211052
+exile.typified.pound,Alamo,5.588155429753772,-0.217820345817825
+expand.wolf.mentalities,Special ice,5.750313401101568,-0.177835398404061
+expiring.landlords.realm,Foot Bridge,5.704309152801931,-0.171444224889338
+eyeful.treaty.wound,Estate junction,5.688959877418831,-0.265688759871937
+factory.prime.mango,Borla Junction,5.709898070361693,-0.195806224788365
+fade.shred.palaces,Afuaman,5.637414,-0.352768
+fails.mountains.lamp,Abodwe,5.534020970233015,-0.242778824868454
+fallback.touchy.squabbles,Awuley Quaye,5.528024190478027,-0.233900694230409
+falters.customers.blossom,Foot Bridge,5.704295600858533,-0.171314956059983
+fatter.swanky.consoled,ECG Accra,5.548073,-0.204468
+ferrying.brink.noticing,Kaneshie Market,5.565169,-0.234693
+feuds.clinic.formal,School Bus Junction,5.676573,-0.125533
+fight.isolating.uppermost,Ashongman,5.703478,-0.210401
+fights.tooth.bound,Ashiaman Traffic,5.68776,-0.02999
+final.nightlife.funds,Spanner,5.620690195051125,-0.177119662806081
+finer.organic.jets,Oyarifa bus stop,5.744611141931337,-0.177021556052132
+firebird.marine.crumble,Lakeside Estates Community,5.703135,-0.121058
+firepower.fixated.daring,School junction,5.675506520402937,-0.290089299759859
+firmer.exclusive.irritable,Highways,5.685813799889116,-0.139744069604399
+firms.downfield.nodded,Ashongman Last Stop,5.704285,-0.229388
+fizzle.flotation.skimmers,Kofi Annan,5.571020485690346,-0.117108193602503
+fizzle.held.frightens,Westland Police Station,5.656753388257061,-0.20780967737245
+flamenco.morphing.equal,Salem Junction,5.550614815225318,-0.18441816532881
+flattens.motivate.entertainer,Heavenly Church,5.627128194562458,-0.285609737554837
+flickers.ridge.fists,Las Palmas,5.60684974766563,-0.248823961989329
+flitting.phones.teachers,Ashiaman,5.686637,-0.031833
+flocking.corded.steam,Presby Church,5.643666,-4.7e-5
+fluffed.bookmark.line,Ashongman,5.702323,-0.235569
+flush.congested.aspect,Abrantie Spot,5.605184920013922,-0.252149270633696
+flushed.extremely.supporter,Abeka Lapaz,5.60642,-0.249779
+flute.voice.lakeside,Ayawaso,5.678366342863216,-0.287338694272949
+flutters.tenderloins.shimmy,Odumase basic school,5.844986704995648,-0.042127563288001
+foiled.ordinary.equipping,Olebu junction,5.645107496409352,-0.310282320805169
+folds.lend.dorms,Lebanon,5.704397194979702,-0.043919398138458
+footpath.spades.stylist,Point 4,5.595491138425912,-0.242586481514275
+forecast.limitless.tailing,Bridge,5.544108149442847,-0.247710186707795
+forecast.pianists.locate,Asori Junction,5.681044988097629,-0.231865241800187
+forkful.freshen.damage,Tuba Junction,5.546908819962527,-0.382339350445397
+formally.jumped.crumple,Canada,5.656368064528016,-0.303755558721686
+formation.starting.joys,Sowutuom,5.624818,-0.283464
+forms.cactus.homecare,Madina Market Station,5.677987,-0.172108
+fortress.sober.widen,Go Oil Madina,5.676793,-0.173748
+fortunate.disposing.sifts,Goil,5.741336089118591,-0.197087185868327
+fortunes.butternut.fats,Community 11 Apostolic church,5.668080437789657,-0.018560415839851
+framework.perused.nametag,Alhaji Market,5.62811,-0.261653
+freeform.heroism.invalidity,Teiman Junction,5.751149410607126,-0.184021263517105
+frightens.tablets.spray,Lantemami,5.526571,-0.245834
+frowns.innovate.activates,Opebea,5.598055529476191,-0.179288290449871
+fund.rural.builds,Opebea,5.59810446655692,-0.179448926595109
+gender.adding.unsigned,Rana motors head office,5.559582431339524,-0.223511411112336
+giants.clutches.kiosk,Whitehouse,5.527702584871104,-0.235515708127194
+giants.released.thickened,Toolbooth,5.634776351194629,-0.143966690150684
+gift.asked.risky,Abokobi,5.730608,-0.204303
+giggles.dugouts.tour,May3 Hot,5.684395520471056,-0.160480763284708
+glad.sleep.outhouse,Mamprobi,5.530966,-0.250236
+gloom.camped.lamplight,Dela Junction,5.611862,-0.279744
+glorified.range.penned,Lighthouse,5.698524015491422,-0.111899679928917
+gobbling.master.cobbled,Gas,5.74384103168623,-0.351215403243532
+goggle.slab.stood,Adodo,5.589020099327536,-0.236295376653675
+goggles.choppers.powder,Ashiaman Traffic,5.687937,-0.030453
+gone.stuffing.dabbling,Paradise,5.635252366432567,-0.328344851401399
+good.flush.bucket,ABC,5.716439757775056,-0.171808402798744
+gossiped.scare.owner,Pipe,5.735404888005404,-0.205004963937691
+graduated.basically.search,Westland Junction,5.650104856360471,-0.209856370576768
+gravest.zoom.barrel,Roundabout,5.62438717891167,-0.17269079099122
+grazes.terminal.willpower,Pipe naa bus stop,5.536732524352014,-0.238303843754409
+grinders.beads.flipping,Jesus and Mary,5.630601481299379,-0.246449080937625
+grips.spires.tower,Ofankor Market,5.65831594062856,-0.275678774774624
+grips.swooning.fixture,Dome Ashongman,5.702294477410448,-0.23560581297176
+groomed.quail.brochure,Spanner,5.620672261313502,-0.176240256705044
+grow.animates.grumbles,Law court,5.547704453530166,-0.198647367208676
+grumbles.knots.seats,Shell,5.673352573524654,-0.292065992417722
+grunt.sober.eyebrows,Polyclinic,5.557244055014614,-0.164508532815943
+guidebook.linked.react,Community 1 (Tema Casino),5.645025,0.001707
+guides.decorated.showcase,Second Power,5.657823723255861,-0.278085658998934
+hacking.hips.afraid,Downtown,5.700017708390878,-0.206517793853992
+hamsters.assembles.scooters,Round about,5.562547959569704,-0.228536883491941
+handbook.marine.informal,ABC,5.716497,-0.172084
+handicaps.bandaged.shuttered,Awudome,5.565493893402703,-0.225346575261547
+handyman.trial.onwards,Hospital,5.627469037403475,-0.219154752450834
+hardened.autofocus.pink,Sota Noble junction,5.853353,-0.071746
+harp.juggle.chairing,Zelicious cafe,5.645750121988914,-0.139405108774246
+hasten.upstairs.skyrocket,Curve,5.629352637546104,-0.220136741981152
+haunt.shook.propose,Aplaku Old Barrier,5.550624,-0.329272
+havens.ushering.sticky,Brigade,5.540942787491624,-0.394770016990803
+headers.milk.importing,Lapaz Market,5.608171,-0.24505
+headlight.collects.trousers,Mallam Junction,5.570576884863412,-0.284730413541467
+headlight.heaps.hoarding,Kasoa,5.533758,-0.425261
+headliner.wept.promises,Abatoir,5.665479687845351,-0.063551596787835
+headstone.inflation.fund,Curve,5.673720555517026,-0.044371252506795
+healers.cabinets.dislodge,Traffic,5.688012197400274,-0.030364305630445
+healers.reshaping.hopping,American House,5.648794,-0.149791
+heaven.speaking.bond,Nima Gutter,5.588387455828602,-0.196568321508228
+heaven.withdraws.shelved,New Tema,5.548862,-0.200021
+helm.oxidation.salsa,ACP Junction,5.684241431649617,-0.277786716955906
+herds.flags.mural,Vodafone First Gate,5.716787485242207,-0.177579498883873
+hers.squashes.testing,Block factory,5.632279897685872,-0.3244750564813
+highlight.starred.overture,Neoplan,5.568954808552744,-0.218422711562746
+hillsides.archive.logbook,Round about,5.562361461078077,-0.228556777497481
+himself.songbook.crystals,Santa Maria,5.605959,-0.275432
+history.treat.microfilm,Medie,5.760939947912755,-0.325701596038242
+hobbit.songs.surnames,Galele,5.623451,-0.302735
+hobbyists.orbit.audio,Assemblies,5.691103884901306,-0.171653315183925
+holiday.herb.parading,Glefe,5.521776,-0.273759
+homecare.drums.encoder,Airport Residential,5.61642871996751,-0.182659069737587
+homing.clashing.tinted,Datus,5.582017678099021,-0.242717616389107
+horizons.custodian.cashiers,M&D Hospital,5.755482838941402,-0.334160913351438
+hothouse.history.flying,Ashongman Neb Pharmacy,5.695096248187277,-0.235477279200634
+hotspots.hotel.wished,Weija traffic,5.556273194051666,-0.302258616416847
+household.resolved.marinated,Botwe Old Town,5.683621,-0.133713
+hunches.wired.ember,UTC Bus stop,5.537936135205332,-0.218021366575378
+hung.majoring.grand,American House,5.648244,-0.150582
+ideal.sharp.refusals,St. John's,5.639293037592047,-0.242565582851978
+illiteracy.honed.cruciate,Kasoa Overhead,5.53517,-0.421249
+imported.reinforce.crescendo,Odumase junction,5.663475108185724,-0.30003139777126
+imprinted.truffles.known,Nungua Barrier,5.614308489250048,-0.07360761059978
+impulse.scorched.machine,First light,5.569573660054289,-0.243249502884466
+inaccurately.simulations.occasions,Downtown City,5.744534,-0.07978
+include.resolves.charmingly,Mambo,5.631112889916298,-0.285165633792062
+incorrectly.tinsel.tabbed,Vulcanizer,5.622318174408683,-0.02181279316379
+indeed.mirroring.instance,Tuba Junction,5.546776013435143,-0.382254091497894
+indicate.willing.static,Korle lagoon,5.531350574991062,-0.219383620988503
+inferior.armrest.bandwagon,Nima,5.580088,-0.197811
+inflates.anyway.slimmer,Community 9 bus stop,5.678590687822406,-0.012065064438364
+inkjet.jelly.formation,Abehenease,5.698982968923003,-0.312286648349613
+inserting.legs.dummy,Aggie's Spot,5.700044185666469,-0.237945443347826
+intent.landlords.troubled,Roxy,5.55770443887731,-0.212353302999223
+interview.cookers.applied,Awotse Kojo,5.534810525387283,-0.232810390719797
+interview.hungry.propelled,3rd junction,5.694984039876285,-0.130448199856645
+invariants.drips.telecoms,Cocobod bus stop,5.619707485354858,-0.022486430299132
+ironclad.adjust.thatched,Promised Land,5.701012292867373,-0.059570716018843
+irritated.coins.scrub,Anyaa market,5.598639622583165,-0.290779081252263
+isolating.hello.bearable,Atomic,5.527412,-0.266253
+jaws.quicksand.excusing,UPS,5.660302356953924,-0.17858148652366
+jeering.ogre.able,Sankara,5.572500234087921,-0.190748767552123
+jetting.coasters.loose,Nima First Traffic,5.581870511357427,-0.194729521438885
+jousting.munch.implore,Madina Market Station,5.678742,-0.170724
+joys.stamp.tornado,Barnyard,5.584992613997851,-0.275177979713366
+jubilant.years.alarm,International Central Gospel Church,5.701172367394718,-0.083850777472462
+juggled.origins.grid,Ashalaja,5.66349,-0.366387
+juggler.taskbar.scramble,Melcom,5.686828093040864,-0.115690816642302
+junction.reflector.blacken,Total bus stop,5.559013290662937,-0.230704130697716
+just.scanty.inspects,Community 9 Total,5.682077812613004,-0.013565994460207
+kickers.digestion.price,ACP junction,5.68419438143381,-0.278051168078123
+kilter.boulevard.laying,Sweden Ghana Medical Center,5.721229,-0.108114
+kingdoms.outdone.viable,Nanakrom Estates,5.708502984490065,-0.109336274144861
+kneeled.older.dumplings,Titanic beach,5.61095952122476,-0.04751968670156
+knitted.trash.latitudes,Oyarifa bus stop,5.744538212760971,-0.17711621182106
+lake.charcoal.certainly,Kwashieman,5.592930694510164,-0.267644475624818
+lakeside.directs.empires,Chop bar,5.709392417233555,-0.301757205057034
+landmark.amicably.oiled,Hampstead Academy School,5.528792665427174,-0.230270605382243
+language.slowly.throat,White cross,5.553275730785501,-0.319776624989758
+laser.rationing.sailed,New Tema,5.549041,-0.200906
+later.dignify.sands,Mallam Junction,5.569542,-0.285859
+later.inspects.middle,Madina Zongo Junction,5.677349,-0.173541
+later.voter.puncture,Tema station,5.548105195560987,-0.201563973378293
+latter.unspoiled.everyone,Ashaiman station,5.686079,-0.032523
+laundering.outs.learned,Dodowa Junction,5.878184304514693,-0.100639879387843
+layouts.tumblers.sandstorm,School junction,5.711758839206701,-0.048908125112353
+lazy.puts.prouder,Shell filling station,5.690509386513829,-0.252056918550997
+leaps.swerving.garlic,Bridge,5.526297067796516,-0.249478215514201
+learns.irritable.pegged,Maloka Market No 2,5.549906,-0.216387
+learns.modem.hooked,Dome Filling Station,5.654426734584392,-0.237326221823946
+legroom.builders.notifying,Legon 1st,5.649269279977631,-0.179658367329072
+lemmings.thumbnail.flow,Ablekuma Curve,5.627405,-0.312485
+letters.destroyer.blunders,Hong kong,5.601296295540955,-0.261014472382208
+liberated.keepers.stumpy,Tabora Number 5,5.610411099277131,-0.261217990387578
+liberty.gullible.hands,Atomic Police Station,5.667672821579446,-0.231936373110643
+limit.little.dozens,Flat top,5.609514336684202,-0.238068207856426
+limits.trek.shelters,Las Palmas,5.606947,-0.248879
+limo.wildfires.student,205,5.531952,-0.253792
+lined.pianists.cherish,Galilee,5.527132587278157,-0.239112457033591
+lines.outcasts.outsize,Accra Bishop,5.543247,-0.204497
+lingering.implanted.chapels,Achimota Overhead,5.61968450250798,-0.230293782314299
+lions.scoping.diplomas,Kings Way,5.550016,-0.210493
+little.hunt.limelight,Madina Market Station,5.675959,-0.170401
+loaning.ramp.loosed,Makarantta,5.679932550696575,-0.160486257297562
+lobby.streak.movements,Saw mill,5.738068414877807,-0.201452391437302
+loitering.filed.plugged,Achimota overhead,5.613428349951667,-0.224694451926432
+longer.results.remotest,St Mary Inernational School,5.68891,-0.033556
+looked.costly.baseline,Tea Garden,5.526922745150679,-0.241749461366758
+loses.amaze.continues,West Legon Community Pharmacy,5.660500496309444,-0.206061636444408
+loss.surviving.surveyors,White cross,5.553417325432275,-0.31978067544788
+lottery.stones.costumed,School junction,5.675316095102537,-0.289772889487961
+louder.flexibly.indicate,Nungua,5.602165,-0.079049
+lovely.clip.distorts,American House,5.649102341001386,-0.150427130013204
+loves.diver.clocking,Yellow house,5.524383360251156,-0.271846164364836
+lows.shun.hopeless,Abodwe,5.533260101273148,-0.242717965405598
+luggage.frown.suddenly,Ayeley,5.659422330934285,-0.163395698278705
+lyricism.restored.sing,Circle Station,5.570388,-0.215859
+machinery.strapping.buildings,Ablekuma Curve,5.627876,-0.312321
+madder.mango.lions,Odorkor,5.580917,-0.263456
+mailing.rentals.handicaps,Bossu Junction,5.684354705311199,-0.331920243971652
+making.skippers.switched,Container,5.738557719416211,-0.314861201238722
+managers.stance.scratches,Africa,5.61270413167747,-0.275454755788708
+manual.alarming.limits,Tabora Number 6,5.612399841235176,-0.261053247675763
+many.outnumber.plan,ICGC hallel temple,5.540482647576005,-0.259286242091552
+marinated.loafer.wants,Mambo,5.600357855094283,-0.255300053762056
+marinated.refutes.freshen,Macedonia junction,5.729909562041699,-0.312461540845159
+mash.daily.convey,Pantang Junction,5.71871,-0.172523
+massaging.boldest.adopting,kpobiman,5.734852633446876,-0.313797544344732
+mastering.penned.remove,Tantra Fuel Station,5.645556585470616,-0.247146545852426
+mealtimes.examples.battle,Kasoa,5.533546,-0.424064
+meanders.originate.slug,Anyaa Last stop,5.607680308763926,-0.296712879516688
+megastore.stricter.dietary,Homeopathic Last Stop,5.551705026455787,-0.419592458819379
+merely.causes.acre,Accra digital center,5.567229140545044,-0.223062916628742
+merge.seabirds.branded,Amasaman Police Station,5.706324,-0.301971
+mess.trip.swoop,Dagadu Junction,5.685862675763182,-0.142518955516207
+middle.comforted.united,Opeibea,5.599706938518744,-0.178899532212511
+midwinter.salt.packets,Shalom bus stop,5.527760398902778,-0.235219908054199
+mild.choice.spud,American House,5.648697,-0.150287
+milky.umpires.searcher,Saw mill,5.746742388366891,-0.346974620731718
+miracle.sprinkler.blossom,Olebu junction,5.645146446115481,-0.310434742958472
+mirroring.blackouts.aware,Madina Market Station,5.676762,-0.172146
+misted.bookshelf.endearing,My bet Africa,5.634085345196954,-0.013979203952319
+misted.pizzas.shuttling,School Bus Junction,5.676984,-0.125221
+misuse.superfoods.nibbles,Peduase,5.807063913418853,-0.181243109331222
+mondays.dentistry.soils,Polyclinic,5.557400742027544,-0.164630515465122
+moneymaking.goofiness.chum,Christ Apostolic Church,5.9111317,-0.1429936
+monkeys.unsettled.clubbing,St Johns,5.640276308696972,-0.243381246751479
+motivate.cookie.however,Tabora Number 4,5.608650098528333,-0.260143300612252
+motive.monopoly.incisions,Circle Station,5.569358071197033,-0.216723335505728
+mount.upwardly.outnumber,Overhead,5.560607227292474,-0.229669958097528
+movement.stupidly.qualifier,Airport Second,5.604673713603095,-0.177804645146623
+muddy.scanty.cookery,Agorwu,5.684068,-0.136369
+mugs.alcove.fillings,Green House,5.658353,-0.132348
+multiples.enacted.erupts,Toll booth,5.63459659997551,-0.143878254196197
+munch.squirted.fevered,Water works,5.579806890173945,-0.277873793778676
+mural.carbonate.rescuer,Oduma Junction,5.64048593808566,-0.334394893427339
+mushroom.perky.coping,Auntie Aku Junction,5.608009126996294,-0.274619653033859
+mutant.proficiently.pageants,First gate,5.896305942748702,-0.150047176184187
+mystified.walks.fish,Melcom,5.636740364206419,-0.311181270333933
+nametag.pancake.painters,Dansoman junction,5.574877458084644,-0.252079464554063
+nature.disbanded.port,Atomic First,5.665363995311163,-0.177283462268546
+neckline.affords.suddenly,Achimota,5.620652062026441,-0.225034663005779
+newsprint.acre.automate,Abrantie Spot,5.605423659575682,-0.252171435713665
+nibbled.chatting.chromatic,Paul junction,5.729947354888269,-0.206815243694394
+nickname.propelled.overgrown,Adenta Barrier,5.705999339431856,-0.171141198358699
+nicknames.revisits.sprint,Kwashieman,5.592851948614759,-0.267510155223392
+nightcap.front.critic,Lapaz Market,5.608145734381641,-0.244422003119601
+nips.blanket.unopposed,Amasaman,5.705436,-0.298399
+nods.vast.uplifting,Amasaman,5.705647580514275,-0.298122397829085
+nougat.fishes.hugs,Kasoa Main Terminal,5.534525,-0.423625
+nourished.sprawls.preparing,Pokoasi,5.686072231954936,-0.280937105965731
+novels.notion.fighters,Gate,5.692657874834209,-0.108245062578914
+november.inherits.gearing,John Teye,5.669206573225692,-0.270864377809138
+nuggets.vans.direction,Alaska,5.586512570154774,-0.197102576547108
+numbingly.embryo.workshop,Goil Dodowa,5.887313,-0.090867
+nutrients.heartburn.unguarded,Fire service,5.532083367842532,-0.216754768789919
+obeyed.yesterday.cinemas,Voltic,5.758656505278576,-0.329499245645109
+objective.vegetable.glides,Sarpeiman,5.725606477263497,-0.311312843111653
+obstinate.proofs.inflamed,Okponglo,5.639969298653277,-0.178074065153813
+obstinate.subsystem.ladder,Block Factory,5.640588613125229,-0.277744034374737
+obstruct.fairly.hiked,Borkorborkor,5.628434895288775,-0.318729980550699
+officers.boat.hurtles,Salaga Market,5.540455,-0.209085
+orbit.years.imprints,Ofankor Barrier,5.657952735136192,-0.265297377511664
+output.reported.originals,Community 11 Shell,5.668829910575026,-0.018853156539954
+overdone.crunchy.poems,Rawlings Park,5.544556,-0.209672
+overjoyed.dads.pokers,Lotto house,5.532445925055229,-0.251268364335485
+overture.jokers.tailed,Goil filling station,5.550038253595324,-0.353911589452534
+owes.trespass.huddling,Christian Village junction,5.635378237828294,-0.21468235531724
+packing.headers.brotherly,Police Station,5.652214022440937,-0.305715355642444
+paddocks.fillings.jolly,Circle Vodafone,5.571944,-0.216052
+page.chopper.rigs,Paladium,5.540407258719772,-0.216654030276292
+painting.proves.speedily,Merry Journey School,5.642587061224589,-0.160687801985361
+panicking.blotting.member,Santa Maria Blue Kiosk,5.59900980421771,-0.272426392057228
+paraphrase.terriers.dishwashing,Atadeka station,5.728632327101013,-0.062247410061162
+park.swinging.chestnuts,Tema General Hospital junction,5.675408919867971,-0.021488490147535
+parsnips.hotspot.windows,STC Driving school,5.565384736731466,-0.225295204652
+partied.sings.looms,Accra Tudu,5.54993,-0.206717
+passport.warbler.stability,Pitoo Junction,5.67092809757445,-0.327227487719214
+pastime.drain.stolen,ABC,5.628926692222349,-0.236529724218896
+path.tomb.mermaids,Eno,5.602906218725022,-0.242231102388339
+patrol.springing.sanded,Dome Market,5.643469,-0.235329
+pausing.airfields.anchorman,Atomic First,5.665404266410535,-0.177398251189797
+pavement.prominent.distanced,Benab First Junction,5.697704567256303,-0.236796166230546
+peach.surprise.crumb,Vulcanizer,5.74511020029512,-0.192033749342462
+pebble.surveyors.conducted,Chop bar,5.709499628008294,-0.301646613210688
+pedicure.systems.known,Go Oil Madina,5.675893,-0.173741
+pelted.height.stoops,Ashiaman,5.686044,-0.032567
+perfected.thorax.revised,Washing Bay,5.684351980213285,-0.051608260633485
+perform.clocking.thundered,Community 8 bus stop,5.673248424141245,-0.009879635244909
+perfumed.drill.clearcut,Community 4,5.66313803816151,-0.005355834210104
+perused.monks.playful,Abratiye,5.588646015835895,-0.28217691413238
+pesky.dial.wardrobe,Haatso,5.667165,-0.20471
+pheasants.swanky.acclaim,Graphic,5.555522922748803,-0.219303994957249
+photocopy.deprive.safety,Kontunse,5.741651591874723,-0.316057483280867
+picked.shampoos.confronts,Kasoa Amanfrom,5.535651606058458,-0.411779602283131
+piglets.deal.leopard,Flat top,5.60925053613837,-0.237959180751649
+pigs.certainty.walls,Church junction,5.650274074647493,-0.104954623401459
+pinging.blitz.bumping,Korle Bu,5.535318,-0.230384
+pining.january.shrug,Papillon bus stop,5.54702623239432,-0.239736106091869
+pipes.strapped.overt,Regent University,5.557828432860573,-0.297868902434129
+pirate.ramp.presumes,Asore down bus stop,5.561036815573815,-0.238897049845723
+pits.furnish.unloading,Bob cedi,5.628455592668178,-0.015399660643751
+play.rising.worksheet,Regent University,5.557968,-0.297929
+players.respects.stammer,Kaneshie Market,5.566231,-0.235376
+pleaser.includes.unroll,Mannet,5.641165360538075,-0.128107016539075
+plodding.guess.policy,Odumase junction,5.663664716392073,-0.300306381577464
+poem.flexed.storyline,Ambassador Word Church,5.545168373605515,-0.325749436412306
+pokers.fancy.emulated,Agbogba junction,5.723561044984251,-0.203528716827647
+pokes.retained.credited,Abeneke,5.755012543729856,-0.334828208031125
+policy.diamonds.treatment,New Tema,5.548761999977297,-0.201913999947352
+policy.overt.graced,KFC Kwashieman,5.592584881471439,-0.268424698639312
+political.erupt.earth,Atomic First,5.665591334585321,-0.177636435545173
+poorly.crawler.willpower,Agya Herbal,5.672530412694529,-0.271956365828669
+popular.awoke.energetic,Under bridge,5.674634544105245,-0.043967862493207
+poses.alright.conga,Ravico main junction,5.610345986800276,-0.075516026597225
+positions.mandates.sensible,Samsam Junction,5.754761646232231,-0.322018471284171
+positive.staple.apart,Arena,5.54500414146929,-0.21672753672487
+postings.pure.puppy,Darkuman Junction,5.576366884090211,-0.254281314155777
+potential.blanks.capers,Flat top,5.609146165655448,-0.237410972212308
+pram.dividers.replace,Accra Digital Center,5.567315899759242,-0.22312717058973
+pranced.unscathed.blitz,Military Hospital 37,5.587717317008584,-0.182986629257292
+precautions.ballparks.going,Airport Junction,5.622192860282974,-0.179631562779679
+precluded.crowned.trainers,Kaneshie Market,5.56473,-0.236744
+prefer.starlight.wake,Second traffic,5.67035535200876,-0.019454715526933
+prelude.builders.activates,Star Junction,5.622338241925315,-0.261635117004708
+premature.cringe.nearing,Ashongman,5.703343,-0.21038
+presume.vocals.existence,Glory Land junction,5.578235132190938,-0.257657279593936
+printouts.awkward.revision,Pantang Hospital,5.713283,-0.186887
+professes.ditched.digestion,NAGRAT,5.633529461248298,-0.233150350898065
+professor.buzzed.exorbitant,Kasoa Main Terminal,5.534531,-0.423589
+promises.stops.pheasants,Ecobank,5.56993823718618,-0.285742770509428
+prongs.brambles.liquid,Spot M,5.653088984985746,-0.258777941269884
+proposals.yards.stormed,Klagon Police Station,5.659985146522159,-0.051649908707301
+protect.washable.noon,Community 18,5.660440157361059,-0.076109327643004
+protected.variances.sugars,Asofan Old Station,5.654019,-0.285897
+protests.fattening.agreed,Pokoasi,5.687331191971881,-0.281489657204643
+prude.shifters.unzipped,Oduma Park,5.643670786078703,-0.32903252310573
+punctual.trams.scatters,Fried Rice Junction,5.64984527322521,-0.273456184345506
+punctuate.overgrown.clash,Atomic,5.66773,-0.2386
+puncture.reprints.cowboy,Dansoman Roundabout,5.557541625353079,-0.264886668401755
+pure.tint.crumple,Post office bus stop,5.541728,-0.209138
+purse.segmented.plant,Libya Quarters,5.677282,-0.181358
+pushover.dragging.stick,Odorkor Busia,5.579077668898991,-0.267384626161842
+radiating.kilts.cackling,Ridge bus stop,5.562081786657299,-0.195731964843311
+rags.wage.connects,Nima Police station,5.573097690943849,-0.201490239728143
+ramp.contoured.reclusive,Ritz Junction,5.685388846819013,-0.171293920761179
+rang.total.lifeguard,Pokoasi,5.686607904599303,-0.280999781148719
+ranks.thereabouts.planned,Kasoa Overhead,5.535174,-0.421228
+rationed.encoded.comment,Ablekuma Curve,5.627799740086493,-0.312315195405749
+rationing.pitch.vote,Exhibition bus stop,5.537318,-0.264359
+react.relate.treatable,American House,5.649109156432138,-0.150335471918427
+reacting.vibe.operating,Samsam Junction,5.754801489177442,-0.321862651564477
+readily.nets.something,Kaneshie Market,5.565964,-0.234937
+receive.roofer.baguette,Kasoa Amanfrom,5.535485,-0.411779
+reconciled.diesel.inched,Methodist JHS,5.9474235,-0.1061978
+recount.careless.pinging,Ashiaman,5.687233,-0.032456
+redefined.copycat.guess,Achimota Retail Centre,5.637188705308238,-0.241768135058229
+regard.output.glorified,Pito Junction,5.673518242856781,-0.327879281135204
+remain.hexes.emblem,De Mod,5.588791647714133,-0.240669879349727
+remaking.faster.reap,Station,5.6294068,-0.0134926
+remarks.refills.kinks,Shangrila,5.616267339681183,-0.176071842789649
+removals.nasal.pelted,Ware house,5.717783126458607,-0.200538827460951
+remover.durations.whimpered,Waterworks,5.583362440985124,-0.185125070565841
+repelled.shampoos.impressed,Agbogbloshi Agege,5.551811440607907,-0.220223950200714
+rephrase.shudders.soonest,Pamprom,5.563090337875058,-0.232228994813796
+replenish.sized.secretly,Abokobi,5.730557,-0.204968
+reporters.craziest.business,Go Oil Madina,5.67578188967796,-0.173671731479409
+reputable.alarming.sorry,Hong Kong,5.601225779634502,-0.260893866737092
+require.cycle.meaty,Otano,5.655394442121345,-0.130930842124466
+reservoir.stint.riverbank,Labadi beach,5.564555009097452,-0.137967514635482
+resettle.solves.souk,Kaysens Gas,5.642488251502615,-0.06048632098572
+resist.ranked.recording,Mensah Addo,5.633046257425022,-0.283794604560244
+resolves.fend.unfit,Airways,5.638151504660161,-0.211025858705648
+resonates.servants.miracles,Achimota,5.621394,-0.226326
+reverses.corner.loss,Go Oil Madina,5.675795553540135,-0.173770840320913
+reverses.loopholes.fetching,Gulf Park,5.631005569899342,-0.218809313611581
+reverted.crumble.strict,Soko,5.545217,-0.252338
+revives.movie.daydreams,Ayawaso,5.676726707671203,-0.288638152994612
+revolting.cushy.grad,Amasaman,5.706062989467988,-0.299083280339027
+rhino.overture.shut,Odorkor Busia,5.579125383181412,-0.267643626964982
+rhino.whistle.animate,Rush,5.747889545223503,-0.345359441221821
+ribcage.engineers.outsiders,Rawlings Park,5.545566,-0.206645
+ridiculed.matchbox.pirates,JASCOS Pharmacy,5.685719403808301,-0.245446279592977
+rifled.ratio.allowable,Zenith Bank,5.574915944747337,-0.276904319697084
+rift.reflector.snuck,Domeabra junction,5.612359690940068,-0.408941442114012
+riots.editor.diverting,CP Junction,5.615138937244989,-0.212312825095059
+roadways.piglet.bagels,ICGC,5.659128339209732,-0.132424697555647
+robots.sprouts.manly,Numotse,5.642009447038379,-0.338942354709262
+roost.stew.handfuls,Naskina Park,5.653473438689301,-0.32617186220975
+roosters.bags.clutches,Brigade,5.540805311713028,-0.394761121424769
+rooting.deodorant.sober,Fire service,5.531985565772283,-0.216729956934658
+roughness.angers.author,Satellite,5.74592,-0.318494
+roundabouts.ballad.popularly,First Stop,5.787380543042219,-0.183712207522229
+rounds.label.materials,Sakaman Junction,5.555787,-0.304071
+royally.uncle.guard,Kokrobite Junction,5.498564,-0.367102
+rubble.card.stalemate,Circle Station,5.56922,-0.216693
+ruling.moons.gratitude,UTC Bus stop,5.53802881832486,-0.218067557577768
+rungs.ladder.overcomes,University of Ghana Medical Center,5.667340405771196,-0.182443074821184
+runways.imparting.stew,Rawlings Park,5.546243,-0.206797
+rural.lands.branching,Alomo junction,5.52676535050947,-0.243826528122868
+rush.lottery.entrusted,Circle Station,5.569753,-0.217395
+rushed.objecting.ringers,Circle Vodafone,5.571802,-0.2161
+rust.term.vesting,Atta Mills Junction,5.658914367288538,-0.270216964784046
+sage.ruin.tripods,Abeka Junction,5.598609464173558,-0.223758388706445
+sage.static.embraced,Sava oil,5.655937630167029,-0.339671714852601
+salads.repayment.tramps,Total Fuel Station 37 Road,5.591189491276052,-0.180857133647817
+same.rooms.interrupt,Dzorwulu Jinction,5.61826271970697,-0.191143854762587
+scariest.lightly.money,Achimota Retail Centre,5.637328949502259,-0.241512036964797
+scatters.phantom.vessel,Nima,5.582267,-0.19933
+scooters.dislodge.clauses,Ecobog,5.680002277227456,-0.201939397919418
+scorched.vanish.renamed,Labadi beach,5.564751174955221,-0.138047261243279
+scratches.held.advances,Ideal College,5.658665084514861,-0.169150863294095
+scribble.vows.rejoined,Academy Junction,5.570987001660955,-0.245601608156344
+scripted.cassettes.forensic,Sakaman junction,5.555634809859275,-0.304089035009716
+scrolled.compacts.erase,Anyaa Market,5.60266525507961,-0.293230963329237
+seabirds.pure.juggles,Tantra Fuel Station,5.645687185671585,-0.24701537122199901
+seagull.lectured.exams,Atomic Second,5.667798330104249,-0.176871988598114
+seahorses.sieve.basking,Zenu,5.721323364493085,-0.054753013775836
+second.brambles.famous,Kpogas,5.57973525277705,-0.260154052820613
+secretly.parsnip.refuses,Evangelical Lutheran School,5.668665210393955,-0.159911835362031
+securing.cushy.shopper,Abatoir,5.665656873964766,-0.063648979170281
+seeing.confronts.atlas,Aplaku mosque bus stop,5.527358460899649,-0.325542326849134
+segmented.fended.glow,Borla Junction,5.642035500295797,-0.276310731946363
+self.digesting.joke,First gate,5.667592761558698,-0.220791560532559
+sensation.cornfields.magazine,Odumase,5.84898194290265,-0.047548676375978
+sensibly.blazed.revival,NIC,5.613396085883029,-0.296520926222537
+shadowing.ditching.symphonic,Puma Fuel Station,5.729175328992482,-0.173848838344708
+shape.repaying.hotel,Pentecost Junction,5.625691200340633,-0.306675100555679
+sharpens.broad.shocked,Legon 1st,5.649236573852013,-0.180005934049532
+shedding.trucks.flowchart,Total filling station,5.938817723065594,-0.115736493823386
+sheds.butlers.hinted,Galiliea Market,5.53851982123928,-0.400112954040895
+sheds.darkens.knitted,Togo store bus stop,5.509722519172792,-0.336213215067675
+shelf.eyepieces.september,CP Junction,5.615609688490753,-0.212381727004243
+shepherdess.viewer.radiated,KFC,5.6401095325812,-0.169432654470252
+shiny.conveying.jeeps,Kofi Annang,5.571319530289673,-0.116927737191707
+shock.evolves.scariest,Manhean Junction,5.643043,-0.343124
+showrooms.crank.streetcar,JASCOS Pharmacy,5.685800577797964,-0.245193731141418
+shredding.disprove.unhelpful,ACP junction total,5.688852295928498,-0.266369767644302
+shrug.bumpy.workloads,ADDPharma Retail,5.590545020426914,-0.230454805939573
+shun.monday.searching,Tema Harbour,5.644676,0.016513
+shuttling.joyously.budget,Total bus stop,5.558988807267529,-0.230603764198993
+sifts.linguists.surnames,St. John's,5.638727,-0.242385
+signed.dares.switched,UPS,5.659795664338225,-0.166480512239968
+simulations.lecturers.aims,Rafic,5.745439201375578,-0.348891968891536
+situated.bumping.nags,Korle gonno,5.529454154306245,-0.227092278990956
+skate.artichoke.skinny,School junction,5.641217394804441,-0.346674800776832
+skill.appealing.emporium,Lotto house,5.532450140661705,-0.251268048164999
+skims.foods.firewall,Adenta Barrier,5.706005132306721,-0.171517725817114
+skunks.plodding.servicing,Abeka Lapaz,5.606564,-0.249742
+slang.groups.motorist,Accra Post Office,5.541499,-0.209198
+sleepless.artist.clogging,Curve,5.673723210247321,-0.044121894290783
+slides.flock.crabmeat,Dam,5.699064,-0.115978
+slime.melon.shifters,UPS,5.660280083998205,-0.17841613126181
+slimmer.highs.hypocrite,Alamo,5.588206350816375,-0.217701102296673
+slimy.regaining.convinced,Fusi,5.698250279109264,-0.292125531068029
+slippery.taller.agents,Community 4,5.663163951952826,-0.00524066180426
+slogans.assurance.also,Melcom,5.688749678396741,-0.23199580170271
+slouched.moods.bills,Bortianor,5.547905096107096,-0.348575199426784
+slugs.lyricism.fake,Emmanet Real Estate,5.697601424787467,-0.014708897112833
+smarting.tacky.trade,Atomic Second,5.66842222151774,-0.238900307186255
+smirking.firm.insist,Dome Old Station,5.650997847124725,-0.237251097004612
+snack.sobbed.skimmers,Aunty Aku,5.61269,-0.284825
+snacking.hissing.pies,Peace Village Lorry Station,5.663947,-0.337837
+snooty.target.twit,Ashiaman,5.686782,-0.031783
+snuggled.legs.warblers,Zongo junction bus stop,5.555898152215168,-0.240159574997704
+sobbed.shares.suspended,Community 11 Shell,5.668827852643918,-0.01885971619536
+socialite.reworked.storming,Spanner,5.620661853000816,-0.176381898432009
+songbird.slanting.salary,Community 4 bus stop,5.658031064102198,-0.003497933807228
+songs.listening.builder,American House,5.648578,-0.150364
+soups.prouder.severe,Akotolante,5.537312405438438,-0.212669489646855
+space.ideal.grove,Lotto Kiosk,5.692172410700668,-0.233776859706988
+spare.corporate.lobster,Accra Digital Center,5.567467460419826,-0.2232661631521
+sparks.balance.unclaimed,Tema General Hospital junction,5.675906748915726,-0.021449987708558
+spelled.corrupted.deflect,St Johns,5.640163749986211,-0.243653854308282
+spillage.dishing.ringside,Police Station,5.652343054970203,-0.306058690449336
+splice.crypt.sampled,Acobank,5.569853101131777,-0.285688790045632
+splits.snoring.digested,Lantemami,5.526618722334582,-0.245412427426332
+spoiled.exits.material,Circle Station,5.569194,-0.217598
+spoke.subplot.amps,Third gate bus stop,5.686071180888661,-0.152769706558954
+sports.jots.postage,CP Junction,5.615457444855174,-0.212342619565833
+spreading.incomes.cheek,19 Junction,5.650405777333993,-0.056513750716946
+spun.refining.late,Akropong,5.976941,-0.088551
+squashes.remember.outings,Aunty Aku School Junction,5.611640477941041,-0.284684279415531
+squeaking.surfed.factually,Dansoman junction,5.574968979014287,-0.251980334019033
+stability.students.snoring,Atomic Down,5.667658616378458,-0.238272840334062
+staining.tiles.eggs,Santana,5.526713937954629,-0.244366236714716
+stammer.sliders.palaces,Ablekuma Curve,5.627325,-0.31317
+stamp.thumps.resources,Agege bus stop,5.531765477427894,-0.25502139508117
+standard.tolls.germinate,jinsiba Washing Bay,5.713502394282282,-0.198282063065989
+standouts.lodge.outbuilding,Family General Hospital,5.724183008237428,-0.057621446024767
+starlight.solicitor.uniforms,Oyarifa,5.747230401422619,-0.180077500067096
+stars.sensual.snooping,Estate Junction,5.637346823192845,-0.062855040832657
+starters.writings.pianists,Adenta Taxi Rank,5.710678826912431,-0.171096602582252
+starting.drizzly.waggled,NULLAssemblies of God,5.72580539868812,-0.204706080457383
+station.towel.pump,Go Oil Madina,5.675804117357854,-0.173882240831787
+steady.chuck.parsnips,Counter,5.60593436583829,-0.077643645369175
+stealthier.dreams.doormat,Abodwese,5.656454311455222,-0.281842355866993
+steep.downsize.feasted,Abotare,5.605175633997813,-0.245420029902017
+steepest.rental.hacking,New Hawkers Market,5.685521,-0.033749
+stencil.afterglow.concerts,Our Lady of Mercy School (OLAM),5.650714843376782,-0.007972295979207
+stereos.bead.coaching,Kasoa,5.688512963182677,-0.283275598857139
+stick.vacancies.coder,Chemuenaa,5.526245908400778,-0.250203013769103
+sticking.ivory.punctured,Dome Market,5.642056,-0.238628
+sticky.dolly.crash,Accra Mall,5.623657,-0.174284
+sticky.nightfall.with,Anyaa last stop,5.607744399415941,-0.296547936933647
+stiff.lawmakers.unbelieving,Dodowa Junction,5.869345,-0.091597
+stilted.household.reach,Catholic church Teshie,5.586570427241384,-0.100672504303189
+sting.tonsils.cabs,Agya Herbal,5.672590526789351,-0.271731379883823
+stops.screen.skip,Korle lagoon,5.531275416749885,-0.219330624792801
+stowing.movement.equipping,American House,5.648103871769758,-0.150693536691109
+strained.uneducated.ticket,Dodowa Junction,5.878645,-0.107215
+strapped.supplied.chitchat,Foot Bridge,5.704313270169493,-0.171560963523986
+streaks.outraged.skewing,Emmanuel Junction,5.64613976089304,-0.328634162626388
+streamers.dispenser.breezes,Control,5.546571406797016,-0.264644499894925
+stretcher.blinks.dressings,Apostolic,5.586350515142228,-0.197148754673187
+stretcher.blunt.flipper,Tech junction,5.690053093624918,-0.260423133219117
+strictest.glitter.spouting,Pipe naa,5.554436199622167,-0.240168175644208
+strictly.mentioned.surging,Ofankor Barrier,5.658217,-0.266816
+strongly.chainsaw.flaking,Ecobank,5.569758855419869,-0.285565841044048
+structure.choppy.legwork,Nima,5.580663,-0.199153
+stunner.concerned.odds,Asore Junction,5.667547221902738,-0.214756411300852
+submerged.mouse.estuaries,High tension,5.688101314524094,-0.270826068880631
+subsystem.races.lordship,Traffic light,5.686056177422833,-0.147899748551335
+succeed.painters.removals,Achimota overhead,5.613282269535758,-0.224658680009287
+sudden.daydream.diverts,Agenda,5.639668832509248,-0.278854133621124
+summit.possible.amphibian,Block Factory,5.52012130440116,-0.328379997005818
+sunbeam.dribble.watched,Lapaz Community Hospital,5.608939676411651,-0.254038961888434
+sunbeam.fiction.koala,Ashiaman,5.6872,-0.032981
+sundresses.cabbies.oxen,Special ice,5.750305722941179,-0.177922051928457
+suppressant.starkest.greenness,Junction,5.946171481178697,-0.107779314569667
+surcharge.passages.beaters,Nungua Barrier,5.614412,-0.073706
+surgeon.dollars.unsurprised,Sota,5.863198421157153,-0.081874629649418
+swear.punctual.support,Nima First Traffic,5.581916438936517,-0.194799265648435
+sweetened.helpless.ships,Law court,5.547777829861783,-0.198679622055837
+sweetest.fries.cosmic,Kasoa Main Terminal,5.534183,-0.424018
+swimsuits.hails.searched,Agege,5.531749,-0.25513
+tabs.slip.posed,Kess Pharmacy,5.686644772532811,-0.184796475716538
+tangible.mallets.voted,Musuku junction,5.680934136944389,-0.243037917342301
+tariff.expendable.contested,Zenu,5.723556,-0.056917
+taster.boggles.limelight,Abrantie Spot,5.60532958788457,-0.252134459546314
+tasters.classics.hurricane,Trinity Technological Seminary,5.65199693753905,-0.169194978560638
+telephone.violin.plugs,Circle Station,5.570139,-0.216416
+tended.chewable.flushing,Action Chapel,5.767306194867596,-0.002154305512128
+tequila.drivers.blanking,Okponglo,5.641320810588031,-0.178130493386233
+thermally.finder.hood,Afienya,5.8009171,0.0058314
+thinnest.prowling.daytime,Hospital junction,5.564359124207237,-0.289214836189372
+threaded.normal.units,Ofankor Barrier Curve,5.657697,-0.267534
+threaten.urgent.sparkles,Lakeside Estates Community,5.703259,-0.12506
+thrones.destroyer.evoke,Akofena Palace,5.676790879660435,-0.238840377437724
+thudding.reviews.clays,Macedonia junction,5.729870808573591,-0.312596771478622
+thumbnail.spring.plodded,El Paso,5.647477,-8.44e-4
+ticking.snowballs.locator,Under Bridge Curve,5.675755501825698,-0.043421270073599
+tightest.booms.generals,Atomic Down,5.667733890168218,-0.238233546153817
+tilting.accented.factually,Tema Harbour,5.645066,0.015819
+tiny.iteration.nibbled,Prince Kay,5.668511037820117,-0.337040092398333
+tiredness.harps.tadpoles,Nsakina,5.673284982943801,-0.327736230107405
+tiredness.juror.pines,Community 9 Total,5.682160758088616,-0.013152463108894
+titles.ambushes.gives,Kpogas,5.579846928877716,-0.260099345927838
+tonal.passes.importers,Shell Fuel Station,5.685172,-0.033595
+tonality.shack.waggled,School Junction,5.701685315154359,-0.132564790321908
+tooth.engraving.reap,Dome market,5.643801492295495,-0.237845897939701
+topics.universe.avoiding,Korle Bu,5.5351,-0.231426
+tops.golden.sunroof,Accra Girls SHS,5.598124870815695,-0.194022567047484
+tortoises.branch.munch,Agric,5.699420786798878,-0.046670858766111
+tourist.glitter.booklets,Pacific Oil,5.683120778030555,-0.334035496879189
+toward.shifting.watchdogs,Top Hill,5.646524762223219,-0.275223396033221
+traders.writing.acrobatic,Manhean Junction,5.643444,-0.344397
+trades.discusses.replaces,Brigade,5.593950165940732,-0.088742092666893
+tradition.brave.hero,Police station,5.543631963253043,-0.264589368480307
+traffic.firewall.toward,Tabora Number 1,5.603691093796652,-0.257742986389889
+training.table.incurring,Akweteyman,5.610636775306332,-0.233506045035381
+tram.strictly.cigar,Abii national,5.589096551500182,-0.196366304660432
+trample.kickers.spaceship,John Teye,5.669180551981689,-0.27110273877391
+trams.coats.assembles,Chorkor Pharmacy,5.52685745057483,-0.242670341586811
+transfers.belts.fastening,Obeyeyie,5.681778,-0.336509
+trapdoor.pythons.typed,Military Hospital 37,5.587656515368463,-0.182850044174003
+trappings.whom.fight,SCC,5.547475731835624,-0.338690879039664
+trick.craziest.tiger,Shangrila,5.616268108451363,-0.175880807230091
+trick.health.finds,Tantra Fuel Station,5.645628920123209,-0.247099954435445
+trickles.dumpling.spending,Madina Market Station,5.67609,-0.171316
+trickles.passing.idea,Kpobiman,5.736736947510294,-0.314477127691612
+tricks.survey.showrooms,Agege,5.529049,-0.264372
+trike.debriefed.mousetraps,Kasoa Main Terminal,5.534189,-0.423977
+trump.composts.hormones,Shop,5.685916744257972,-0.146257347986308
+tucked.roadways.noticing,Sowutuom Chopbar,5.617361996557938,-0.276321612449292
+tunes.affirming.patching,Kingsway,5.553553873186703,-0.211114998708302
+tweeted.lengthen.pranced,ACP junction,5.684211532470473,-0.277541628218153
+twinge.incline.houseboat,Bamboi,5.53288319181071,-0.246181319085283
+twinkling.stuffing.searches,Tantra Fuel Station,5.645497476931411,-0.247240505892354
+twists.ironic.batches,CP Junction,5.615313923543884,-0.212301169609325
+twit.magnetic.trainer,Mobil,5.5838235,-0.1038529
+tycoons.removed.dolls,ICGC,5.652869873577056,-0.27139161151681
+types.submerge.term,Waterworks,5.583329871674541,-0.185003785134673
+ultramodern.checkpoints.technologies,Obosomase,5.870232395251686,-0.158895934702924
+unable.rules.remedy,Odorkor market,5.582862453531019,-0.26415102375778
+unclaimed.earth.stack,Korle bu Polyclinic,5.536823808612517,-0.223338637523222
+unfilled.downturn.flips,Bawaleshie,5.641836615558197,-0.167389093076807
+unfolds.grocers.provoking,Highways,5.685659779129673,-0.138306989123091
+unguarded.scrambles.nasal,Girls school junction,5.531240005655484,-0.24254946258854
+unite.nightcap.sand,Ashongman Last Stop,5.704309,-0.228893
+unleashed.windmills.mallets,Nurses Training College,5.711603437966356,-0.191305830066064
+unlocking.boring.raves,Shell,5.673032642782291,-0.291945024421535
+unmotivated.cringing.decider,Presby Junction,5.811303788074289,-0.00637277222987
+unravel.bookshop.suppers,Kente junction,5.721573338050587,-0.202500047679213
+unroll.symphonic.jigging,Nsakina Park,5.65329,-0.326234
+untruth.bypassed.mobile,Anyaa Market,5.602745822270712,-0.293087508654127
+untruth.dash.selection,Pentecost Junction,5.625544872648803,-0.306766247647786
+upsetting.emphasis.with,Kaneshie Market,5.564505,-0.234582
+vampire.simulator.evolving,Nsakina,5.657529,-0.32476
+vast.stammer.pounds,Push and pull,5.543123258305494,-0.216082910271703
+vaulting.telephone.added,Taxi station,5.647684639212709,0.002204308741003
+verifying.reserves.uppermost,Baba Yala,5.686158998562654,-0.15647732544503
+victory.blacken.senders,Shiashie,5.628821884959986,-0.176739470819516
+villager.admiringly.quite,Abeka Junction,5.598723448331219,-0.223663084328408
+vocal.goofy.refrain,Maraduna junction,5.685821240067028,-0.140212968947675
+voted.solar.redouble,Akweteyman,5.610702283080232,-0.233616709783342
+vowel.send.reserve,Ablekuma Curve,5.627740767359254,-0.312436351319486
+waggled.unzipped.coasting,Korle Bu,5.535802,-0.230771
+waiters.cleansed.attend,Amasaman,5.705574021763507,-0.298279282723996
+waking.branched.smudges,Tollbooth,5.733641006114143,-0.313482545677967
+walks.headlight.dame,Maritime,5.615835708597134,-0.065316272983518
+walls.thickened.comical,Gbetsile,5.741795223525251,-0.012998754418154
+warblers.romance.prowess,Stadium junction,5.637954598668904,-0.002724993244247
+warned.solid.scoping,Amasaman,5.705008487668072,-0.297764572910658
+warp.airship.inferior,Ice joy,5.745600041818384,-0.348646778679862
+warp.hatch.famines,Agbogbloshi,5.554633851342947,-0.225275521976743
+wedge.reviewed.template,Kasoa Main Terminal,5.534792,-0.42334
+weds.inkjet.tradition,Circle Station,5.569305522698912,-0.216716598733871
+weekend.organisms.forensic,Adjiringanor Park,5.646688231469429,-0.13461470017822
+whips.narrowest.hedgehog,Oliver twist shacks,5.545505919085874,-0.2401608886673
+whizzing.memo.formal,Ablekuma Curve,5.627297,-0.312037
+widen.bolsters.winemaker,Joint church,5.661508820658567,-0.015925427987189
+willpower.sulked.batches,Airport Junction,5.62196,-0.179577
+winter.warned.file,Abratiye,5.588839852108803,-0.282109189865434
+wipes.chestnuts.pressing,Broadcasting,5.552198280360223,-0.358723610826053
+wishes.perusing.geology,STC,5.564054467135411,-0.226350802742933
+withdraw.eyepieces.vets,Dophil Automobile,5.646122983267771,-0.155226663580089
+withdraws.known.gears,Achimota,5.620154596497263,-0.229699942763465
+wobbles.curving.gravitate,Fammilk Junction,5.62149338307653,-0.298726449110554
+woke.demoted.education,ABC,5.716401632470453,-0.172086106919449
+woke.meaning.flotation,Ussher fort junction,5.538573269062418,-0.20876877850393
+worldwide.warblers.coffee,Dromonaa,5.650843834763297,-0.327334757833448
+worm.aced.bead,Klagon Police Station,5.660005515407237,-0.051726138933132
+yacht.onwards.since,Akweteyman,5.61083854093892,-0.23366932432829
+yachting.afflicted.lifeboats,Plaza bus stop,5.534067297491838,-0.236177732739592
+yachting.refilled.revised,Puma Fuel Station,5.729181792422191,-0.173954480662165
+yield.pool.massaging,Deseret Hospital,5.608265463920282,-0.278911674027655
+younger.archives.originate,Shikpontele,5.717857848078542,-0.308287897019185
+yours.intensely.hamster,Deeper life,5.686063136505788,-0.160487264533251
+youthful.easily.recur,Ablekuma Curve,5.627531,-0.312415
+zapped.recording.heaven,Korle gonno beach,5.529175201603418,-0.228445970453427
+zapped.swooning.plastic,Airport second,5.604704577584803,-0.177944343509144

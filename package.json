@@ -1,0 +1,1 @@
+{ "name": "bigmoves", "private": true, "type": "module", "scripts": { "build-data": "python pipeline/build_network.py", "test": "node tests/sample_trips.mjs", "serve": "python -m http.server 8080 --directory web" } }

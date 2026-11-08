@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone
+taxi,Shared Taxi,http://www.mlgrd.gov.gh/posts/programmes-projects/17-greater-accra-passenger-transport-executive-gapte/?plugin=271,Africa/Accra
+trotro,Trotro,http://www.mlgrd.gov.gh/posts/programmes-projects/17-greater-accra-passenger-transport-executive-gapte/?plugin=271,Africa/Accra

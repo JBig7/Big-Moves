@@ -1,0 +1,9 @@
+{
+  "name": "BigMoves – Accra trotro finder",
+  "short_name": "BigMoves",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ec",
+  "theme_color": "#0b6b46",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

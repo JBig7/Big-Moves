@@ -1,0 +1,68 @@
+{
+ "model": "v0",
+ "version": "2026.10-proto1",
+ "description": "segment time + dwell + boarding wait (+ walking), scaled by spread factors from 2021 onboard surveys",
+ "dwellSec": 15,
+ "walkSpeed": 1.2,
+ "walkDetour": 1.25,
+ "waitHeadwayFactor": [
+  0.2,
+  0.5,
+  1.0
+ ],
+ "rangeQuantiles": [
+  0.1,
+  0.5,
+  0.9
+ ],
+ "rideFactor": [
+  [
+   0.833,
+   1.162,
+   1.786
+  ],
+  [
+   0.823,
+   1.102,
+   1.678
+  ],
+  [
+   0.865,
+   1.235,
+   1.873
+  ]
+ ],
+ "terminalWait": [
+  [
+   32,
+   357,
+   1887
+  ],
+  [
+   18,
+   430,
+   2372
+  ],
+  [
+   23,
+   318,
+   1310
+  ]
+ ],
+ "samples": [
+  258,
+  183,
+  149
+ ],
+ "defaultHeadway": [
+  1050,
+  1480,
+  960
+ ],
+ "limits": [
+  "Schedules come from 2021 (outer GAMA) and 2015 (central Accra) surveys and may be out of date.",
+  "Ride-time spread is measured only on 2021 routes; 2015 routes reuse the same factors.",
+  "Central-Accra (2015) routes have no frequency data; a typical headway is assumed.",
+  "Traffic, events and full vehicles at roadside stops are not modelled."
+ ]
+}

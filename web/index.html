@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>BigMoves – Accra trotro finder</title>
+  <meta name="description" content="Find which trotros to take in Accra, where to change, and how long it is likely to take.">
+  <meta name="theme-color" content="#0b6b46">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">BM</span>
+      <div>
+        <h1>BigMoves</h1>
+        <p class="tagline">Accra trotro finder · prototype</p>
+      </div>
+    </div>
+    <button id="aboutBtn" class="icon-btn" aria-label="About, data and credits">i</button>
+  </header>
+
+  <main>
+    <section class="card search" aria-label="Plan a trip">
+      <form id="tripForm" autocomplete="off">
+        <div class="field">
+          <label for="fromInput">From</label>
+          <input id="fromInput" type="search" placeholder="Stop, station or area" aria-autocomplete="list" aria-controls="fromList" enterkeyhint="next">
+          <ul id="fromList" class="suggest" role="listbox" hidden></ul>
+        </div>
+        <button type="button" id="swapBtn" class="swap" aria-label="Swap from and to">⇅</button>
+        <div class="field">
+          <label for="toInput">To</label>
+          <input id="toInput" type="search" placeholder="Where are you going?" aria-autocomplete="list" aria-controls="toList" enterkeyhint="search">
+          <ul id="toList" class="suggest" role="listbox" hidden></ul>
+        </div>
+        <fieldset class="bands">
+          <legend>Leaving</legend>
+          <div id="bandGroup" class="segmented" role="radiogroup"></div>
+        </fieldset>
+        <p id="bandNote" class="note" hidden></p>
+        <button type="submit" class="primary" id="findBtn">Find trotros</button>
+      </form>
+    </section>
+
+    <div id="message" class="message" role="status" aria-live="polite" hidden></div>
+
+    <section class="map-wrap" aria-label="Map">
+      <div id="map"></div>
+      <p id="tileNote" class="tile-note" hidden>Map tiles unavailable – route steps below still work.</p>
+    </section>
+
+    <section id="results" class="results" aria-live="polite" hidden>
+      <div class="results-head">
+        <h2 id="resultsTitle">Options</h2>
+        <div class="segmented small" role="radiogroup" aria-label="Sort options">
+          <button type="button" data-sort="time" aria-pressed="true">Fastest</button>
+          <button type="button" data-sort="transfers" aria-pressed="false">Fewest changes</button>
+        </div>
+      </div>
+      <ol id="optionList" class="options"></ol>
+    </section>
+
+    <section id="detail" class="detail" hidden>
+      <button type="button" id="backBtn" class="link-btn">‹ All options</button>
+      <div id="detailBody"></div>
+      <button type="button" id="reportBtn" class="secondary">Report a problem with this trip</button>
+    </section>
+  </main>
+
+  <dialog id="aboutDlg" class="dlg">
+    <form method="dialog">
+      <h2>About BigMoves</h2>
+      <p>BigMoves suggests which trotros to take between two places in Greater Accra, where to change, and a likely journey time. This is a prototype for review.</p>
+      <h3>How times are estimated</h3>
+      <p>Time model <b id="modelId"></b>: ride time between stops + time at stops + waiting for a trotro (+ walking), adjusted using measured 2021 trips. Times are always shown as a range.</p>
+      <ul id="limitsList"></ul>
+      <h3>Data and credits</h3>
+      <ul id="sourcesList"></ul>
+      <p class="small">Map © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors. Data version <span id="dataVersion"></span>.</p>
+      <h3>Your reports</h3>
+      <p class="small"><span id="reportCount">0</span> problem report(s) saved on this phone only. No personal data is collected.</p>
+      <div class="row">
+        <button type="button" id="exportReports" class="secondary">Download reports</button>
+        <button type="button" id="clearReports" class="secondary">Clear</button>
+      </div>
+      <button class="primary" value="close">Close</button>
+    </form>
+  </dialog>
+
+  <dialog id="reportDlg" class="dlg">
+    <form method="dialog" id="reportForm">
+      <h2>Report a problem</h2>
+      <p class="small">Saved on this phone to help improve routes and times. Nothing is sent.</p>
+      <fieldset class="radios">
+        <label><input type="radio" name="kind" value="wrong_route" checked> This trotro doesn't go this way</label>
+        <label><input type="radio" name="kind" value="wrong_stop"> A stop is wrong or missing</label>
+        <label><input type="radio" name="kind" value="time_off"> The time estimate is off</label>
+        <label><input type="radio" name="kind" value="other"> Something else</label>
+      </fieldset>
+      <label for="reportNote" class="small">Details (optional, no names or phone numbers)</label>
+      <textarea id="reportNote" rows="3" maxlength="500"></textarea>
+      <div class="row">
+        <button value="cancel" class="secondary">Cancel</button>
+        <button value="save" class="primary">Save report</button>
+      </div>
+    </form>
+  </dialog>
+
+  <noscript><p class="message">BigMoves needs JavaScript to plan trips.</p></noscript>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

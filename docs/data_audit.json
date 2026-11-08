@@ -1,0 +1,24 @@
+{
+ "tfc_taxi_trips_dropped": 96,
+ "tfc_short_pattern": 2,
+ "tfc_patterns": 190,
+ "am15_names_repaired": 39,
+ "am15_patterns": 651,
+ "off_path_stops_dropped": 221,
+ "patterns_still_off_path": 2,
+ "shapes_reversed": 53,
+ "stops_unserved_dropped": 54,
+ "calibration_samples": [
+  258,
+  183,
+  149
+ ],
+ "stops": 3298,
+ "stops_no_district": 0,
+ "walk_links": 32158,
+ "stops_without_walk_link": 126,
+ "search_stop_entries": 2238,
+ "places_without_stop": 547,
+ "search_place_entries": 1176,
+ "stop_names_far_from_place": 31
+}

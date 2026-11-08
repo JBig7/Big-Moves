@@ -1,0 +1,673 @@
+route_id,service_id,trip_headsign,direction_id,shape_id,trip_id
+Lkpg7JywqsgtuI2O7A4wB,Ground_Daily,Ashaiman Station (Kufour Station),1,mCgIoui-9py6p33pjqu72_Shape,mCgIoui-9py6p33pjqu72-15:00:00
+Lkpg7JywqsgtuI2O7A4wB,Ground_Daily,Ashaiman Station (Kufour Station),1,mCgIoui-9py6p33pjqu72_Shape,mCgIoui-9py6p33pjqu72-06:00:00
+Lkpg7JywqsgtuI2O7A4wB,Ground_Daily,Ashaiman Station (Kufour Station),1,mCgIoui-9py6p33pjqu72_Shape,mCgIoui-9py6p33pjqu72-10:00:00
+tID9RhyAMmVTdnVsVj39f,Ground_Daily,Obeyeyie Taxi Station,0,05clhrXijNqntXff5HnIs_Shape,05clhrXijNqntXff5HnIs-15:00:00
+tID9RhyAMmVTdnVsVj39f,Ground_Daily,Obeyeyie Taxi Station,0,05clhrXijNqntXff5HnIs_Shape,05clhrXijNqntXff5HnIs-06:00:00
+tID9RhyAMmVTdnVsVj39f,Ground_Daily,Obeyeyie Taxi Station,0,05clhrXijNqntXff5HnIs_Shape,05clhrXijNqntXff5HnIs-10:00:00
+87bjK7ZUlR7cmFVCLBg3S,Ground_Daily,Madina Station (Zongo Junction) ,1,5Y5ctDJrHo8EcU4NX5ALO_Shape,5Y5ctDJrHo8EcU4NX5ALO-15:00:00
+87bjK7ZUlR7cmFVCLBg3S,Ground_Daily,Madina Station (Zongo Junction) ,1,5Y5ctDJrHo8EcU4NX5ALO_Shape,5Y5ctDJrHo8EcU4NX5ALO-06:00:00
+87bjK7ZUlR7cmFVCLBg3S,Ground_Daily,Madina Station (Zongo Junction) ,1,5Y5ctDJrHo8EcU4NX5ALO_Shape,5Y5ctDJrHo8EcU4NX5ALO-10:00:00
+-eejXdDU_FPhCM0H-VZh6,Ground_Daily,Alhaji Market,1,aem_b0Z5Niju9W244SOPg_Shape,aem_b0Z5Niju9W244SOPg-15:00:00
+-eejXdDU_FPhCM0H-VZh6,Ground_Daily,Alhaji Market,1,aem_b0Z5Niju9W244SOPg_Shape,aem_b0Z5Niju9W244SOPg-06:00:00
+-eejXdDU_FPhCM0H-VZh6,Ground_Daily,Alhaji Market,1,aem_b0Z5Niju9W244SOPg_Shape,aem_b0Z5Niju9W244SOPg-10:00:00
+D8vp7hmGwLX0zgLwq5X-L,Ground_Daily,Salaga Market Station,1,92hesUpNN5Ht0X_IbANo0_Shape,92hesUpNN5Ht0X_IbANo0-15:00:00
+D8vp7hmGwLX0zgLwq5X-L,Ground_Daily,Salaga Market Station,1,92hesUpNN5Ht0X_IbANo0_Shape,92hesUpNN5Ht0X_IbANo0-06:00:00
+D8vp7hmGwLX0zgLwq5X-L,Ground_Daily,Salaga Market Station,1,92hesUpNN5Ht0X_IbANo0_Shape,92hesUpNN5Ht0X_IbANo0-10:00:00
+pqO7ErabpYuGhNLjOSexG,Ground_Daily,Madina Station (Zongo Junction) ,1,A_Nh571NnFKKzgf88d6r4_Shape,A_Nh571NnFKKzgf88d6r4-15:00:00
+pqO7ErabpYuGhNLjOSexG,Ground_Daily,Madina Station (Zongo Junction) ,1,A_Nh571NnFKKzgf88d6r4_Shape,A_Nh571NnFKKzgf88d6r4-06:00:00
+pqO7ErabpYuGhNLjOSexG,Ground_Daily,Madina Station (Zongo Junction) ,1,A_Nh571NnFKKzgf88d6r4_Shape,A_Nh571NnFKKzgf88d6r4-10:00:00
+iCoTbChFeIO1U5Y8ZmbVo,Ground_Daily, Agbogbloshi Agege,0,AlaPd1HwO4_ML8BwLFIgC_Shape,AlaPd1HwO4_ML8BwLFIgC-15:00:00
+iCoTbChFeIO1U5Y8ZmbVo,Ground_Daily, Agbogbloshi Agege,0,AlaPd1HwO4_ML8BwLFIgC_Shape,AlaPd1HwO4_ML8BwLFIgC-06:00:00
+iCoTbChFeIO1U5Y8ZmbVo,Ground_Daily, Agbogbloshi Agege,0,AlaPd1HwO4_ML8BwLFIgC_Shape,AlaPd1HwO4_ML8BwLFIgC-10:00:00
+Af6NbvgePbPHT86h-ZP3N,Ground_Daily,Afuaman,0,g_YvldZHvHF-0tUfg-6OR_Shape,g_YvldZHvHF-0tUfg-6OR-15:00:00
+Af6NbvgePbPHT86h-ZP3N,Ground_Daily,Afuaman,0,g_YvldZHvHF-0tUfg-6OR_Shape,g_YvldZHvHF-0tUfg-6OR-06:00:00
+Af6NbvgePbPHT86h-ZP3N,Ground_Daily,Afuaman,0,g_YvldZHvHF-0tUfg-6OR_Shape,g_YvldZHvHF-0tUfg-6OR-10:00:00
+CINobVTdlDAx-0DhIoasO,Ground_Daily,Madina Station (Zongo Junction) ,1,IiMjTak3Ih7PHuOWXO17m_Shape,IiMjTak3Ih7PHuOWXO17m-15:00:00
+CINobVTdlDAx-0DhIoasO,Ground_Daily,Madina Station (Zongo Junction) ,1,IiMjTak3Ih7PHuOWXO17m_Shape,IiMjTak3Ih7PHuOWXO17m-06:00:00
+CINobVTdlDAx-0DhIoasO,Ground_Daily,Madina Station (Zongo Junction) ,1,IiMjTak3Ih7PHuOWXO17m_Shape,IiMjTak3Ih7PHuOWXO17m-10:00:00
+uSdL5nignt6tOtS6M9MDu,Ground_Daily,Dome Market,1,olA0EAcQMRxxc3ZSZFFNQ_Shape,olA0EAcQMRxxc3ZSZFFNQ-15:00:00
+uSdL5nignt6tOtS6M9MDu,Ground_Daily,Dome Market,1,olA0EAcQMRxxc3ZSZFFNQ_Shape,olA0EAcQMRxxc3ZSZFFNQ-06:00:00
+uSdL5nignt6tOtS6M9MDu,Ground_Daily,Dome Market,1,olA0EAcQMRxxc3ZSZFFNQ_Shape,olA0EAcQMRxxc3ZSZFFNQ-10:00:00
+37hZyi49zfGfpxd4tznjH,Ground_Daily,Botwe Old town,1,oe76LQzN0Gi1LNUyhtxZw_Shape,oe76LQzN0Gi1LNUyhtxZw-15:00:00
+37hZyi49zfGfpxd4tznjH,Ground_Daily,Botwe Old town,1,oe76LQzN0Gi1LNUyhtxZw_Shape,oe76LQzN0Gi1LNUyhtxZw-06:00:00
+37hZyi49zfGfpxd4tznjH,Ground_Daily,Botwe Old town,1,oe76LQzN0Gi1LNUyhtxZw_Shape,oe76LQzN0Gi1LNUyhtxZw-10:00:00
+Rc5pzzmjZaGfpdTwcYr56,Ground_Daily,Chemuna Mamponse,0,oVMBL7fyLrgel2dhAnbbP_Shape,oVMBL7fyLrgel2dhAnbbP-15:00:00
+Rc5pzzmjZaGfpdTwcYr56,Ground_Daily,Chemuna Mamponse,0,oVMBL7fyLrgel2dhAnbbP_Shape,oVMBL7fyLrgel2dhAnbbP-06:00:00
+Rc5pzzmjZaGfpdTwcYr56,Ground_Daily,Chemuna Mamponse,0,oVMBL7fyLrgel2dhAnbbP_Shape,oVMBL7fyLrgel2dhAnbbP-10:00:00
+D8vp7hmGwLX0zgLwq5X-L,Ground_Daily,Korle Bu Station,0,PBX8a9erw7dvtLF2ZNRiK_Shape,PBX8a9erw7dvtLF2ZNRiK-15:00:00
+D8vp7hmGwLX0zgLwq5X-L,Ground_Daily,Korle Bu Station,0,PBX8a9erw7dvtLF2ZNRiK_Shape,PBX8a9erw7dvtLF2ZNRiK-06:00:00
+D8vp7hmGwLX0zgLwq5X-L,Ground_Daily,Korle Bu Station,0,PBX8a9erw7dvtLF2ZNRiK_Shape,PBX8a9erw7dvtLF2ZNRiK-10:00:00
+pqO7ErabpYuGhNLjOSexG,Ground_Daily,Akropong,0,RPpwWl-tw7q3kFj-Yul7T_Shape,RPpwWl-tw7q3kFj-Yul7T-15:00:00
+pqO7ErabpYuGhNLjOSexG,Ground_Daily,Akropong,0,RPpwWl-tw7q3kFj-Yul7T_Shape,RPpwWl-tw7q3kFj-Yul7T-06:00:00
+pqO7ErabpYuGhNLjOSexG,Ground_Daily,Akropong,0,RPpwWl-tw7q3kFj-Yul7T_Shape,RPpwWl-tw7q3kFj-Yul7T-10:00:00
+8nqLhr30FSB3cBS6oKL00,Ground_Daily,Pokuase Station,0,FeKz61PtfQekSmB0EoN19_Shape,FeKz61PtfQekSmB0EoN19-15:00:00
+8nqLhr30FSB3cBS6oKL00,Ground_Daily,Pokuase Station,0,FeKz61PtfQekSmB0EoN19_Shape,FeKz61PtfQekSmB0EoN19-06:00:00
+8nqLhr30FSB3cBS6oKL00,Ground_Daily,Pokuase Station,0,FeKz61PtfQekSmB0EoN19_Shape,FeKz61PtfQekSmB0EoN19-10:00:00
+d6OHXr4zmeo7nciJOS037,Ground_Daily,Madina Station (Zongo Junction) ,1,v6Q2UE1_aVdW4e-n1HhTv_Shape,v6Q2UE1_aVdW4e-n1HhTv-15:00:00
+d6OHXr4zmeo7nciJOS037,Ground_Daily,Madina Station (Zongo Junction) ,1,v6Q2UE1_aVdW4e-n1HhTv_Shape,v6Q2UE1_aVdW4e-n1HhTv-06:00:00
+d6OHXr4zmeo7nciJOS037,Ground_Daily,Madina Station (Zongo Junction) ,1,v6Q2UE1_aVdW4e-n1HhTv_Shape,v6Q2UE1_aVdW4e-n1HhTv-10:00:00
+16u8vGHOX-ITC_ygJ4fCN,Ground_Daily,Libya Quarters,0,XLu0IMDhvl0_4pncVUhlp_Shape,XLu0IMDhvl0_4pncVUhlp-15:00:00
+16u8vGHOX-ITC_ygJ4fCN,Ground_Daily,Libya Quarters,0,XLu0IMDhvl0_4pncVUhlp_Shape,XLu0IMDhvl0_4pncVUhlp-06:00:00
+16u8vGHOX-ITC_ygJ4fCN,Ground_Daily,Libya Quarters,0,XLu0IMDhvl0_4pncVUhlp_Shape,XLu0IMDhvl0_4pncVUhlp-10:00:00
+KM6go9PggdI_tf2I7o0FN,Ground_Daily,Sowutoum Station,0,3lSbi0wztP8iMIeE0o9wW_Shape,3lSbi0wztP8iMIeE0o9wW-15:00:00
+KM6go9PggdI_tf2I7o0FN,Ground_Daily,Sowutoum Station,0,3lSbi0wztP8iMIeE0o9wW_Shape,3lSbi0wztP8iMIeE0o9wW-06:00:00
+KM6go9PggdI_tf2I7o0FN,Ground_Daily,Sowutoum Station,0,3lSbi0wztP8iMIeE0o9wW_Shape,3lSbi0wztP8iMIeE0o9wW-10:00:00
+KM6go9PggdI_tf2I7o0FN,Ground_Daily,Dome Market,1,XB11U5drZ4OTjgZnzCuLe_Shape,XB11U5drZ4OTjgZnzCuLe-15:00:00
+KM6go9PggdI_tf2I7o0FN,Ground_Daily,Dome Market,1,XB11U5drZ4OTjgZnzCuLe_Shape,XB11U5drZ4OTjgZnzCuLe-06:00:00
+KM6go9PggdI_tf2I7o0FN,Ground_Daily,Dome Market,1,XB11U5drZ4OTjgZnzCuLe_Shape,XB11U5drZ4OTjgZnzCuLe-10:00:00
+4Za5kNxe03630xsiE2j34,Ground_Daily,Manhean,1,ZktKm1-lSeu9r9zAB25nY_Shape,ZktKm1-lSeu9r9zAB25nY-15:00:00
+4Za5kNxe03630xsiE2j34,Ground_Daily,Manhean,1,ZktKm1-lSeu9r9zAB25nY_Shape,ZktKm1-lSeu9r9zAB25nY-06:00:00
+4Za5kNxe03630xsiE2j34,Ground_Daily,Manhean,1,ZktKm1-lSeu9r9zAB25nY_Shape,ZktKm1-lSeu9r9zAB25nY-10:00:00
+-lM98bru03eZ2HLiOFm-d,Ground_Daily,Glefe,0,qOvIapX9ifxXLbAg1ZDRL_Shape,qOvIapX9ifxXLbAg1ZDRL-15:00:00
+-lM98bru03eZ2HLiOFm-d,Ground_Daily,Glefe,0,qOvIapX9ifxXLbAg1ZDRL_Shape,qOvIapX9ifxXLbAg1ZDRL-06:00:00
+-lM98bru03eZ2HLiOFm-d,Ground_Daily,Glefe,0,qOvIapX9ifxXLbAg1ZDRL_Shape,qOvIapX9ifxXLbAg1ZDRL-10:00:00
+l3JjUHR5eJF618FMUhOD-,Ground_Daily,Amasaman Trotro Station,1,7iQJDhwJZznbPR9KWAKUB_Shape,7iQJDhwJZznbPR9KWAKUB-15:00:00
+l3JjUHR5eJF618FMUhOD-,Ground_Daily,Amasaman Trotro Station,1,7iQJDhwJZznbPR9KWAKUB_Shape,7iQJDhwJZznbPR9KWAKUB-06:00:00
+l3JjUHR5eJF618FMUhOD-,Ground_Daily,Amasaman Trotro Station,1,7iQJDhwJZznbPR9KWAKUB_Shape,7iQJDhwJZznbPR9KWAKUB-10:00:00
+ej2p6hQxUMGc7aPoCxRiQ,Ground_Daily,Kwabenya Bus Terminal,1,_IAW_UD7c3XBMkWuxS455_Shape,_IAW_UD7c3XBMkWuxS455-15:00:00
+ej2p6hQxUMGc7aPoCxRiQ,Ground_Daily,Kwabenya Bus Terminal,1,_IAW_UD7c3XBMkWuxS455_Shape,_IAW_UD7c3XBMkWuxS455-06:00:00
+ej2p6hQxUMGc7aPoCxRiQ,Ground_Daily,Kwabenya Bus Terminal,1,_IAW_UD7c3XBMkWuxS455_Shape,_IAW_UD7c3XBMkWuxS455-10:00:00
+NpWpAP5YZgWGaH_IjL3XB,Ground_Daily,Kaneshie Market station,0,9SyX311XPBPiDg-wDa23G_Shape,9SyX311XPBPiDg-wDa23G-15:00:00
+NpWpAP5YZgWGaH_IjL3XB,Ground_Daily,Kaneshie Market station,0,9SyX311XPBPiDg-wDa23G_Shape,9SyX311XPBPiDg-wDa23G-06:00:00
+NpWpAP5YZgWGaH_IjL3XB,Ground_Daily,Kaneshie Market station,0,9SyX311XPBPiDg-wDa23G_Shape,9SyX311XPBPiDg-wDa23G-10:00:00
+FOCcKkECrGLGWDEy7xQYx,Ground_Daily,Obeyeyie Taxi Station,0,stfXo0dsZBaUJcHtBc2Fm_Shape,stfXo0dsZBaUJcHtBc2Fm-15:00:00
+FOCcKkECrGLGWDEy7xQYx,Ground_Daily,Obeyeyie Taxi Station,0,stfXo0dsZBaUJcHtBc2Fm_Shape,stfXo0dsZBaUJcHtBc2Fm-06:00:00
+FOCcKkECrGLGWDEy7xQYx,Ground_Daily,Obeyeyie Taxi Station,0,stfXo0dsZBaUJcHtBc2Fm_Shape,stfXo0dsZBaUJcHtBc2Fm-10:00:00
+AIjyOtzFpO0TtyMQRKW2x,Ground_Daily,Kaneshie Market station,1,xSunuGZBLycfXwiXvb51L_Shape,xSunuGZBLycfXwiXvb51L-15:00:00
+AIjyOtzFpO0TtyMQRKW2x,Ground_Daily,Kaneshie Market station,1,xSunuGZBLycfXwiXvb51L_Shape,xSunuGZBLycfXwiXvb51L-06:00:00
+AIjyOtzFpO0TtyMQRKW2x,Ground_Daily,Kaneshie Market station,1,xSunuGZBLycfXwiXvb51L_Shape,xSunuGZBLycfXwiXvb51L-10:00:00
+qYg-j93PrKUZy8TiLrhmv,Ground_Daily,Kokrobite Junction Bus Stop,0,V4vTmiqk52f2OELY7gTCO_Shape,V4vTmiqk52f2OELY7gTCO-15:00:00
+qYg-j93PrKUZy8TiLrhmv,Ground_Daily,Kokrobite Junction Bus Stop,0,V4vTmiqk52f2OELY7gTCO_Shape,V4vTmiqk52f2OELY7gTCO-06:00:00
+qYg-j93PrKUZy8TiLrhmv,Ground_Daily,Kokrobite Junction Bus Stop,0,V4vTmiqk52f2OELY7gTCO_Shape,V4vTmiqk52f2OELY7gTCO-10:00:00
+5s9jiICqJvYraRGlDy8Ex,Ground_Daily,St. Johns trotro station,0,AEGkMfzTqBRjxm2lpAqW-_Shape,AEGkMfzTqBRjxm2lpAqW--15:00:00
+5s9jiICqJvYraRGlDy8Ex,Ground_Daily,St. Johns trotro station,0,AEGkMfzTqBRjxm2lpAqW-_Shape,AEGkMfzTqBRjxm2lpAqW--06:00:00
+5s9jiICqJvYraRGlDy8Ex,Ground_Daily,St. Johns trotro station,0,AEGkMfzTqBRjxm2lpAqW-_Shape,AEGkMfzTqBRjxm2lpAqW--10:00:00
+OKBiVQYVV-eXZmoFfCsm9,Ground_Daily,Ashaiman Station (Kufour Station),1,NtqqDzsU6x-7GG7R0jhzw_Shape,NtqqDzsU6x-7GG7R0jhzw-15:00:00
+OKBiVQYVV-eXZmoFfCsm9,Ground_Daily,Ashaiman Station (Kufour Station),1,NtqqDzsU6x-7GG7R0jhzw_Shape,NtqqDzsU6x-7GG7R0jhzw-06:00:00
+OKBiVQYVV-eXZmoFfCsm9,Ground_Daily,Ashaiman Station (Kufour Station),1,NtqqDzsU6x-7GG7R0jhzw_Shape,NtqqDzsU6x-7GG7R0jhzw-10:00:00
+dM9IqdKfZ6wqBBBO5Ie_s,Ground_Daily,Ashongman Estates,1,PM70tXKH1t9MWvWjj8BqM_Shape,PM70tXKH1t9MWvWjj8BqM-15:00:00
+dM9IqdKfZ6wqBBBO5Ie_s,Ground_Daily,Ashongman Estates,1,PM70tXKH1t9MWvWjj8BqM_Shape,PM70tXKH1t9MWvWjj8BqM-06:00:00
+dM9IqdKfZ6wqBBBO5Ie_s,Ground_Daily,Ashongman Estates,1,PM70tXKH1t9MWvWjj8BqM_Shape,PM70tXKH1t9MWvWjj8BqM-10:00:00
+FaDNAl5XWCyXQG7YXWnrM,Ground_Daily,Circle Station,1,dJzzaohz-TZGSxN6Ll7Ga_Shape,dJzzaohz-TZGSxN6Ll7Ga-15:00:00
+FaDNAl5XWCyXQG7YXWnrM,Ground_Daily,Circle Station,1,dJzzaohz-TZGSxN6Ll7Ga_Shape,dJzzaohz-TZGSxN6Ll7Ga-06:00:00
+FaDNAl5XWCyXQG7YXWnrM,Ground_Daily,Circle Station,1,dJzzaohz-TZGSxN6Ll7Ga_Shape,dJzzaohz-TZGSxN6Ll7Ga-10:00:00
+_p7T806PausOLlhoe0RnT,Ground_Daily,Ablekuma Curve,1,r1xuirTO7xh_0RKrDpk1S_Shape,r1xuirTO7xh_0RKrDpk1S-15:00:00
+_p7T806PausOLlhoe0RnT,Ground_Daily,Ablekuma Curve,1,r1xuirTO7xh_0RKrDpk1S_Shape,r1xuirTO7xh_0RKrDpk1S-06:00:00
+_p7T806PausOLlhoe0RnT,Ground_Daily,Ablekuma Curve,1,r1xuirTO7xh_0RKrDpk1S_Shape,r1xuirTO7xh_0RKrDpk1S-10:00:00
+EnJRSOrP3-Atbjc0ijj8K,Ground_Daily,School Bus Junction,1,kl-FX4HnR39Dj3o8d-8Rq_Shape,kl-FX4HnR39Dj3o8d-8Rq-15:00:00
+EnJRSOrP3-Atbjc0ijj8K,Ground_Daily,School Bus Junction,1,kl-FX4HnR39Dj3o8d-8Rq_Shape,kl-FX4HnR39Dj3o8d-8Rq-06:00:00
+EnJRSOrP3-Atbjc0ijj8K,Ground_Daily,School Bus Junction,1,kl-FX4HnR39Dj3o8d-8Rq_Shape,kl-FX4HnR39Dj3o8d-8Rq-10:00:00
+rNFuZ1O6sF4kOzj95LiVh,Ground_Daily,Circle Station,0,9osiTA9GLZ_V6k2XBPb-x_Shape,9osiTA9GLZ_V6k2XBPb-x-15:00:00
+rNFuZ1O6sF4kOzj95LiVh,Ground_Daily,Circle Station,0,9osiTA9GLZ_V6k2XBPb-x_Shape,9osiTA9GLZ_V6k2XBPb-x-06:00:00
+rNFuZ1O6sF4kOzj95LiVh,Ground_Daily,Circle Station,0,9osiTA9GLZ_V6k2XBPb-x_Shape,9osiTA9GLZ_V6k2XBPb-x-10:00:00
+qESQOm2rQBBx1PeVhUufn,Ground_Daily,Adenta Station,1,viaZ0vzb0MiK08DVaApDk_Shape,viaZ0vzb0MiK08DVaApDk-15:00:00
+qESQOm2rQBBx1PeVhUufn,Ground_Daily,Adenta Station,1,viaZ0vzb0MiK08DVaApDk_Shape,viaZ0vzb0MiK08DVaApDk-06:00:00
+qESQOm2rQBBx1PeVhUufn,Ground_Daily,Adenta Station,1,viaZ0vzb0MiK08DVaApDk_Shape,viaZ0vzb0MiK08DVaApDk-10:00:00
+w49uY5zcbr7WM4iM_VkS8,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,HymN9BFbQ5uqCERSvTCJg_Shape,HymN9BFbQ5uqCERSvTCJg-15:00:00
+w49uY5zcbr7WM4iM_VkS8,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,HymN9BFbQ5uqCERSvTCJg_Shape,HymN9BFbQ5uqCERSvTCJg-06:00:00
+w49uY5zcbr7WM4iM_VkS8,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,HymN9BFbQ5uqCERSvTCJg_Shape,HymN9BFbQ5uqCERSvTCJg-10:00:00
+w49uY5zcbr7WM4iM_VkS8,Ground_Daily,Manhean,1,TgryoWx5Ru-MuOiJ7KZM4_Shape,TgryoWx5Ru-MuOiJ7KZM4-15:00:00
+w49uY5zcbr7WM4iM_VkS8,Ground_Daily,Manhean,1,TgryoWx5Ru-MuOiJ7KZM4_Shape,TgryoWx5Ru-MuOiJ7KZM4-06:00:00
+w49uY5zcbr7WM4iM_VkS8,Ground_Daily,Manhean,1,TgryoWx5Ru-MuOiJ7KZM4_Shape,TgryoWx5Ru-MuOiJ7KZM4-10:00:00
+-lM98bru03eZ2HLiOFm-d,Ground_Daily,Accra Bishop Station,1,hqZY4CJxAlBMRIAmN_8Ct_Shape,hqZY4CJxAlBMRIAmN_8Ct-15:00:00
+-lM98bru03eZ2HLiOFm-d,Ground_Daily,Accra Bishop Station,1,hqZY4CJxAlBMRIAmN_8Ct_Shape,hqZY4CJxAlBMRIAmN_8Ct-06:00:00
+-lM98bru03eZ2HLiOFm-d,Ground_Daily,Accra Bishop Station,1,hqZY4CJxAlBMRIAmN_8Ct_Shape,hqZY4CJxAlBMRIAmN_8Ct-10:00:00
+-GliCezro2Hi6kZ3wyrni,Ground_Daily,Kasoa,0,6w5Iy7aUTKkvScyg7pIk-_Shape,6w5Iy7aUTKkvScyg7pIk--15:00:00
+-GliCezro2Hi6kZ3wyrni,Ground_Daily,Kasoa,0,6w5Iy7aUTKkvScyg7pIk-_Shape,6w5Iy7aUTKkvScyg7pIk--06:00:00
+-GliCezro2Hi6kZ3wyrni,Ground_Daily,Kasoa,0,6w5Iy7aUTKkvScyg7pIk-_Shape,6w5Iy7aUTKkvScyg7pIk--10:00:00
+0mhdZ0V7ngtSqAxu8yOyU,Ground_Daily,Circle Station,1,nZaJY9KIMf0dEYQ8Oqa8T_Shape,nZaJY9KIMf0dEYQ8Oqa8T-15:00:00
+0mhdZ0V7ngtSqAxu8yOyU,Ground_Daily,Circle Station,1,nZaJY9KIMf0dEYQ8Oqa8T_Shape,nZaJY9KIMf0dEYQ8Oqa8T-06:00:00
+0mhdZ0V7ngtSqAxu8yOyU,Ground_Daily,Circle Station,1,nZaJY9KIMf0dEYQ8Oqa8T_Shape,nZaJY9KIMf0dEYQ8Oqa8T-10:00:00
+MBHYdSqOXzrLThwiraskW,Ground_Daily,Haatso,1,9rPT82uEbpCFKymVy7AeG_Shape,9rPT82uEbpCFKymVy7AeG-15:00:00
+MBHYdSqOXzrLThwiraskW,Ground_Daily,Haatso,1,9rPT82uEbpCFKymVy7AeG_Shape,9rPT82uEbpCFKymVy7AeG-06:00:00
+MBHYdSqOXzrLThwiraskW,Ground_Daily,Haatso,1,9rPT82uEbpCFKymVy7AeG_Shape,9rPT82uEbpCFKymVy7AeG-10:00:00
+TY-xclxe7Bo5MBgMCZKSf,Ground_Daily,El Paso,1,z11OmAJOd5NhZopjR-o5w_Shape,z11OmAJOd5NhZopjR-o5w-15:00:00
+TY-xclxe7Bo5MBgMCZKSf,Ground_Daily,El Paso,1,z11OmAJOd5NhZopjR-o5w_Shape,z11OmAJOd5NhZopjR-o5w-06:00:00
+TY-xclxe7Bo5MBgMCZKSf,Ground_Daily,El Paso,1,z11OmAJOd5NhZopjR-o5w_Shape,z11OmAJOd5NhZopjR-o5w-10:00:00
+eL__yQXkDulDJy--vtSiu,Ground_Daily,Madina Station (Zongo Junction) ,0,2fQlmZjF6VnLkm7tw3vob_Shape,2fQlmZjF6VnLkm7tw3vob-15:00:00
+eL__yQXkDulDJy--vtSiu,Ground_Daily,Madina Station (Zongo Junction) ,0,2fQlmZjF6VnLkm7tw3vob_Shape,2fQlmZjF6VnLkm7tw3vob-06:00:00
+eL__yQXkDulDJy--vtSiu,Ground_Daily,Madina Station (Zongo Junction) ,0,2fQlmZjF6VnLkm7tw3vob_Shape,2fQlmZjF6VnLkm7tw3vob-10:00:00
+mlGbE-vda23eDbo8ikbIS,Ground_Daily,Chemuna Mamponse,1,GyAKRZsde5Qq0-VUvvK2R_Shape,GyAKRZsde5Qq0-VUvvK2R-15:00:00
+mlGbE-vda23eDbo8ikbIS,Ground_Daily,Chemuna Mamponse,1,GyAKRZsde5Qq0-VUvvK2R_Shape,GyAKRZsde5Qq0-VUvvK2R-06:00:00
+mlGbE-vda23eDbo8ikbIS,Ground_Daily,Chemuna Mamponse,1,GyAKRZsde5Qq0-VUvvK2R_Shape,GyAKRZsde5Qq0-VUvvK2R-10:00:00
+TjLQEvNf1LzFpW09ri51f,Ground_Daily,Amasaman Trotro Station,1,22emY01joyKO15zrdbD7W_Shape,22emY01joyKO15zrdbD7W-15:00:00
+TjLQEvNf1LzFpW09ri51f,Ground_Daily,Amasaman Trotro Station,1,22emY01joyKO15zrdbD7W_Shape,22emY01joyKO15zrdbD7W-06:00:00
+TjLQEvNf1LzFpW09ri51f,Ground_Daily,Amasaman Trotro Station,1,22emY01joyKO15zrdbD7W_Shape,22emY01joyKO15zrdbD7W-10:00:00
+sdJKMTyc_sXocH5XK_1hG,Ground_Daily,Amasaman Trotro Station,0,tjeo33YpsLD68f9iGxiFC_Shape,tjeo33YpsLD68f9iGxiFC-15:00:00
+sdJKMTyc_sXocH5XK_1hG,Ground_Daily,Amasaman Trotro Station,0,tjeo33YpsLD68f9iGxiFC_Shape,tjeo33YpsLD68f9iGxiFC-06:00:00
+sdJKMTyc_sXocH5XK_1hG,Ground_Daily,Amasaman Trotro Station,0,tjeo33YpsLD68f9iGxiFC_Shape,tjeo33YpsLD68f9iGxiFC-10:00:00
+MJENs7-8Fa_3RRdjd6q3P,Ground_Daily,Achimota Station,0,85BMe-gpy4VUVBg29x-CR_Shape,85BMe-gpy4VUVBg29x-CR-15:00:00
+MJENs7-8Fa_3RRdjd6q3P,Ground_Daily,Achimota Station,0,85BMe-gpy4VUVBg29x-CR_Shape,85BMe-gpy4VUVBg29x-CR-06:00:00
+MJENs7-8Fa_3RRdjd6q3P,Ground_Daily,Achimota Station,0,85BMe-gpy4VUVBg29x-CR_Shape,85BMe-gpy4VUVBg29x-CR-10:00:00
+wG2YUaUadLLv-k0IrG_U5,Ground_Daily,Kotoku Terminal,1,exmewZnbEqt7kR5w539F1_Shape,exmewZnbEqt7kR5w539F1-15:00:00
+wG2YUaUadLLv-k0IrG_U5,Ground_Daily,Kotoku Terminal,1,exmewZnbEqt7kR5w539F1_Shape,exmewZnbEqt7kR5w539F1-06:00:00
+wG2YUaUadLLv-k0IrG_U5,Ground_Daily,Kotoku Terminal,1,exmewZnbEqt7kR5w539F1_Shape,exmewZnbEqt7kR5w539F1-10:00:00
+0mhdZ0V7ngtSqAxu8yOyU,Ground_Daily,Ablekuma Curve,0,AGhldxDtF15eNy0rr9faN_Shape,AGhldxDtF15eNy0rr9faN-15:00:00
+0mhdZ0V7ngtSqAxu8yOyU,Ground_Daily,Ablekuma Curve,0,AGhldxDtF15eNy0rr9faN_Shape,AGhldxDtF15eNy0rr9faN-06:00:00
+0mhdZ0V7ngtSqAxu8yOyU,Ground_Daily,Ablekuma Curve,0,AGhldxDtF15eNy0rr9faN_Shape,AGhldxDtF15eNy0rr9faN-10:00:00
+Af6NbvgePbPHT86h-ZP3N,Ground_Daily,Manhean,1,do99mnWVKIeJrmi-8zJMD_Shape,do99mnWVKIeJrmi-8zJMD-15:00:00
+Af6NbvgePbPHT86h-ZP3N,Ground_Daily,Manhean,1,do99mnWVKIeJrmi-8zJMD_Shape,do99mnWVKIeJrmi-8zJMD-06:00:00
+Af6NbvgePbPHT86h-ZP3N,Ground_Daily,Manhean,1,do99mnWVKIeJrmi-8zJMD_Shape,do99mnWVKIeJrmi-8zJMD-10:00:00
+0S7GmJnENNkKmYsJnxK_y,Ground_Daily,Anyaa Market Station (Awoshie Market),0,hixkks18el-D-pd2D4i_2_Shape,hixkks18el-D-pd2D4i_2-15:00:00
+0S7GmJnENNkKmYsJnxK_y,Ground_Daily,Anyaa Market Station (Awoshie Market),0,hixkks18el-D-pd2D4i_2_Shape,hixkks18el-D-pd2D4i_2-06:00:00
+0S7GmJnENNkKmYsJnxK_y,Ground_Daily,Anyaa Market Station (Awoshie Market),0,hixkks18el-D-pd2D4i_2_Shape,hixkks18el-D-pd2D4i_2-10:00:00
+ypTJnKt3X9BBf5yrnh7Qv,Ground_Daily,Santa Maria,1,S3tSKOKuhv6qL4Q53Wdqh_Shape,S3tSKOKuhv6qL4Q53Wdqh-15:00:00
+ypTJnKt3X9BBf5yrnh7Qv,Ground_Daily,Santa Maria,1,S3tSKOKuhv6qL4Q53Wdqh_Shape,S3tSKOKuhv6qL4Q53Wdqh-06:00:00
+ypTJnKt3X9BBf5yrnh7Qv,Ground_Daily,Santa Maria,1,S3tSKOKuhv6qL4Q53Wdqh_Shape,S3tSKOKuhv6qL4Q53Wdqh-10:00:00
+jY9AM9bHWuceHZP7MIknh,Ground_Daily,School Bus Junction,1,k8f7EKBeeB-OhdExCSplC_Shape,k8f7EKBeeB-OhdExCSplC-15:00:00
+jY9AM9bHWuceHZP7MIknh,Ground_Daily,School Bus Junction,1,k8f7EKBeeB-OhdExCSplC_Shape,k8f7EKBeeB-OhdExCSplC-06:00:00
+jY9AM9bHWuceHZP7MIknh,Ground_Daily,School Bus Junction,1,k8f7EKBeeB-OhdExCSplC_Shape,k8f7EKBeeB-OhdExCSplC-10:00:00
+ej2p6hQxUMGc7aPoCxRiQ,Ground_Daily,Madina Station (Zongo Junction) ,0,A4fj8oeklsoBo_BujPN1b_Shape,A4fj8oeklsoBo_BujPN1b-15:00:00
+ej2p6hQxUMGc7aPoCxRiQ,Ground_Daily,Madina Station (Zongo Junction) ,0,A4fj8oeklsoBo_BujPN1b_Shape,A4fj8oeklsoBo_BujPN1b-06:00:00
+ej2p6hQxUMGc7aPoCxRiQ,Ground_Daily,Madina Station (Zongo Junction) ,0,A4fj8oeklsoBo_BujPN1b_Shape,A4fj8oeklsoBo_BujPN1b-10:00:00
+rNFuZ1O6sF4kOzj95LiVh,Ground_Daily,School Bus Junction,1,Flhn5MVN88bcR7JRbmAMQ_Shape,Flhn5MVN88bcR7JRbmAMQ-15:00:00
+rNFuZ1O6sF4kOzj95LiVh,Ground_Daily,School Bus Junction,1,Flhn5MVN88bcR7JRbmAMQ_Shape,Flhn5MVN88bcR7JRbmAMQ-06:00:00
+rNFuZ1O6sF4kOzj95LiVh,Ground_Daily,School Bus Junction,1,Flhn5MVN88bcR7JRbmAMQ_Shape,Flhn5MVN88bcR7JRbmAMQ-10:00:00
+QScOIEbrZml_NVxe4cHma,Ground_Daily,Kokrobite Junction Bus Stop,1,1Bo1PKQqovwPCfaL1HSG9_Shape,1Bo1PKQqovwPCfaL1HSG9-15:00:00
+QScOIEbrZml_NVxe4cHma,Ground_Daily,Kokrobite Junction Bus Stop,1,1Bo1PKQqovwPCfaL1HSG9_Shape,1Bo1PKQqovwPCfaL1HSG9-06:00:00
+QScOIEbrZml_NVxe4cHma,Ground_Daily,Kokrobite Junction Bus Stop,1,1Bo1PKQqovwPCfaL1HSG9_Shape,1Bo1PKQqovwPCfaL1HSG9-10:00:00
+d6OHXr4zmeo7nciJOS037,Ground_Daily,UPS,0,yFu5o4e78lHMkzBJnF7L4_Shape,yFu5o4e78lHMkzBJnF7L4-15:00:00
+d6OHXr4zmeo7nciJOS037,Ground_Daily,UPS,0,yFu5o4e78lHMkzBJnF7L4_Shape,yFu5o4e78lHMkzBJnF7L4-06:00:00
+d6OHXr4zmeo7nciJOS037,Ground_Daily,UPS,0,yFu5o4e78lHMkzBJnF7L4_Shape,yFu5o4e78lHMkzBJnF7L4-10:00:00
+HiChfKHblcNTG217HY9ja,Ground_Daily,Nima,0,CfOgtkaitis1RhgWXn17y_Shape,CfOgtkaitis1RhgWXn17y-15:00:00
+HiChfKHblcNTG217HY9ja,Ground_Daily,Nima,0,CfOgtkaitis1RhgWXn17y_Shape,CfOgtkaitis1RhgWXn17y-06:00:00
+HiChfKHblcNTG217HY9ja,Ground_Daily,Nima,0,CfOgtkaitis1RhgWXn17y_Shape,CfOgtkaitis1RhgWXn17y-10:00:00
+aW_4UNyIaF0bMmFSA2KMK,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,2HJk9yoGwtYZ67Bz4DxAV_Shape,2HJk9yoGwtYZ67Bz4DxAV-15:00:00
+aW_4UNyIaF0bMmFSA2KMK,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,2HJk9yoGwtYZ67Bz4DxAV_Shape,2HJk9yoGwtYZ67Bz4DxAV-06:00:00
+aW_4UNyIaF0bMmFSA2KMK,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,2HJk9yoGwtYZ67Bz4DxAV_Shape,2HJk9yoGwtYZ67Bz4DxAV-10:00:00
+hg3pd_vqWIp9aR-vnE3Tt,Ground_Daily,Lakeside,0,9omVAZl-Q__i6WqmF4Uqf_Shape,9omVAZl-Q__i6WqmF4Uqf-15:00:00
+hg3pd_vqWIp9aR-vnE3Tt,Ground_Daily,Lakeside,0,9omVAZl-Q__i6WqmF4Uqf_Shape,9omVAZl-Q__i6WqmF4Uqf-06:00:00
+hg3pd_vqWIp9aR-vnE3Tt,Ground_Daily,Lakeside,0,9omVAZl-Q__i6WqmF4Uqf_Shape,9omVAZl-Q__i6WqmF4Uqf-10:00:00
+MOdWIoCGEoSuqBFxx4pVQ,Ground_Daily,Tetteh Quarshie Station (Accra Mall - Spintex),0,N4OUsMZdYnaYNTZyPrjsq_Shape,N4OUsMZdYnaYNTZyPrjsq-15:00:00
+MOdWIoCGEoSuqBFxx4pVQ,Ground_Daily,Tetteh Quarshie Station (Accra Mall - Spintex),0,N4OUsMZdYnaYNTZyPrjsq_Shape,N4OUsMZdYnaYNTZyPrjsq-06:00:00
+MOdWIoCGEoSuqBFxx4pVQ,Ground_Daily,Tetteh Quarshie Station (Accra Mall - Spintex),0,N4OUsMZdYnaYNTZyPrjsq_Shape,N4OUsMZdYnaYNTZyPrjsq-10:00:00
+1RkVGvGMtvT9OsOt_PN_Y,Ground_Daily,Mallam Station ,0,Iw7OODWKSJyLF3vWfXYsV_Shape,Iw7OODWKSJyLF3vWfXYsV-15:00:00
+1RkVGvGMtvT9OsOt_PN_Y,Ground_Daily,Mallam Station ,0,Iw7OODWKSJyLF3vWfXYsV_Shape,Iw7OODWKSJyLF3vWfXYsV-06:00:00
+1RkVGvGMtvT9OsOt_PN_Y,Ground_Daily,Mallam Station ,0,Iw7OODWKSJyLF3vWfXYsV_Shape,Iw7OODWKSJyLF3vWfXYsV-10:00:00
+rjt15CtpCbkBCPKLJppMc,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,WSoH_A84mjKO_90KHHAiB_Shape,WSoH_A84mjKO_90KHHAiB-15:00:00
+rjt15CtpCbkBCPKLJppMc,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,WSoH_A84mjKO_90KHHAiB_Shape,WSoH_A84mjKO_90KHHAiB-06:00:00
+rjt15CtpCbkBCPKLJppMc,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,WSoH_A84mjKO_90KHHAiB_Shape,WSoH_A84mjKO_90KHHAiB-10:00:00
+MBHYdSqOXzrLThwiraskW,Ground_Daily,Madina Station (Zongo Junction) ,0,pTBN-8ZnAEFZSJbtPbcy2_Shape,pTBN-8ZnAEFZSJbtPbcy2-15:00:00
+MBHYdSqOXzrLThwiraskW,Ground_Daily,Madina Station (Zongo Junction) ,0,pTBN-8ZnAEFZSJbtPbcy2_Shape,pTBN-8ZnAEFZSJbtPbcy2-06:00:00
+MBHYdSqOXzrLThwiraskW,Ground_Daily,Madina Station (Zongo Junction) ,0,pTBN-8ZnAEFZSJbtPbcy2_Shape,pTBN-8ZnAEFZSJbtPbcy2-10:00:00
+FaDNAl5XWCyXQG7YXWnrM,Ground_Daily,Odorkor Station,0,T4qdrHguM3lv7FZKVaXGE_Shape,T4qdrHguM3lv7FZKVaXGE-15:00:00
+FaDNAl5XWCyXQG7YXWnrM,Ground_Daily,Odorkor Station,0,T4qdrHguM3lv7FZKVaXGE_Shape,T4qdrHguM3lv7FZKVaXGE-06:00:00
+FaDNAl5XWCyXQG7YXWnrM,Ground_Daily,Odorkor Station,0,T4qdrHguM3lv7FZKVaXGE_Shape,T4qdrHguM3lv7FZKVaXGE-10:00:00
+_vmDlVKVUg18sxdNzhCZt,Ground_Daily,Accra New Tema Station,0,Nq5twMSFSn6NxJvHuQf9u_Shape,Nq5twMSFSn6NxJvHuQf9u-15:00:00
+_vmDlVKVUg18sxdNzhCZt,Ground_Daily,Accra New Tema Station,0,Nq5twMSFSn6NxJvHuQf9u_Shape,Nq5twMSFSn6NxJvHuQf9u-06:00:00
+_vmDlVKVUg18sxdNzhCZt,Ground_Daily,Accra New Tema Station,0,Nq5twMSFSn6NxJvHuQf9u_Shape,Nq5twMSFSn6NxJvHuQf9u-10:00:00
+4KRmOZH2QK2ExyYGiO-ls,Ground_Daily,Kasoa,0,vvXqHeyR2YodKUG-z-JWt_Shape,vvXqHeyR2YodKUG-z-JWt-15:00:00
+4KRmOZH2QK2ExyYGiO-ls,Ground_Daily,Kasoa,0,vvXqHeyR2YodKUG-z-JWt_Shape,vvXqHeyR2YodKUG-z-JWt-06:00:00
+4KRmOZH2QK2ExyYGiO-ls,Ground_Daily,Kasoa,0,vvXqHeyR2YodKUG-z-JWt_Shape,vvXqHeyR2YodKUG-z-JWt-10:00:00
+zufun5GAVI_Zr0wdokZYU,Ground_Daily,Ashaiman Station (Kufour Station),1,-f9tOzAM76GKpFV8dNBAF_Shape,-f9tOzAM76GKpFV8dNBAF-15:00:00
+zufun5GAVI_Zr0wdokZYU,Ground_Daily,Ashaiman Station (Kufour Station),1,-f9tOzAM76GKpFV8dNBAF_Shape,-f9tOzAM76GKpFV8dNBAF-06:00:00
+zufun5GAVI_Zr0wdokZYU,Ground_Daily,Ashaiman Station (Kufour Station),1,-f9tOzAM76GKpFV8dNBAF_Shape,-f9tOzAM76GKpFV8dNBAF-10:00:00
+dkRSMijy71GNbEPjbgGBP,Ground_Daily,Ashaiman Station (Kufour Station),1,0lwfXMWkRtjtF0HQ9gIvF_Shape,0lwfXMWkRtjtF0HQ9gIvF-15:00:00
+dkRSMijy71GNbEPjbgGBP,Ground_Daily,Ashaiman Station (Kufour Station),1,0lwfXMWkRtjtF0HQ9gIvF_Shape,0lwfXMWkRtjtF0HQ9gIvF-06:00:00
+dkRSMijy71GNbEPjbgGBP,Ground_Daily,Ashaiman Station (Kufour Station),1,0lwfXMWkRtjtF0HQ9gIvF_Shape,0lwfXMWkRtjtF0HQ9gIvF-10:00:00
+lJEb312-N59xoX7JHLI-n,Ground_Daily,Korle Bu Station,0,2qZBXoy9mrXRJLZefS5ww_Shape,2qZBXoy9mrXRJLZefS5ww-15:00:00
+lJEb312-N59xoX7JHLI-n,Ground_Daily,Korle Bu Station,0,2qZBXoy9mrXRJLZefS5ww_Shape,2qZBXoy9mrXRJLZefS5ww-06:00:00
+lJEb312-N59xoX7JHLI-n,Ground_Daily,Korle Bu Station,0,2qZBXoy9mrXRJLZefS5ww_Shape,2qZBXoy9mrXRJLZefS5ww-10:00:00
+1ON8TOEKS2KUQHr8fmZCP,Ground_Daily, Agbogbloshi Agege,1,rKRh4GIbcw0Ew58k0zUio_Shape,rKRh4GIbcw0Ew58k0zUio-15:00:00
+1ON8TOEKS2KUQHr8fmZCP,Ground_Daily, Agbogbloshi Agege,1,rKRh4GIbcw0Ew58k0zUio_Shape,rKRh4GIbcw0Ew58k0zUio-06:00:00
+1ON8TOEKS2KUQHr8fmZCP,Ground_Daily, Agbogbloshi Agege,1,rKRh4GIbcw0Ew58k0zUio_Shape,rKRh4GIbcw0Ew58k0zUio-10:00:00
+_p7T806PausOLlhoe0RnT,Ground_Daily,Paradise ,0,bmG_dShl8hrc8kimSrLZe_Shape,bmG_dShl8hrc8kimSrLZe-15:00:00
+_p7T806PausOLlhoe0RnT,Ground_Daily,Paradise ,0,bmG_dShl8hrc8kimSrLZe_Shape,bmG_dShl8hrc8kimSrLZe-06:00:00
+_p7T806PausOLlhoe0RnT,Ground_Daily,Paradise ,0,bmG_dShl8hrc8kimSrLZe_Shape,bmG_dShl8hrc8kimSrLZe-10:00:00
+mxQRUd2BCUttWxFLOKFCW,Ground_Daily,Madina Station (Zongo Junction) ,0,VPz4jYMj997M-RIUnYKEc_Shape,VPz4jYMj997M-RIUnYKEc-15:00:00
+mxQRUd2BCUttWxFLOKFCW,Ground_Daily,Madina Station (Zongo Junction) ,0,VPz4jYMj997M-RIUnYKEc_Shape,VPz4jYMj997M-RIUnYKEc-06:00:00
+mxQRUd2BCUttWxFLOKFCW,Ground_Daily,Madina Station (Zongo Junction) ,0,VPz4jYMj997M-RIUnYKEc_Shape,VPz4jYMj997M-RIUnYKEc-10:00:00
+dM9IqdKfZ6wqBBBO5Ie_s,Ground_Daily,Circle Station,0,i-F_w_XboxQK6wT36_00P_Shape,i-F_w_XboxQK6wT36_00P-15:00:00
+dM9IqdKfZ6wqBBBO5Ie_s,Ground_Daily,Circle Station,0,i-F_w_XboxQK6wT36_00P_Shape,i-F_w_XboxQK6wT36_00P-06:00:00
+dM9IqdKfZ6wqBBBO5Ie_s,Ground_Daily,Circle Station,0,i-F_w_XboxQK6wT36_00P_Shape,i-F_w_XboxQK6wT36_00P-10:00:00
+dXrIBockxdBK08-dYy2P3,Ground_Daily,Haatso,1,YU1OMa3rXNUcR2UprEH5N_Shape,YU1OMa3rXNUcR2UprEH5N-15:00:00
+dXrIBockxdBK08-dYy2P3,Ground_Daily,Haatso,1,YU1OMa3rXNUcR2UprEH5N_Shape,YU1OMa3rXNUcR2UprEH5N-06:00:00
+dXrIBockxdBK08-dYy2P3,Ground_Daily,Haatso,1,YU1OMa3rXNUcR2UprEH5N_Shape,YU1OMa3rXNUcR2UprEH5N-10:00:00
+hqAvHeJptNetCYeKfLR7n,Ground_Daily,Tema Harbour,0,P7jCjbCvEbpedz7nA1W-t_Shape,P7jCjbCvEbpedz7nA1W-t-15:00:00
+hqAvHeJptNetCYeKfLR7n,Ground_Daily,Tema Harbour,0,P7jCjbCvEbpedz7nA1W-t_Shape,P7jCjbCvEbpedz7nA1W-t-06:00:00
+hqAvHeJptNetCYeKfLR7n,Ground_Daily,Tema Harbour,0,P7jCjbCvEbpedz7nA1W-t_Shape,P7jCjbCvEbpedz7nA1W-t-10:00:00
+BTiXU1HHVsFr06-g0ld8N,Ground_Daily,Kaneshie Market station,0,6TLCz5CCAK5nDZbsac-_w_Shape,6TLCz5CCAK5nDZbsac-_w-15:00:00
+BTiXU1HHVsFr06-g0ld8N,Ground_Daily,Kaneshie Market station,0,6TLCz5CCAK5nDZbsac-_w_Shape,6TLCz5CCAK5nDZbsac-_w-06:00:00
+BTiXU1HHVsFr06-g0ld8N,Ground_Daily,Kaneshie Market station,0,6TLCz5CCAK5nDZbsac-_w_Shape,6TLCz5CCAK5nDZbsac-_w-10:00:00
+vy2sw1hqvO6auywtGX6u2,Ground_Daily,Soko,0,C5QE8GhT4XH_kQ3gRGir5_Shape,C5QE8GhT4XH_kQ3gRGir5-15:00:00
+vy2sw1hqvO6auywtGX6u2,Ground_Daily,Soko,0,C5QE8GhT4XH_kQ3gRGir5_Shape,C5QE8GhT4XH_kQ3gRGir5-06:00:00
+vy2sw1hqvO6auywtGX6u2,Ground_Daily,Soko,0,C5QE8GhT4XH_kQ3gRGir5_Shape,C5QE8GhT4XH_kQ3gRGir5-10:00:00
+1_4FJdQLS4oBrmkEzJZVc,Ground_Daily,Circle Station,1,XpaaOCiEACA-K6ecoExzq_Shape,XpaaOCiEACA-K6ecoExzq-15:00:00
+1_4FJdQLS4oBrmkEzJZVc,Ground_Daily,Circle Station,1,XpaaOCiEACA-K6ecoExzq_Shape,XpaaOCiEACA-K6ecoExzq-06:00:00
+1_4FJdQLS4oBrmkEzJZVc,Ground_Daily,Circle Station,1,XpaaOCiEACA-K6ecoExzq_Shape,XpaaOCiEACA-K6ecoExzq-10:00:00
+acAAd_jiwfLmMXCEcDCCv,Ground_Daily,American house Bus Terminal,0,lovj9hiCyJzfDg3U5NQuy_Shape,lovj9hiCyJzfDg3U5NQuy-15:00:00
+acAAd_jiwfLmMXCEcDCCv,Ground_Daily,American house Bus Terminal,0,lovj9hiCyJzfDg3U5NQuy_Shape,lovj9hiCyJzfDg3U5NQuy-06:00:00
+acAAd_jiwfLmMXCEcDCCv,Ground_Daily,American house Bus Terminal,0,lovj9hiCyJzfDg3U5NQuy_Shape,lovj9hiCyJzfDg3U5NQuy-10:00:00
+jY9AM9bHWuceHZP7MIknh,Ground_Daily,Ashaiman Station (Kufour Station),0,_EFcLDw2rmYBSwVYNgVL4_Shape,_EFcLDw2rmYBSwVYNgVL4-15:00:00
+jY9AM9bHWuceHZP7MIknh,Ground_Daily,Ashaiman Station (Kufour Station),0,_EFcLDw2rmYBSwVYNgVL4_Shape,_EFcLDw2rmYBSwVYNgVL4-06:00:00
+jY9AM9bHWuceHZP7MIknh,Ground_Daily,Ashaiman Station (Kufour Station),0,_EFcLDw2rmYBSwVYNgVL4_Shape,_EFcLDw2rmYBSwVYNgVL4-10:00:00
+TY-xclxe7Bo5MBgMCZKSf,Ground_Daily,Kaneshie Market station,0,zlJxcPmuQAsoNh_KEQG0K_Shape,zlJxcPmuQAsoNh_KEQG0K-15:00:00
+TY-xclxe7Bo5MBgMCZKSf,Ground_Daily,Kaneshie Market station,0,zlJxcPmuQAsoNh_KEQG0K_Shape,zlJxcPmuQAsoNh_KEQG0K-06:00:00
+TY-xclxe7Bo5MBgMCZKSf,Ground_Daily,Kaneshie Market station,0,zlJxcPmuQAsoNh_KEQG0K_Shape,zlJxcPmuQAsoNh_KEQG0K-10:00:00
+eqbjLlrgPipFWcqipPuod,Ground_Daily,Nima,0,sZoBJH0ALbVwL3J_zv2rx_Shape,sZoBJH0ALbVwL3J_zv2rx-15:00:00
+eqbjLlrgPipFWcqipPuod,Ground_Daily,Nima,0,sZoBJH0ALbVwL3J_zv2rx_Shape,sZoBJH0ALbVwL3J_zv2rx-06:00:00
+eqbjLlrgPipFWcqipPuod,Ground_Daily,Nima,0,sZoBJH0ALbVwL3J_zv2rx_Shape,sZoBJH0ALbVwL3J_zv2rx-10:00:00
+HiChfKHblcNTG217HY9ja,Ground_Daily,Madina Station (Zongo Junction) ,1,h4KYxqFb3Q4tJmp3yF24g_Shape,h4KYxqFb3Q4tJmp3yF24g-15:00:00
+HiChfKHblcNTG217HY9ja,Ground_Daily,Madina Station (Zongo Junction) ,1,h4KYxqFb3Q4tJmp3yF24g_Shape,h4KYxqFb3Q4tJmp3yF24g-06:00:00
+HiChfKHblcNTG217HY9ja,Ground_Daily,Madina Station (Zongo Junction) ,1,h4KYxqFb3Q4tJmp3yF24g_Shape,h4KYxqFb3Q4tJmp3yF24g-10:00:00
+_vmDlVKVUg18sxdNzhCZt,Ground_Daily,Haatso,1,qJDZuORfliN47OhvEWNvb_Shape,qJDZuORfliN47OhvEWNvb-15:00:00
+_vmDlVKVUg18sxdNzhCZt,Ground_Daily,Haatso,1,qJDZuORfliN47OhvEWNvb_Shape,qJDZuORfliN47OhvEWNvb-06:00:00
+_vmDlVKVUg18sxdNzhCZt,Ground_Daily,Haatso,1,qJDZuORfliN47OhvEWNvb_Shape,qJDZuORfliN47OhvEWNvb-10:00:00
+v-rQTOtM-dObQqLG13iSu,Ground_Daily,Madina Station (Zongo Junction) ,0,y2K5I0NPhcOivb_OcyCBy_Shape,y2K5I0NPhcOivb_OcyCBy-15:00:00
+v-rQTOtM-dObQqLG13iSu,Ground_Daily,Madina Station (Zongo Junction) ,0,y2K5I0NPhcOivb_OcyCBy_Shape,y2K5I0NPhcOivb_OcyCBy-06:00:00
+v-rQTOtM-dObQqLG13iSu,Ground_Daily,Madina Station (Zongo Junction) ,0,y2K5I0NPhcOivb_OcyCBy_Shape,y2K5I0NPhcOivb_OcyCBy-10:00:00
+r5x8oSBuqsjdcwoks9b4w,Ground_Daily,Kotoku Terminal,0,FUvMwHZsX44KKvD_T9hlE_Shape,FUvMwHZsX44KKvD_T9hlE-15:00:00
+r5x8oSBuqsjdcwoks9b4w,Ground_Daily,Kotoku Terminal,0,FUvMwHZsX44KKvD_T9hlE_Shape,FUvMwHZsX44KKvD_T9hlE-06:00:00
+r5x8oSBuqsjdcwoks9b4w,Ground_Daily,Kotoku Terminal,0,FUvMwHZsX44KKvD_T9hlE_Shape,FUvMwHZsX44KKvD_T9hlE-10:00:00
+u6SEJYohZ-ZZqn-19EYXC,Ground_Daily,Nsakina,1,hX4YhvawWHMsdPoGrC5xP_Shape,hX4YhvawWHMsdPoGrC5xP-15:00:00
+u6SEJYohZ-ZZqn-19EYXC,Ground_Daily,Nsakina,1,hX4YhvawWHMsdPoGrC5xP_Shape,hX4YhvawWHMsdPoGrC5xP-06:00:00
+u6SEJYohZ-ZZqn-19EYXC,Ground_Daily,Nsakina,1,hX4YhvawWHMsdPoGrC5xP_Shape,hX4YhvawWHMsdPoGrC5xP-10:00:00
+tID9RhyAMmVTdnVsVj39f,Ground_Daily,Amasaman Trotro Station,1,pi6HaJqoOQESfQzk-Onr6_Shape,pi6HaJqoOQESfQzk-Onr6-15:00:00
+tID9RhyAMmVTdnVsVj39f,Ground_Daily,Amasaman Trotro Station,1,pi6HaJqoOQESfQzk-Onr6_Shape,pi6HaJqoOQESfQzk-Onr6-06:00:00
+tID9RhyAMmVTdnVsVj39f,Ground_Daily,Amasaman Trotro Station,1,pi6HaJqoOQESfQzk-Onr6_Shape,pi6HaJqoOQESfQzk-Onr6-10:00:00
+D84oAccZhMqDGa93XXMKq,Ground_Daily,Ashaiman Station (Kufour Station),1,zJCpboqtXIFgdowPpGS-i_Shape,zJCpboqtXIFgdowPpGS-i-15:00:00
+D84oAccZhMqDGa93XXMKq,Ground_Daily,Ashaiman Station (Kufour Station),1,zJCpboqtXIFgdowPpGS-i_Shape,zJCpboqtXIFgdowPpGS-i-06:00:00
+D84oAccZhMqDGa93XXMKq,Ground_Daily,Ashaiman Station (Kufour Station),1,zJCpboqtXIFgdowPpGS-i_Shape,zJCpboqtXIFgdowPpGS-i-10:00:00
+3-HoAr2BSFvsXf64Zqifg,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,SKJPwz2kkrG2c6Jqd0hbT_Shape,SKJPwz2kkrG2c6Jqd0hbT-15:00:00
+3-HoAr2BSFvsXf64Zqifg,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,SKJPwz2kkrG2c6Jqd0hbT_Shape,SKJPwz2kkrG2c6Jqd0hbT-06:00:00
+3-HoAr2BSFvsXf64Zqifg,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,SKJPwz2kkrG2c6Jqd0hbT_Shape,SKJPwz2kkrG2c6Jqd0hbT-10:00:00
+-eejXdDU_FPhCM0H-VZh6,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,EXInnZlDpGgKYtFq-1TO9_Shape,EXInnZlDpGgKYtFq-1TO9-15:00:00
+-eejXdDU_FPhCM0H-VZh6,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,EXInnZlDpGgKYtFq-1TO9_Shape,EXInnZlDpGgKYtFq-1TO9-06:00:00
+-eejXdDU_FPhCM0H-VZh6,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,EXInnZlDpGgKYtFq-1TO9_Shape,EXInnZlDpGgKYtFq-1TO9-10:00:00
+5s9jiICqJvYraRGlDy8Ex,Ground_Daily,Madina Station (Zongo Junction) ,1,N_yEaYUHGjHpTASuPa7Rt_Shape,N_yEaYUHGjHpTASuPa7Rt-15:00:00
+5s9jiICqJvYraRGlDy8Ex,Ground_Daily,Madina Station (Zongo Junction) ,1,N_yEaYUHGjHpTASuPa7Rt_Shape,N_yEaYUHGjHpTASuPa7Rt-06:00:00
+5s9jiICqJvYraRGlDy8Ex,Ground_Daily,Madina Station (Zongo Junction) ,1,N_yEaYUHGjHpTASuPa7Rt_Shape,N_yEaYUHGjHpTASuPa7Rt-10:00:00
+wG2YUaUadLLv-k0IrG_U5,Ground_Daily,Dome Market,0,6_eknTF6rnplUdwTrKudt_Shape,6_eknTF6rnplUdwTrKudt-15:00:00
+wG2YUaUadLLv-k0IrG_U5,Ground_Daily,Dome Market,0,6_eknTF6rnplUdwTrKudt_Shape,6_eknTF6rnplUdwTrKudt-06:00:00
+wG2YUaUadLLv-k0IrG_U5,Ground_Daily,Dome Market,0,6_eknTF6rnplUdwTrKudt_Shape,6_eknTF6rnplUdwTrKudt-10:00:00
+N2OOOU6L9K-jBuNe7qmas,Ground_Daily,37 Station,0,rGVET5iLKhSEka9ymCp0i_Shape,rGVET5iLKhSEka9ymCp0i-15:00:00
+N2OOOU6L9K-jBuNe7qmas,Ground_Daily,37 Station,0,rGVET5iLKhSEka9ymCp0i_Shape,rGVET5iLKhSEka9ymCp0i-06:00:00
+N2OOOU6L9K-jBuNe7qmas,Ground_Daily,37 Station,0,rGVET5iLKhSEka9ymCp0i_Shape,rGVET5iLKhSEka9ymCp0i-10:00:00
+9aSZoy74ZIoGa7BAw3ujs,Ground_Daily,Kaneshie Market station,0,538SEjo_o3kJfUUFG6nq6_Shape,538SEjo_o3kJfUUFG6nq6-15:00:00
+9aSZoy74ZIoGa7BAw3ujs,Ground_Daily,Kaneshie Market station,0,538SEjo_o3kJfUUFG6nq6_Shape,538SEjo_o3kJfUUFG6nq6-06:00:00
+9aSZoy74ZIoGa7BAw3ujs,Ground_Daily,Kaneshie Market station,0,538SEjo_o3kJfUUFG6nq6_Shape,538SEjo_o3kJfUUFG6nq6-10:00:00
+CINobVTdlDAx-0DhIoasO,Ground_Daily,Agbogba,0,E-uZ7JsGFGRb58nTolPkP_Shape,E-uZ7JsGFGRb58nTolPkP-15:00:00
+CINobVTdlDAx-0DhIoasO,Ground_Daily,Agbogba,0,E-uZ7JsGFGRb58nTolPkP_Shape,E-uZ7JsGFGRb58nTolPkP-06:00:00
+CINobVTdlDAx-0DhIoasO,Ground_Daily,Agbogba,0,E-uZ7JsGFGRb58nTolPkP_Shape,E-uZ7JsGFGRb58nTolPkP-10:00:00
+OCH2oSd4z4FvGoDiemWUm,Ground_Daily,Kasoa,0,WmoXQbnOPzFz8FU0UhJuV_Shape,WmoXQbnOPzFz8FU0UhJuV-15:00:00
+OCH2oSd4z4FvGoDiemWUm,Ground_Daily,Kasoa,0,WmoXQbnOPzFz8FU0UhJuV_Shape,WmoXQbnOPzFz8FU0UhJuV-06:00:00
+OCH2oSd4z4FvGoDiemWUm,Ground_Daily,Kasoa,0,WmoXQbnOPzFz8FU0UhJuV_Shape,WmoXQbnOPzFz8FU0UhJuV-10:00:00
+QWccH6EZpYP2x2GnPxVyM,Ground_Daily,Ablekuma Curve,1,xXdlhT5u4G7H4eTyAdmun_Shape,xXdlhT5u4G7H4eTyAdmun-15:00:00
+QWccH6EZpYP2x2GnPxVyM,Ground_Daily,Ablekuma Curve,1,xXdlhT5u4G7H4eTyAdmun_Shape,xXdlhT5u4G7H4eTyAdmun-06:00:00
+QWccH6EZpYP2x2GnPxVyM,Ground_Daily,Ablekuma Curve,1,xXdlhT5u4G7H4eTyAdmun_Shape,xXdlhT5u4G7H4eTyAdmun-10:00:00
+BM8baONomcMVSiPCRFs2x,Ground_Daily,Madina Station (Zongo Junction) ,1,x9ktunQzc8TmO1_aFyPfm_Shape,x9ktunQzc8TmO1_aFyPfm-15:00:00
+BM8baONomcMVSiPCRFs2x,Ground_Daily,Madina Station (Zongo Junction) ,1,x9ktunQzc8TmO1_aFyPfm_Shape,x9ktunQzc8TmO1_aFyPfm-06:00:00
+BM8baONomcMVSiPCRFs2x,Ground_Daily,Madina Station (Zongo Junction) ,1,x9ktunQzc8TmO1_aFyPfm_Shape,x9ktunQzc8TmO1_aFyPfm-10:00:00
+CLvAQbMUB-HOgIGDTV3jc,Ground_Daily,Kaneshie Market station,0,wqyWZ409fOGzwHGf3U8G7_Shape,wqyWZ409fOGzwHGf3U8G7-15:00:00
+CLvAQbMUB-HOgIGDTV3jc,Ground_Daily,Kaneshie Market station,0,wqyWZ409fOGzwHGf3U8G7_Shape,wqyWZ409fOGzwHGf3U8G7-06:00:00
+CLvAQbMUB-HOgIGDTV3jc,Ground_Daily,Kaneshie Market station,0,wqyWZ409fOGzwHGf3U8G7_Shape,wqyWZ409fOGzwHGf3U8G7-10:00:00
+1RkVGvGMtvT9OsOt_PN_Y,Ground_Daily,Circle Station,1,2h_lqqTzvww71pCm-vIEp_Shape,2h_lqqTzvww71pCm-vIEp-15:00:00
+1RkVGvGMtvT9OsOt_PN_Y,Ground_Daily,Circle Station,1,2h_lqqTzvww71pCm-vIEp_Shape,2h_lqqTzvww71pCm-vIEp-06:00:00
+1RkVGvGMtvT9OsOt_PN_Y,Ground_Daily,Circle Station,1,2h_lqqTzvww71pCm-vIEp_Shape,2h_lqqTzvww71pCm-vIEp-10:00:00
+_TNzCXOHtL0MpOjwoCpXc,Ground_Daily,Circle Station,0,DxXIBpAbpotQtkD_LDURQ_Shape,DxXIBpAbpotQtkD_LDURQ-15:00:00
+_TNzCXOHtL0MpOjwoCpXc,Ground_Daily,Circle Station,0,DxXIBpAbpotQtkD_LDURQ_Shape,DxXIBpAbpotQtkD_LDURQ-06:00:00
+_TNzCXOHtL0MpOjwoCpXc,Ground_Daily,Circle Station,0,DxXIBpAbpotQtkD_LDURQ_Shape,DxXIBpAbpotQtkD_LDURQ-10:00:00
+uSdL5nignt6tOtS6M9MDu,Ground_Daily,Alogboshie ,0,1C-jW_m6hFABDw9-82oFc_Shape,1C-jW_m6hFABDw9-82oFc-15:00:00
+uSdL5nignt6tOtS6M9MDu,Ground_Daily,Alogboshie ,0,1C-jW_m6hFABDw9-82oFc_Shape,1C-jW_m6hFABDw9-82oFc-06:00:00
+uSdL5nignt6tOtS6M9MDu,Ground_Daily,Alogboshie ,0,1C-jW_m6hFABDw9-82oFc_Shape,1C-jW_m6hFABDw9-82oFc-10:00:00
+cd5Nt0QusMON9Ygg6rqjG,Ground_Daily,Ashaiman Station (Kufour Station),1,i76S6_KRtsl-842zUPpWz_Shape,i76S6_KRtsl-842zUPpWz-15:00:00
+cd5Nt0QusMON9Ygg6rqjG,Ground_Daily,Ashaiman Station (Kufour Station),1,i76S6_KRtsl-842zUPpWz_Shape,i76S6_KRtsl-842zUPpWz-06:00:00
+cd5Nt0QusMON9Ygg6rqjG,Ground_Daily,Ashaiman Station (Kufour Station),1,i76S6_KRtsl-842zUPpWz_Shape,i76S6_KRtsl-842zUPpWz-10:00:00
+8nqLhr30FSB3cBS6oKL00,Ground_Daily,Ablekuma Curve,1,JjhQdzsI36f303ZLVRc34_Shape,JjhQdzsI36f303ZLVRc34-15:00:00
+8nqLhr30FSB3cBS6oKL00,Ground_Daily,Ablekuma Curve,1,JjhQdzsI36f303ZLVRc34_Shape,JjhQdzsI36f303ZLVRc34-06:00:00
+8nqLhr30FSB3cBS6oKL00,Ground_Daily,Ablekuma Curve,1,JjhQdzsI36f303ZLVRc34_Shape,JjhQdzsI36f303ZLVRc34-10:00:00
+JVqahW5nPZXElwd6t1-jG,Ground_Daily,Botwe Old town,1,798biJhG8dfzNBderCFxe_Shape,798biJhG8dfzNBderCFxe-15:00:00
+JVqahW5nPZXElwd6t1-jG,Ground_Daily,Botwe Old town,1,798biJhG8dfzNBderCFxe_Shape,798biJhG8dfzNBderCFxe-06:00:00
+JVqahW5nPZXElwd6t1-jG,Ground_Daily,Botwe Old town,1,798biJhG8dfzNBderCFxe_Shape,798biJhG8dfzNBderCFxe-10:00:00
+QWccH6EZpYP2x2GnPxVyM,Ground_Daily,Manhean,0,s60le_Suc0SDc1fLWFnMf_Shape,s60le_Suc0SDc1fLWFnMf-15:00:00
+QWccH6EZpYP2x2GnPxVyM,Ground_Daily,Manhean,0,s60le_Suc0SDc1fLWFnMf_Shape,s60le_Suc0SDc1fLWFnMf-06:00:00
+QWccH6EZpYP2x2GnPxVyM,Ground_Daily,Manhean,0,s60le_Suc0SDc1fLWFnMf_Shape,s60le_Suc0SDc1fLWFnMf-10:00:00
+16u8vGHOX-ITC_ygJ4fCN,Ground_Daily,Madina Station (Zongo Junction) ,1,78fRkgONmtZ8pU0vGZNCC_Shape,78fRkgONmtZ8pU0vGZNCC-15:00:00
+16u8vGHOX-ITC_ygJ4fCN,Ground_Daily,Madina Station (Zongo Junction) ,1,78fRkgONmtZ8pU0vGZNCC_Shape,78fRkgONmtZ8pU0vGZNCC-06:00:00
+16u8vGHOX-ITC_ygJ4fCN,Ground_Daily,Madina Station (Zongo Junction) ,1,78fRkgONmtZ8pU0vGZNCC_Shape,78fRkgONmtZ8pU0vGZNCC-10:00:00
+ooWHXaGhnZt5jXW4n9gMa,Ground_Daily,Accra CMB,0,TZeScrVHHiAfemO2QVbyr_Shape,TZeScrVHHiAfemO2QVbyr-15:00:00
+ooWHXaGhnZt5jXW4n9gMa,Ground_Daily,Accra CMB,0,TZeScrVHHiAfemO2QVbyr_Shape,TZeScrVHHiAfemO2QVbyr-06:00:00
+ooWHXaGhnZt5jXW4n9gMa,Ground_Daily,Accra CMB,0,TZeScrVHHiAfemO2QVbyr_Shape,TZeScrVHHiAfemO2QVbyr-10:00:00
+TjLQEvNf1LzFpW09ri51f,Ground_Daily,Mallam Junction,0,CJXyTp9cAbBVpbP3HAcfx_Shape,CJXyTp9cAbBVpbP3HAcfx-15:00:00
+TjLQEvNf1LzFpW09ri51f,Ground_Daily,Mallam Junction,0,CJXyTp9cAbBVpbP3HAcfx_Shape,CJXyTp9cAbBVpbP3HAcfx-06:00:00
+TjLQEvNf1LzFpW09ri51f,Ground_Daily,Mallam Junction,0,CJXyTp9cAbBVpbP3HAcfx_Shape,CJXyTp9cAbBVpbP3HAcfx-10:00:00
+r5x8oSBuqsjdcwoks9b4w,Ground_Daily,Amasaman Trotro Station,1,R1uqK76zfUL1rj1rfoLTF_Shape,R1uqK76zfUL1rj1rfoLTF-15:00:00
+r5x8oSBuqsjdcwoks9b4w,Ground_Daily,Amasaman Trotro Station,1,R1uqK76zfUL1rj1rfoLTF_Shape,R1uqK76zfUL1rj1rfoLTF-06:00:00
+r5x8oSBuqsjdcwoks9b4w,Ground_Daily,Amasaman Trotro Station,1,R1uqK76zfUL1rj1rfoLTF_Shape,R1uqK76zfUL1rj1rfoLTF-10:00:00
+qApQxV1jSTWBZYHN9xaCy,Ground_Daily,Achimota Station,0,qx_hAe78D1B_ZVUUUKNF-_Shape,qx_hAe78D1B_ZVUUUKNF--15:00:00
+qApQxV1jSTWBZYHN9xaCy,Ground_Daily,Achimota Station,0,qx_hAe78D1B_ZVUUUKNF-_Shape,qx_hAe78D1B_ZVUUUKNF--06:00:00
+qApQxV1jSTWBZYHN9xaCy,Ground_Daily,Achimota Station,0,qx_hAe78D1B_ZVUUUKNF-_Shape,qx_hAe78D1B_ZVUUUKNF--10:00:00
+qYg-j93PrKUZy8TiLrhmv,Ground_Daily,Aplaku Old Barrier Taxi Rank,1,Bmu-4Qgyy_HjYABIo0T4Y_Shape,Bmu-4Qgyy_HjYABIo0T4Y-15:00:00
+qYg-j93PrKUZy8TiLrhmv,Ground_Daily,Aplaku Old Barrier Taxi Rank,1,Bmu-4Qgyy_HjYABIo0T4Y_Shape,Bmu-4Qgyy_HjYABIo0T4Y-06:00:00
+qYg-j93PrKUZy8TiLrhmv,Ground_Daily,Aplaku Old Barrier Taxi Rank,1,Bmu-4Qgyy_HjYABIo0T4Y_Shape,Bmu-4Qgyy_HjYABIo0T4Y-10:00:00
+vFT-0w8H5XGCVx4hdh6KB,Ground_Daily,Santa Maria,0,Z6OKObQq9wuTdfUAn_htk_Shape,Z6OKObQq9wuTdfUAn_htk-15:00:00
+vFT-0w8H5XGCVx4hdh6KB,Ground_Daily,Santa Maria,0,Z6OKObQq9wuTdfUAn_htk_Shape,Z6OKObQq9wuTdfUAn_htk-06:00:00
+vFT-0w8H5XGCVx4hdh6KB,Ground_Daily,Santa Maria,0,Z6OKObQq9wuTdfUAn_htk_Shape,Z6OKObQq9wuTdfUAn_htk-10:00:00
+TH0DJ_NrKtO0IIsowk8UL,Ground_Daily,Asofan,0,tMUAyBkRn9nUlFXr9fnCk_Shape,tMUAyBkRn9nUlFXr9fnCk-15:00:00
+TH0DJ_NrKtO0IIsowk8UL,Ground_Daily,Asofan,0,tMUAyBkRn9nUlFXr9fnCk_Shape,tMUAyBkRn9nUlFXr9fnCk-06:00:00
+TH0DJ_NrKtO0IIsowk8UL,Ground_Daily,Asofan,0,tMUAyBkRn9nUlFXr9fnCk_Shape,tMUAyBkRn9nUlFXr9fnCk-10:00:00
+eqbjLlrgPipFWcqipPuod,Ground_Daily,Community 1 (Tema Casino),1,Fd3BtnkWh3STBk3gCM9Ps_Shape,Fd3BtnkWh3STBk3gCM9Ps-15:00:00
+eqbjLlrgPipFWcqipPuod,Ground_Daily,Community 1 (Tema Casino),1,Fd3BtnkWh3STBk3gCM9Ps_Shape,Fd3BtnkWh3STBk3gCM9Ps-06:00:00
+eqbjLlrgPipFWcqipPuod,Ground_Daily,Community 1 (Tema Casino),1,Fd3BtnkWh3STBk3gCM9Ps_Shape,Fd3BtnkWh3STBk3gCM9Ps-10:00:00
+4Za5kNxe03630xsiE2j34,Ground_Daily,Amasaman Trotro Station,0,mNaFd25iKUayjPWRJmo7i_Shape,mNaFd25iKUayjPWRJmo7i-15:00:00
+4Za5kNxe03630xsiE2j34,Ground_Daily,Amasaman Trotro Station,0,mNaFd25iKUayjPWRJmo7i_Shape,mNaFd25iKUayjPWRJmo7i-06:00:00
+4Za5kNxe03630xsiE2j34,Ground_Daily,Amasaman Trotro Station,0,mNaFd25iKUayjPWRJmo7i_Shape,mNaFd25iKUayjPWRJmo7i-10:00:00
+Z0_PYuBeCGpmejSWcflsb,Ground_Daily,Pantang Hospital Junction,0,KYdCv2vs9DDXNp0YZt6-x_Shape,KYdCv2vs9DDXNp0YZt6-x-15:00:00
+Z0_PYuBeCGpmejSWcflsb,Ground_Daily,Pantang Hospital Junction,0,KYdCv2vs9DDXNp0YZt6-x_Shape,KYdCv2vs9DDXNp0YZt6-x-06:00:00
+Z0_PYuBeCGpmejSWcflsb,Ground_Daily,Pantang Hospital Junction,0,KYdCv2vs9DDXNp0YZt6-x_Shape,KYdCv2vs9DDXNp0YZt6-x-10:00:00
+vy2sw1hqvO6auywtGX6u2,Ground_Daily,Salaga Market Station,1,J3YOonyFWpzD8ay6s2Ouv_Shape,J3YOonyFWpzD8ay6s2Ouv-15:00:00
+vy2sw1hqvO6auywtGX6u2,Ground_Daily,Salaga Market Station,1,J3YOonyFWpzD8ay6s2Ouv_Shape,J3YOonyFWpzD8ay6s2Ouv-06:00:00
+vy2sw1hqvO6auywtGX6u2,Ground_Daily,Salaga Market Station,1,J3YOonyFWpzD8ay6s2Ouv_Shape,J3YOonyFWpzD8ay6s2Ouv-10:00:00
+VWnqip9wsAwRh1zOXkUSv,Ground_Daily,Ashaiman Station (Kufour Station),1,iz95Eav0YaRY95oWe9I5y_Shape,iz95Eav0YaRY95oWe9I5y-15:00:00
+VWnqip9wsAwRh1zOXkUSv,Ground_Daily,Ashaiman Station (Kufour Station),1,iz95Eav0YaRY95oWe9I5y_Shape,iz95Eav0YaRY95oWe9I5y-06:00:00
+VWnqip9wsAwRh1zOXkUSv,Ground_Daily,Ashaiman Station (Kufour Station),1,iz95Eav0YaRY95oWe9I5y_Shape,iz95Eav0YaRY95oWe9I5y-10:00:00
+4KRmOZH2QK2ExyYGiO-ls,Ground_Daily,Kaneshie Market station,1,TEUd3P-JDQCH1uE34qiUG_Shape,TEUd3P-JDQCH1uE34qiUG-15:00:00
+4KRmOZH2QK2ExyYGiO-ls,Ground_Daily,Kaneshie Market station,1,TEUd3P-JDQCH1uE34qiUG_Shape,TEUd3P-JDQCH1uE34qiUG-06:00:00
+4KRmOZH2QK2ExyYGiO-ls,Ground_Daily,Kaneshie Market station,1,TEUd3P-JDQCH1uE34qiUG_Shape,TEUd3P-JDQCH1uE34qiUG-10:00:00
+pBPzrEOXw2H_Fv34QU96p,Ground_Daily,Manhean,1,Y8arQyR9JC6mGkUNiFyGM_Shape,Y8arQyR9JC6mGkUNiFyGM-15:00:00
+pBPzrEOXw2H_Fv34QU96p,Ground_Daily,Manhean,1,Y8arQyR9JC6mGkUNiFyGM_Shape,Y8arQyR9JC6mGkUNiFyGM-06:00:00
+pBPzrEOXw2H_Fv34QU96p,Ground_Daily,Manhean,1,Y8arQyR9JC6mGkUNiFyGM_Shape,Y8arQyR9JC6mGkUNiFyGM-10:00:00
+AIjyOtzFpO0TtyMQRKW2x,Ground_Daily,Dansoman,0,kIGf1suCOeWcrZ0sBDQ2V_Shape,kIGf1suCOeWcrZ0sBDQ2V-15:00:00
+AIjyOtzFpO0TtyMQRKW2x,Ground_Daily,Dansoman,0,kIGf1suCOeWcrZ0sBDQ2V_Shape,kIGf1suCOeWcrZ0sBDQ2V-06:00:00
+AIjyOtzFpO0TtyMQRKW2x,Ground_Daily,Dansoman,0,kIGf1suCOeWcrZ0sBDQ2V_Shape,kIGf1suCOeWcrZ0sBDQ2V-10:00:00
+6Whldf529geFppHc_WSFA,Ground_Daily,Adenta Station,1,FYvWYMLmA-IV608tkGgAt_Shape,FYvWYMLmA-IV608tkGgAt-15:00:00
+6Whldf529geFppHc_WSFA,Ground_Daily,Adenta Station,1,FYvWYMLmA-IV608tkGgAt_Shape,FYvWYMLmA-IV608tkGgAt-06:00:00
+6Whldf529geFppHc_WSFA,Ground_Daily,Adenta Station,1,FYvWYMLmA-IV608tkGgAt_Shape,FYvWYMLmA-IV608tkGgAt-10:00:00
+OCH2oSd4z4FvGoDiemWUm,Ground_Daily,Amasaman Trotro Station,1,U_40xtbs_QQgH11bF3l9d_Shape,U_40xtbs_QQgH11bF3l9d-15:00:00
+OCH2oSd4z4FvGoDiemWUm,Ground_Daily,Amasaman Trotro Station,1,U_40xtbs_QQgH11bF3l9d_Shape,U_40xtbs_QQgH11bF3l9d-06:00:00
+OCH2oSd4z4FvGoDiemWUm,Ground_Daily,Amasaman Trotro Station,1,U_40xtbs_QQgH11bF3l9d_Shape,U_40xtbs_QQgH11bF3l9d-10:00:00
+hg3pd_vqWIp9aR-vnE3Tt,Ground_Daily,Madina Station (Zongo Junction) ,1,j03of-rjA7x72ynpyKfdj_Shape,j03of-rjA7x72ynpyKfdj-15:00:00
+hg3pd_vqWIp9aR-vnE3Tt,Ground_Daily,Madina Station (Zongo Junction) ,1,j03of-rjA7x72ynpyKfdj_Shape,j03of-rjA7x72ynpyKfdj-06:00:00
+hg3pd_vqWIp9aR-vnE3Tt,Ground_Daily,Madina Station (Zongo Junction) ,1,j03of-rjA7x72ynpyKfdj_Shape,j03of-rjA7x72ynpyKfdj-10:00:00
+zvknVa9uJyCKnYLpoo9Zt,Ground_Daily,Madina Station (Zongo Junction) ,1,qFAcmiSOL1s1t8vqQtMYz_Shape,qFAcmiSOL1s1t8vqQtMYz-15:00:00
+zvknVa9uJyCKnYLpoo9Zt,Ground_Daily,Madina Station (Zongo Junction) ,1,qFAcmiSOL1s1t8vqQtMYz_Shape,qFAcmiSOL1s1t8vqQtMYz-06:00:00
+zvknVa9uJyCKnYLpoo9Zt,Ground_Daily,Madina Station (Zongo Junction) ,1,qFAcmiSOL1s1t8vqQtMYz_Shape,qFAcmiSOL1s1t8vqQtMYz-10:00:00
+Ec3R_EzAhGKpA2UJ_uAi5,Ground_Daily,Community 1 (Tema Casino),1,N8NpPy8WwqincPDRkMdTh_Shape,N8NpPy8WwqincPDRkMdTh-15:00:00
+Ec3R_EzAhGKpA2UJ_uAi5,Ground_Daily,Community 1 (Tema Casino),1,N8NpPy8WwqincPDRkMdTh_Shape,N8NpPy8WwqincPDRkMdTh-06:00:00
+Ec3R_EzAhGKpA2UJ_uAi5,Ground_Daily,Community 1 (Tema Casino),1,N8NpPy8WwqincPDRkMdTh_Shape,N8NpPy8WwqincPDRkMdTh-10:00:00
+37hZyi49zfGfpxd4tznjH,Ground_Daily,Madina Station (Zongo Junction) ,0,hw1XfodFKkR0XWmdCwXOU_Shape,hw1XfodFKkR0XWmdCwXOU-15:00:00
+37hZyi49zfGfpxd4tznjH,Ground_Daily,Madina Station (Zongo Junction) ,0,hw1XfodFKkR0XWmdCwXOU_Shape,hw1XfodFKkR0XWmdCwXOU-06:00:00
+37hZyi49zfGfpxd4tznjH,Ground_Daily,Madina Station (Zongo Junction) ,0,hw1XfodFKkR0XWmdCwXOU_Shape,hw1XfodFKkR0XWmdCwXOU-10:00:00
+aW_4UNyIaF0bMmFSA2KMK,Ground_Daily,Community 1 (Tema Casino),1,STDjysZDQXC44DUnlJnQ6_Shape,STDjysZDQXC44DUnlJnQ6-15:00:00
+aW_4UNyIaF0bMmFSA2KMK,Ground_Daily,Community 1 (Tema Casino),1,STDjysZDQXC44DUnlJnQ6_Shape,STDjysZDQXC44DUnlJnQ6-06:00:00
+aW_4UNyIaF0bMmFSA2KMK,Ground_Daily,Community 1 (Tema Casino),1,STDjysZDQXC44DUnlJnQ6_Shape,STDjysZDQXC44DUnlJnQ6-10:00:00
+1ON8TOEKS2KUQHr8fmZCP,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,h769xCpPALwOs38UBWwg4_Shape,h769xCpPALwOs38UBWwg4-15:00:00
+1ON8TOEKS2KUQHr8fmZCP,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,h769xCpPALwOs38UBWwg4_Shape,h769xCpPALwOs38UBWwg4-06:00:00
+1ON8TOEKS2KUQHr8fmZCP,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,h769xCpPALwOs38UBWwg4_Shape,h769xCpPALwOs38UBWwg4-10:00:00
+PO6XbHGOD6hAjB-nydn-D,Ground_Daily,Amasaman Trotro Station,1,pwFwq6jX9X_0A7o_57jTd_Shape,pwFwq6jX9X_0A7o_57jTd-15:00:00
+PO6XbHGOD6hAjB-nydn-D,Ground_Daily,Amasaman Trotro Station,1,pwFwq6jX9X_0A7o_57jTd_Shape,pwFwq6jX9X_0A7o_57jTd-06:00:00
+PO6XbHGOD6hAjB-nydn-D,Ground_Daily,Amasaman Trotro Station,1,pwFwq6jX9X_0A7o_57jTd_Shape,pwFwq6jX9X_0A7o_57jTd-10:00:00
+NpWpAP5YZgWGaH_IjL3XB,Ground_Daily,Alhaji Market,1,TIhKV7dejbx-ZZRda6ek9_Shape,TIhKV7dejbx-ZZRda6ek9-15:00:00
+NpWpAP5YZgWGaH_IjL3XB,Ground_Daily,Alhaji Market,1,TIhKV7dejbx-ZZRda6ek9_Shape,TIhKV7dejbx-ZZRda6ek9-06:00:00
+NpWpAP5YZgWGaH_IjL3XB,Ground_Daily,Alhaji Market,1,TIhKV7dejbx-ZZRda6ek9_Shape,TIhKV7dejbx-ZZRda6ek9-10:00:00
+NyrPqucTFExh9hbwY05yV,Ground_Daily,Nungua Bus Station,0,xi7wky4FO5hNXSEJxgCAc_Shape,xi7wky4FO5hNXSEJxgCAc-15:00:00
+NyrPqucTFExh9hbwY05yV,Ground_Daily,Nungua Bus Station,0,xi7wky4FO5hNXSEJxgCAc_Shape,xi7wky4FO5hNXSEJxgCAc-06:00:00
+NyrPqucTFExh9hbwY05yV,Ground_Daily,Nungua Bus Station,0,xi7wky4FO5hNXSEJxgCAc_Shape,xi7wky4FO5hNXSEJxgCAc-10:00:00
+I1pqU6CegaH-9FYUcdXsa,Ground_Daily,Circle Station,0,YWuVTbtwvDjZj78Ibt3i__Shape,YWuVTbtwvDjZj78Ibt3i_-15:00:00
+I1pqU6CegaH-9FYUcdXsa,Ground_Daily,Circle Station,0,YWuVTbtwvDjZj78Ibt3i__Shape,YWuVTbtwvDjZj78Ibt3i_-06:00:00
+I1pqU6CegaH-9FYUcdXsa,Ground_Daily,Circle Station,0,YWuVTbtwvDjZj78Ibt3i__Shape,YWuVTbtwvDjZj78Ibt3i_-10:00:00
+yxIVZwOWCVxLgAsOfaubw,Ground_Daily,Agege Last Stop,0,ZmSg9X2zi5S0alWskIDoM_Shape,ZmSg9X2zi5S0alWskIDoM-15:00:00
+yxIVZwOWCVxLgAsOfaubw,Ground_Daily,Agege Last Stop,0,ZmSg9X2zi5S0alWskIDoM_Shape,ZmSg9X2zi5S0alWskIDoM-06:00:00
+yxIVZwOWCVxLgAsOfaubw,Ground_Daily,Agege Last Stop,0,ZmSg9X2zi5S0alWskIDoM_Shape,ZmSg9X2zi5S0alWskIDoM-10:00:00
+xI_6YElDUMumnNu7HRyEo,Ground_Daily,Circle Station,0,4uc8A5jF_IRnUx-2vpOjr_Shape,4uc8A5jF_IRnUx-2vpOjr-15:00:00
+xI_6YElDUMumnNu7HRyEo,Ground_Daily,Circle Station,0,4uc8A5jF_IRnUx-2vpOjr_Shape,4uc8A5jF_IRnUx-2vpOjr-06:00:00
+xI_6YElDUMumnNu7HRyEo,Ground_Daily,Circle Station,0,4uc8A5jF_IRnUx-2vpOjr_Shape,4uc8A5jF_IRnUx-2vpOjr-10:00:00
+BTiXU1HHVsFr06-g0ld8N,Ground_Daily,Ashaiman Station (Kufour Station),1,UHhcTtfpuHavgY1pQuFBx_Shape,UHhcTtfpuHavgY1pQuFBx-15:00:00
+BTiXU1HHVsFr06-g0ld8N,Ground_Daily,Ashaiman Station (Kufour Station),1,UHhcTtfpuHavgY1pQuFBx_Shape,UHhcTtfpuHavgY1pQuFBx-06:00:00
+BTiXU1HHVsFr06-g0ld8N,Ground_Daily,Ashaiman Station (Kufour Station),1,UHhcTtfpuHavgY1pQuFBx_Shape,UHhcTtfpuHavgY1pQuFBx-10:00:00
+ypTJnKt3X9BBf5yrnh7Qv,Ground_Daily,Auntie Aku,0,CNGBuso2h_JlGm40k5BLM_Shape,CNGBuso2h_JlGm40k5BLM-15:00:00
+ypTJnKt3X9BBf5yrnh7Qv,Ground_Daily,Auntie Aku,0,CNGBuso2h_JlGm40k5BLM_Shape,CNGBuso2h_JlGm40k5BLM-06:00:00
+ypTJnKt3X9BBf5yrnh7Qv,Ground_Daily,Auntie Aku,0,CNGBuso2h_JlGm40k5BLM_Shape,CNGBuso2h_JlGm40k5BLM-10:00:00
+QScOIEbrZml_NVxe4cHma,Ground_Daily,Kaneshie Market station,0,6TQxYy_YwU3JgQucLRsuC_Shape,6TQxYy_YwU3JgQucLRsuC-15:00:00
+QScOIEbrZml_NVxe4cHma,Ground_Daily,Kaneshie Market station,0,6TQxYy_YwU3JgQucLRsuC_Shape,6TQxYy_YwU3JgQucLRsuC-06:00:00
+QScOIEbrZml_NVxe4cHma,Ground_Daily,Kaneshie Market station,0,6TQxYy_YwU3JgQucLRsuC_Shape,6TQxYy_YwU3JgQucLRsuC-10:00:00
+yH_2VgtgUypp837-hyLYi,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,zJ31Q-ENAHzUz3E39gtuu_Shape,zJ31Q-ENAHzUz3E39gtuu-15:00:00
+yH_2VgtgUypp837-hyLYi,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,zJ31Q-ENAHzUz3E39gtuu_Shape,zJ31Q-ENAHzUz3E39gtuu-06:00:00
+yH_2VgtgUypp837-hyLYi,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,zJ31Q-ENAHzUz3E39gtuu_Shape,zJ31Q-ENAHzUz3E39gtuu-10:00:00
+v-rQTOtM-dObQqLG13iSu,Ground_Daily,Sweden Ghana Medical Center,1,dDs4cIQyFIoxsB7lBEvwE_Shape,dDs4cIQyFIoxsB7lBEvwE-15:00:00
+v-rQTOtM-dObQqLG13iSu,Ground_Daily,Sweden Ghana Medical Center,1,dDs4cIQyFIoxsB7lBEvwE_Shape,dDs4cIQyFIoxsB7lBEvwE-06:00:00
+v-rQTOtM-dObQqLG13iSu,Ground_Daily,Sweden Ghana Medical Center,1,dDs4cIQyFIoxsB7lBEvwE_Shape,dDs4cIQyFIoxsB7lBEvwE-10:00:00
+dXrIBockxdBK08-dYy2P3,Ground_Daily,Pokuase Station,0,xxRhKn7Bk25KBeNSa61bG_Shape,xxRhKn7Bk25KBeNSa61bG-15:00:00
+dXrIBockxdBK08-dYy2P3,Ground_Daily,Pokuase Station,0,xxRhKn7Bk25KBeNSa61bG_Shape,xxRhKn7Bk25KBeNSa61bG-06:00:00
+dXrIBockxdBK08-dYy2P3,Ground_Daily,Pokuase Station,0,xxRhKn7Bk25KBeNSa61bG_Shape,xxRhKn7Bk25KBeNSa61bG-10:00:00
+acAAd_jiwfLmMXCEcDCCv,Ground_Daily,Madina Station (Zongo Junction) ,1,CCyHfYO7k9aNeCh7Q_eiV_Shape,CCyHfYO7k9aNeCh7Q_eiV-15:00:00
+acAAd_jiwfLmMXCEcDCCv,Ground_Daily,Madina Station (Zongo Junction) ,1,CCyHfYO7k9aNeCh7Q_eiV_Shape,CCyHfYO7k9aNeCh7Q_eiV-06:00:00
+acAAd_jiwfLmMXCEcDCCv,Ground_Daily,Madina Station (Zongo Junction) ,1,CCyHfYO7k9aNeCh7Q_eiV_Shape,CCyHfYO7k9aNeCh7Q_eiV-10:00:00
+UbUswQ5LEXvdXgG_cyE8X,Ground_Daily,Dansoman,0,3Z79ILUYg1nekCeWl4l1C_Shape,3Z79ILUYg1nekCeWl4l1C-15:00:00
+UbUswQ5LEXvdXgG_cyE8X,Ground_Daily,Dansoman,0,3Z79ILUYg1nekCeWl4l1C_Shape,3Z79ILUYg1nekCeWl4l1C-06:00:00
+UbUswQ5LEXvdXgG_cyE8X,Ground_Daily,Dansoman,0,3Z79ILUYg1nekCeWl4l1C_Shape,3Z79ILUYg1nekCeWl4l1C-10:00:00
+wlSudWAOTthVFdyqn-kEb,Ground_Daily,Manhean,1,Xa01VwJ8BPaTdHSJqOPNc_Shape,Xa01VwJ8BPaTdHSJqOPNc-15:00:00
+wlSudWAOTthVFdyqn-kEb,Ground_Daily,Manhean,1,Xa01VwJ8BPaTdHSJqOPNc_Shape,Xa01VwJ8BPaTdHSJqOPNc-06:00:00
+wlSudWAOTthVFdyqn-kEb,Ground_Daily,Manhean,1,Xa01VwJ8BPaTdHSJqOPNc_Shape,Xa01VwJ8BPaTdHSJqOPNc-10:00:00
+TH0DJ_NrKtO0IIsowk8UL,Ground_Daily,Dome Market,1,5RIVOE9te20NtfT476xf4_Shape,5RIVOE9te20NtfT476xf4-15:00:00
+TH0DJ_NrKtO0IIsowk8UL,Ground_Daily,Dome Market,1,5RIVOE9te20NtfT476xf4_Shape,5RIVOE9te20NtfT476xf4-06:00:00
+TH0DJ_NrKtO0IIsowk8UL,Ground_Daily,Dome Market,1,5RIVOE9te20NtfT476xf4_Shape,5RIVOE9te20NtfT476xf4-10:00:00
+_TNzCXOHtL0MpOjwoCpXc,Ground_Daily,Botwe Old town,1,n87oEWqfoaGjD_S-rdMTd_Shape,n87oEWqfoaGjD_S-rdMTd-15:00:00
+_TNzCXOHtL0MpOjwoCpXc,Ground_Daily,Botwe Old town,1,n87oEWqfoaGjD_S-rdMTd_Shape,n87oEWqfoaGjD_S-rdMTd-06:00:00
+_TNzCXOHtL0MpOjwoCpXc,Ground_Daily,Botwe Old town,1,n87oEWqfoaGjD_S-rdMTd_Shape,n87oEWqfoaGjD_S-rdMTd-10:00:00
+2N58nl6-lnfNAq_TNMnW8,Ground_Daily,Ofankour Barrier,0,ht1XHKVzk8VNeXviUtEBd_Shape,ht1XHKVzk8VNeXviUtEBd-15:00:00
+2N58nl6-lnfNAq_TNMnW8,Ground_Daily,Ofankour Barrier,0,ht1XHKVzk8VNeXviUtEBd_Shape,ht1XHKVzk8VNeXviUtEBd-06:00:00
+2N58nl6-lnfNAq_TNMnW8,Ground_Daily,Ofankour Barrier,0,ht1XHKVzk8VNeXviUtEBd_Shape,ht1XHKVzk8VNeXviUtEBd-10:00:00
+1_4FJdQLS4oBrmkEzJZVc,Ground_Daily,Agege Last Stop,0,oXwCDMeN6iny3gZqw7HTM_Shape,oXwCDMeN6iny3gZqw7HTM-15:00:00
+1_4FJdQLS4oBrmkEzJZVc,Ground_Daily,Agege Last Stop,0,oXwCDMeN6iny3gZqw7HTM_Shape,oXwCDMeN6iny3gZqw7HTM-06:00:00
+1_4FJdQLS4oBrmkEzJZVc,Ground_Daily,Agege Last Stop,0,oXwCDMeN6iny3gZqw7HTM_Shape,oXwCDMeN6iny3gZqw7HTM-10:00:00
+6N9JtuAJCAIiFniNRHFLz,Ground_Daily,Rawlings Park,1,9yl7uhKTtQH_JVbwnVDTP_Shape,9yl7uhKTtQH_JVbwnVDTP-15:00:00
+6N9JtuAJCAIiFniNRHFLz,Ground_Daily,Rawlings Park,1,9yl7uhKTtQH_JVbwnVDTP_Shape,9yl7uhKTtQH_JVbwnVDTP-06:00:00
+6N9JtuAJCAIiFniNRHFLz,Ground_Daily,Rawlings Park,1,9yl7uhKTtQH_JVbwnVDTP_Shape,9yl7uhKTtQH_JVbwnVDTP-10:00:00
+wlSudWAOTthVFdyqn-kEb,Ground_Daily,Accra Tudu Station,0,1IsX9nEg-FI9Fh-1J1qdl_Shape,1IsX9nEg-FI9Fh-1J1qdl-15:00:00
+wlSudWAOTthVFdyqn-kEb,Ground_Daily,Accra Tudu Station,0,1IsX9nEg-FI9Fh-1J1qdl_Shape,1IsX9nEg-FI9Fh-1J1qdl-06:00:00
+wlSudWAOTthVFdyqn-kEb,Ground_Daily,Accra Tudu Station,0,1IsX9nEg-FI9Fh-1J1qdl_Shape,1IsX9nEg-FI9Fh-1J1qdl-10:00:00
+UbUswQ5LEXvdXgG_cyE8X,Ground_Daily,Makola Market No 2 Station,1,nGwoUrDb0-u7tfuJjCE8i_Shape,nGwoUrDb0-u7tfuJjCE8i-15:00:00
+UbUswQ5LEXvdXgG_cyE8X,Ground_Daily,Makola Market No 2 Station,1,nGwoUrDb0-u7tfuJjCE8i_Shape,nGwoUrDb0-u7tfuJjCE8i-06:00:00
+UbUswQ5LEXvdXgG_cyE8X,Ground_Daily,Makola Market No 2 Station,1,nGwoUrDb0-u7tfuJjCE8i_Shape,nGwoUrDb0-u7tfuJjCE8i-10:00:00
+6N9JtuAJCAIiFniNRHFLz,Ground_Daily,Agege Last Stop,0,1BvfFpd6LC9YgOeSeojRi_Shape,1BvfFpd6LC9YgOeSeojRi-15:00:00
+6N9JtuAJCAIiFniNRHFLz,Ground_Daily,Agege Last Stop,0,1BvfFpd6LC9YgOeSeojRi_Shape,1BvfFpd6LC9YgOeSeojRi-06:00:00
+6N9JtuAJCAIiFniNRHFLz,Ground_Daily,Agege Last Stop,0,1BvfFpd6LC9YgOeSeojRi_Shape,1BvfFpd6LC9YgOeSeojRi-10:00:00
+NyrPqucTFExh9hbwY05yV,Ground_Daily,Ashaiman Station (Kufour Station),1,1GsWMhE6tc5VOcWaEa1tr_Shape,1GsWMhE6tc5VOcWaEa1tr-15:00:00
+NyrPqucTFExh9hbwY05yV,Ground_Daily,Ashaiman Station (Kufour Station),1,1GsWMhE6tc5VOcWaEa1tr_Shape,1GsWMhE6tc5VOcWaEa1tr-06:00:00
+NyrPqucTFExh9hbwY05yV,Ground_Daily,Ashaiman Station (Kufour Station),1,1GsWMhE6tc5VOcWaEa1tr_Shape,1GsWMhE6tc5VOcWaEa1tr-10:00:00
+uJ7tg8VcZe6k96qkYPN4b,Ground_Daily,Amasaman Trotro Station,0,c9resqpyvZlCMY0gXbIug_Shape,c9resqpyvZlCMY0gXbIug-15:00:00
+uJ7tg8VcZe6k96qkYPN4b,Ground_Daily,Amasaman Trotro Station,0,c9resqpyvZlCMY0gXbIug_Shape,c9resqpyvZlCMY0gXbIug-06:00:00
+uJ7tg8VcZe6k96qkYPN4b,Ground_Daily,Amasaman Trotro Station,0,c9resqpyvZlCMY0gXbIug_Shape,c9resqpyvZlCMY0gXbIug-10:00:00
+9aSZoy74ZIoGa7BAw3ujs,Ground_Daily,Chemuna Mamponse,1,zzScVfS0J0iOXZlXfLUv2_Shape,zzScVfS0J0iOXZlXfLUv2-15:00:00
+9aSZoy74ZIoGa7BAw3ujs,Ground_Daily,Chemuna Mamponse,1,zzScVfS0J0iOXZlXfLUv2_Shape,zzScVfS0J0iOXZlXfLUv2-06:00:00
+9aSZoy74ZIoGa7BAw3ujs,Ground_Daily,Chemuna Mamponse,1,zzScVfS0J0iOXZlXfLUv2_Shape,zzScVfS0J0iOXZlXfLUv2-10:00:00
+fNLTpbp4hZLavlBpjnnqO,Ground_Daily,Ashaiman Station (Kufour Station),1,osbKpqxmZVaD2VJeVww2o_Shape,osbKpqxmZVaD2VJeVww2o-15:00:00
+fNLTpbp4hZLavlBpjnnqO,Ground_Daily,Ashaiman Station (Kufour Station),1,osbKpqxmZVaD2VJeVww2o_Shape,osbKpqxmZVaD2VJeVww2o-06:00:00
+fNLTpbp4hZLavlBpjnnqO,Ground_Daily,Ashaiman Station (Kufour Station),1,osbKpqxmZVaD2VJeVww2o_Shape,osbKpqxmZVaD2VJeVww2o-10:00:00
+dl7nH6DBwvOKREdTdz4vD,Ground_Daily,Nsakina,0,9kkv3RY-7SvkuWkWauB0l_Shape,9kkv3RY-7SvkuWkWauB0l-15:00:00
+dl7nH6DBwvOKREdTdz4vD,Ground_Daily,Nsakina,0,9kkv3RY-7SvkuWkWauB0l_Shape,9kkv3RY-7SvkuWkWauB0l-06:00:00
+dl7nH6DBwvOKREdTdz4vD,Ground_Daily,Nsakina,0,9kkv3RY-7SvkuWkWauB0l_Shape,9kkv3RY-7SvkuWkWauB0l-10:00:00
+2N58nl6-lnfNAq_TNMnW8,Ground_Daily,Santa Maria,1,5JKRLtwNl6iopmAPbuGUu_Shape,5JKRLtwNl6iopmAPbuGUu-15:00:00
+2N58nl6-lnfNAq_TNMnW8,Ground_Daily,Santa Maria,1,5JKRLtwNl6iopmAPbuGUu_Shape,5JKRLtwNl6iopmAPbuGUu-06:00:00
+2N58nl6-lnfNAq_TNMnW8,Ground_Daily,Santa Maria,1,5JKRLtwNl6iopmAPbuGUu_Shape,5JKRLtwNl6iopmAPbuGUu-10:00:00
+Rc5pzzmjZaGfpdTwcYr56,Ground_Daily,Salaga Market Station,1,QG9DYMpjAIZ4Px5yzH-8n_Shape,QG9DYMpjAIZ4Px5yzH-8n-15:00:00
+Rc5pzzmjZaGfpdTwcYr56,Ground_Daily,Salaga Market Station,1,QG9DYMpjAIZ4Px5yzH-8n_Shape,QG9DYMpjAIZ4Px5yzH-8n-06:00:00
+Rc5pzzmjZaGfpdTwcYr56,Ground_Daily,Salaga Market Station,1,QG9DYMpjAIZ4Px5yzH-8n_Shape,QG9DYMpjAIZ4Px5yzH-8n-10:00:00
+yxIVZwOWCVxLgAsOfaubw,Ground_Daily,Accra Bishop Station,1,dBr1J4qUStfPWZxUIFvcg_Shape,dBr1J4qUStfPWZxUIFvcg-15:00:00
+yxIVZwOWCVxLgAsOfaubw,Ground_Daily,Accra Bishop Station,1,dBr1J4qUStfPWZxUIFvcg_Shape,dBr1J4qUStfPWZxUIFvcg-06:00:00
+yxIVZwOWCVxLgAsOfaubw,Ground_Daily,Accra Bishop Station,1,dBr1J4qUStfPWZxUIFvcg_Shape,dBr1J4qUStfPWZxUIFvcg-10:00:00
+VWnqip9wsAwRh1zOXkUSv,Ground_Daily,Dodowa,0,8TmrHZXBgDsRipfyDiph5_Shape,8TmrHZXBgDsRipfyDiph5-15:00:00
+VWnqip9wsAwRh1zOXkUSv,Ground_Daily,Dodowa,0,8TmrHZXBgDsRipfyDiph5_Shape,8TmrHZXBgDsRipfyDiph5-06:00:00
+VWnqip9wsAwRh1zOXkUSv,Ground_Daily,Dodowa,0,8TmrHZXBgDsRipfyDiph5_Shape,8TmrHZXBgDsRipfyDiph5-10:00:00
+3hTg2f5q5QGdBXutrvjSj,Ground_Daily,Ashongman Estates,1,9EcF2X6vgNKhuKe_KLHRM_Shape,9EcF2X6vgNKhuKe_KLHRM-15:00:00
+3hTg2f5q5QGdBXutrvjSj,Ground_Daily,Ashongman Estates,1,9EcF2X6vgNKhuKe_KLHRM_Shape,9EcF2X6vgNKhuKe_KLHRM-06:00:00
+3hTg2f5q5QGdBXutrvjSj,Ground_Daily,Ashongman Estates,1,9EcF2X6vgNKhuKe_KLHRM_Shape,9EcF2X6vgNKhuKe_KLHRM-10:00:00
+BmDj69zoD4b-zQ0e-HmHB,Ground_Daily,Ashaiman Station (Kufour Station),1,YhjlQUBQvQ9eYgMJGwS6l_Shape,YhjlQUBQvQ9eYgMJGwS6l-15:00:00
+BmDj69zoD4b-zQ0e-HmHB,Ground_Daily,Ashaiman Station (Kufour Station),1,YhjlQUBQvQ9eYgMJGwS6l_Shape,YhjlQUBQvQ9eYgMJGwS6l-06:00:00
+BmDj69zoD4b-zQ0e-HmHB,Ground_Daily,Ashaiman Station (Kufour Station),1,YhjlQUBQvQ9eYgMJGwS6l_Shape,YhjlQUBQvQ9eYgMJGwS6l-10:00:00
+FOCcKkECrGLGWDEy7xQYx,Ground_Daily,Ablekuma Curve,1,x58DTbdXnv9wSdMNq06OZ_Shape,x58DTbdXnv9wSdMNq06OZ-15:00:00
+FOCcKkECrGLGWDEy7xQYx,Ground_Daily,Ablekuma Curve,1,x58DTbdXnv9wSdMNq06OZ_Shape,x58DTbdXnv9wSdMNq06OZ-06:00:00
+FOCcKkECrGLGWDEy7xQYx,Ground_Daily,Ablekuma Curve,1,x58DTbdXnv9wSdMNq06OZ_Shape,x58DTbdXnv9wSdMNq06OZ-10:00:00
+JVqahW5nPZXElwd6t1-jG,Ground_Daily,Accra New Tema Station,0,m0nZhVFiZffB5svxM4epq_Shape,m0nZhVFiZffB5svxM4epq-15:00:00
+JVqahW5nPZXElwd6t1-jG,Ground_Daily,Accra New Tema Station,0,m0nZhVFiZffB5svxM4epq_Shape,m0nZhVFiZffB5svxM4epq-06:00:00
+JVqahW5nPZXElwd6t1-jG,Ground_Daily,Accra New Tema Station,0,m0nZhVFiZffB5svxM4epq_Shape,m0nZhVFiZffB5svxM4epq-10:00:00
+vFT-0w8H5XGCVx4hdh6KB,Ground_Daily,Circle Station,1,s2ZAnSVSR3y0_lkAzohZ1_Shape,s2ZAnSVSR3y0_lkAzohZ1-15:00:00
+vFT-0w8H5XGCVx4hdh6KB,Ground_Daily,Circle Station,1,s2ZAnSVSR3y0_lkAzohZ1_Shape,s2ZAnSVSR3y0_lkAzohZ1-06:00:00
+vFT-0w8H5XGCVx4hdh6KB,Ground_Daily,Circle Station,1,s2ZAnSVSR3y0_lkAzohZ1_Shape,s2ZAnSVSR3y0_lkAzohZ1-10:00:00
+vhnKiRNFdsDBN-tsTt3Hp,Ground_Daily,Community 1 (Tema Casino),0,9PsWKRaAy0E267rt6IF_e_Shape,9PsWKRaAy0E267rt6IF_e-15:00:00
+vhnKiRNFdsDBN-tsTt3Hp,Ground_Daily,Community 1 (Tema Casino),0,9PsWKRaAy0E267rt6IF_e_Shape,9PsWKRaAy0E267rt6IF_e-06:00:00
+vhnKiRNFdsDBN-tsTt3Hp,Ground_Daily,Community 1 (Tema Casino),0,9PsWKRaAy0E267rt6IF_e_Shape,9PsWKRaAy0E267rt6IF_e-10:00:00
+BM8baONomcMVSiPCRFs2x,Ground_Daily,Abokobi Station,0,cAAR8g7pX2a0JNo8ll915_Shape,cAAR8g7pX2a0JNo8ll915-15:00:00
+BM8baONomcMVSiPCRFs2x,Ground_Daily,Abokobi Station,0,cAAR8g7pX2a0JNo8ll915_Shape,cAAR8g7pX2a0JNo8ll915-06:00:00
+BM8baONomcMVSiPCRFs2x,Ground_Daily,Abokobi Station,0,cAAR8g7pX2a0JNo8ll915_Shape,cAAR8g7pX2a0JNo8ll915-10:00:00
+hqAvHeJptNetCYeKfLR7n,Ground_Daily,Ashaiman Station (Kufour Station),1,OxlHIyYkeOZrc2LLeFOQi_Shape,OxlHIyYkeOZrc2LLeFOQi-15:00:00
+hqAvHeJptNetCYeKfLR7n,Ground_Daily,Ashaiman Station (Kufour Station),1,OxlHIyYkeOZrc2LLeFOQi_Shape,OxlHIyYkeOZrc2LLeFOQi-06:00:00
+hqAvHeJptNetCYeKfLR7n,Ground_Daily,Ashaiman Station (Kufour Station),1,OxlHIyYkeOZrc2LLeFOQi_Shape,OxlHIyYkeOZrc2LLeFOQi-10:00:00
+dkRSMijy71GNbEPjbgGBP,Ground_Daily,37 Station,0,KhnWWDQpHFJbZPegM_zUB_Shape,KhnWWDQpHFJbZPegM_zUB-15:00:00
+dkRSMijy71GNbEPjbgGBP,Ground_Daily,37 Station,0,KhnWWDQpHFJbZPegM_zUB_Shape,KhnWWDQpHFJbZPegM_zUB-06:00:00
+dkRSMijy71GNbEPjbgGBP,Ground_Daily,37 Station,0,KhnWWDQpHFJbZPegM_zUB_Shape,KhnWWDQpHFJbZPegM_zUB-10:00:00
+MOdWIoCGEoSuqBFxx4pVQ,Ground_Daily,Ashaiman Station (Kufour Station),1,37lP_pTFl62mVTcjQOjKs_Shape,37lP_pTFl62mVTcjQOjKs-15:00:00
+MOdWIoCGEoSuqBFxx4pVQ,Ground_Daily,Ashaiman Station (Kufour Station),1,37lP_pTFl62mVTcjQOjKs_Shape,37lP_pTFl62mVTcjQOjKs-06:00:00
+MOdWIoCGEoSuqBFxx4pVQ,Ground_Daily,Ashaiman Station (Kufour Station),1,37lP_pTFl62mVTcjQOjKs_Shape,37lP_pTFl62mVTcjQOjKs-10:00:00
+mxQRUd2BCUttWxFLOKFCW,Ground_Daily,Makola Market No 2 Station,1,7qvhiw03WYRQE7DpyxLEJ_Shape,7qvhiw03WYRQE7DpyxLEJ-15:00:00
+mxQRUd2BCUttWxFLOKFCW,Ground_Daily,Makola Market No 2 Station,1,7qvhiw03WYRQE7DpyxLEJ_Shape,7qvhiw03WYRQE7DpyxLEJ-06:00:00
+mxQRUd2BCUttWxFLOKFCW,Ground_Daily,Makola Market No 2 Station,1,7qvhiw03WYRQE7DpyxLEJ_Shape,7qvhiw03WYRQE7DpyxLEJ-10:00:00
+sdJKMTyc_sXocH5XK_1hG,Ground_Daily,Community 1 (Tema Casino),1,2VQU2hjGNNDOM-1qpgp-t_Shape,2VQU2hjGNNDOM-1qpgp-t-15:00:00
+sdJKMTyc_sXocH5XK_1hG,Ground_Daily,Community 1 (Tema Casino),1,2VQU2hjGNNDOM-1qpgp-t_Shape,2VQU2hjGNNDOM-1qpgp-t-06:00:00
+sdJKMTyc_sXocH5XK_1hG,Ground_Daily,Community 1 (Tema Casino),1,2VQU2hjGNNDOM-1qpgp-t_Shape,2VQU2hjGNNDOM-1qpgp-t-10:00:00
+zufun5GAVI_Zr0wdokZYU,Ground_Daily,Nima,0,0xDk7pexUaiOWz-mN2Sf1_Shape,0xDk7pexUaiOWz-mN2Sf1-15:00:00
+zufun5GAVI_Zr0wdokZYU,Ground_Daily,Nima,0,0xDk7pexUaiOWz-mN2Sf1_Shape,0xDk7pexUaiOWz-mN2Sf1-06:00:00
+zufun5GAVI_Zr0wdokZYU,Ground_Daily,Nima,0,0xDk7pexUaiOWz-mN2Sf1_Shape,0xDk7pexUaiOWz-mN2Sf1-10:00:00
+eL__yQXkDulDJy--vtSiu,Ground_Daily,Amasaman Trotro Station,1,PEGCJ57ki5v0Q0zkaOXdi_Shape,PEGCJ57ki5v0Q0zkaOXdi-15:00:00
+eL__yQXkDulDJy--vtSiu,Ground_Daily,Amasaman Trotro Station,1,PEGCJ57ki5v0Q0zkaOXdi_Shape,PEGCJ57ki5v0Q0zkaOXdi-06:00:00
+eL__yQXkDulDJy--vtSiu,Ground_Daily,Amasaman Trotro Station,1,PEGCJ57ki5v0Q0zkaOXdi_Shape,PEGCJ57ki5v0Q0zkaOXdi-10:00:00
+mkYs6Kw4te5RYAjKAGHhv,Ground_Daily,Accra New Tema Station,0,4D8dDFnrOYkUm1tiE4RjX_Shape,4D8dDFnrOYkUm1tiE4RjX-15:00:00
+mkYs6Kw4te5RYAjKAGHhv,Ground_Daily,Accra New Tema Station,0,4D8dDFnrOYkUm1tiE4RjX_Shape,4D8dDFnrOYkUm1tiE4RjX-06:00:00
+mkYs6Kw4te5RYAjKAGHhv,Ground_Daily,Accra New Tema Station,0,4D8dDFnrOYkUm1tiE4RjX_Shape,4D8dDFnrOYkUm1tiE4RjX-10:00:00
+zvknVa9uJyCKnYLpoo9Zt,Ground_Daily,UN Terminal,0,TyzgdGjVnOg-6qgYwR0kd_Shape,TyzgdGjVnOg-6qgYwR0kd-15:00:00
+zvknVa9uJyCKnYLpoo9Zt,Ground_Daily,UN Terminal,0,TyzgdGjVnOg-6qgYwR0kd_Shape,TyzgdGjVnOg-6qgYwR0kd-06:00:00
+zvknVa9uJyCKnYLpoo9Zt,Ground_Daily,UN Terminal,0,TyzgdGjVnOg-6qgYwR0kd_Shape,TyzgdGjVnOg-6qgYwR0kd-10:00:00
+3hTg2f5q5QGdBXutrvjSj,Ground_Daily,Madina Station (Zongo Junction) ,0,hLpSHshCukpw-_lFsOv5H_Shape,hLpSHshCukpw-_lFsOv5H-15:00:00
+3hTg2f5q5QGdBXutrvjSj,Ground_Daily,Madina Station (Zongo Junction) ,0,hLpSHshCukpw-_lFsOv5H_Shape,hLpSHshCukpw-_lFsOv5H-06:00:00
+3hTg2f5q5QGdBXutrvjSj,Ground_Daily,Madina Station (Zongo Junction) ,0,hLpSHshCukpw-_lFsOv5H_Shape,hLpSHshCukpw-_lFsOv5H-10:00:00
+D84oAccZhMqDGa93XXMKq,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,Ujhr-1BW8I64wBKpDXXHe_Shape,Ujhr-1BW8I64wBKpDXXHe-15:00:00
+D84oAccZhMqDGa93XXMKq,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,Ujhr-1BW8I64wBKpDXXHe_Shape,Ujhr-1BW8I64wBKpDXXHe-06:00:00
+D84oAccZhMqDGa93XXMKq,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,Ujhr-1BW8I64wBKpDXXHe_Shape,Ujhr-1BW8I64wBKpDXXHe-10:00:00
+lJEb312-N59xoX7JHLI-n,Ground_Daily,Kaneshie Market station,1,6CCAwvsKm0J7V0kSdy2RO_Shape,6CCAwvsKm0J7V0kSdy2RO-15:00:00
+lJEb312-N59xoX7JHLI-n,Ground_Daily,Kaneshie Market station,1,6CCAwvsKm0J7V0kSdy2RO_Shape,6CCAwvsKm0J7V0kSdy2RO-06:00:00
+lJEb312-N59xoX7JHLI-n,Ground_Daily,Kaneshie Market station,1,6CCAwvsKm0J7V0kSdy2RO_Shape,6CCAwvsKm0J7V0kSdy2RO-10:00:00
+rjt15CtpCbkBCPKLJppMc,Ground_Daily,Santa Maria,1,TlnP7M2n7CdHwRCXchL6s_Shape,TlnP7M2n7CdHwRCXchL6s-15:00:00
+rjt15CtpCbkBCPKLJppMc,Ground_Daily,Santa Maria,1,TlnP7M2n7CdHwRCXchL6s_Shape,TlnP7M2n7CdHwRCXchL6s-06:00:00
+rjt15CtpCbkBCPKLJppMc,Ground_Daily,Santa Maria,1,TlnP7M2n7CdHwRCXchL6s_Shape,TlnP7M2n7CdHwRCXchL6s-10:00:00
+pBPzrEOXw2H_Fv34QU96p,Ground_Daily,Accra CMB,0,Ch2fgeRERun_Lt39namvn_Shape,Ch2fgeRERun_Lt39namvn-15:00:00
+pBPzrEOXw2H_Fv34QU96p,Ground_Daily,Accra CMB,0,Ch2fgeRERun_Lt39namvn_Shape,Ch2fgeRERun_Lt39namvn-06:00:00
+pBPzrEOXw2H_Fv34QU96p,Ground_Daily,Accra CMB,0,Ch2fgeRERun_Lt39namvn_Shape,Ch2fgeRERun_Lt39namvn-10:00:00
+se82HPattdPPD8FHCQA1e,Ground_Daily,Chemuna Mamponse,0,oiDPSuGa-6bIWFgeom0Eb_Shape,oiDPSuGa-6bIWFgeom0Eb-15:00:00
+se82HPattdPPD8FHCQA1e,Ground_Daily,Chemuna Mamponse,0,oiDPSuGa-6bIWFgeom0Eb_Shape,oiDPSuGa-6bIWFgeom0Eb-06:00:00
+se82HPattdPPD8FHCQA1e,Ground_Daily,Chemuna Mamponse,0,oiDPSuGa-6bIWFgeom0Eb_Shape,oiDPSuGa-6bIWFgeom0Eb-10:00:00
+xI_6YElDUMumnNu7HRyEo,Ground_Daily,Adenta Station,1,3-MDBQ4k5IAkZwnEUg1em_Shape,3-MDBQ4k5IAkZwnEUg1em-15:00:00
+xI_6YElDUMumnNu7HRyEo,Ground_Daily,Adenta Station,1,3-MDBQ4k5IAkZwnEUg1em_Shape,3-MDBQ4k5IAkZwnEUg1em-06:00:00
+xI_6YElDUMumnNu7HRyEo,Ground_Daily,Adenta Station,1,3-MDBQ4k5IAkZwnEUg1em_Shape,3-MDBQ4k5IAkZwnEUg1em-10:00:00
+mkYs6Kw4te5RYAjKAGHhv,Ground_Daily,El Paso,1,Irx8F97AvbHZ3ak1uFTJi_Shape,Irx8F97AvbHZ3ak1uFTJi-15:00:00
+mkYs6Kw4te5RYAjKAGHhv,Ground_Daily,El Paso,1,Irx8F97AvbHZ3ak1uFTJi_Shape,Irx8F97AvbHZ3ak1uFTJi-06:00:00
+mkYs6Kw4te5RYAjKAGHhv,Ground_Daily,El Paso,1,Irx8F97AvbHZ3ak1uFTJi_Shape,Irx8F97AvbHZ3ak1uFTJi-10:00:00
+se82HPattdPPD8FHCQA1e,Ground_Daily,Makola Market No 2 Station,1,KzrI5DKk8tsNupegunJ-s_Shape,KzrI5DKk8tsNupegunJ-s-15:00:00
+se82HPattdPPD8FHCQA1e,Ground_Daily,Makola Market No 2 Station,1,KzrI5DKk8tsNupegunJ-s_Shape,KzrI5DKk8tsNupegunJ-s-06:00:00
+se82HPattdPPD8FHCQA1e,Ground_Daily,Makola Market No 2 Station,1,KzrI5DKk8tsNupegunJ-s_Shape,KzrI5DKk8tsNupegunJ-s-10:00:00
+N2OOOU6L9K-jBuNe7qmas,Ground_Daily,Amasaman Trotro Station,1,6wgCJpfZ2CfzSqz3qbxkv_Shape,6wgCJpfZ2CfzSqz3qbxkv-15:00:00
+N2OOOU6L9K-jBuNe7qmas,Ground_Daily,Amasaman Trotro Station,1,6wgCJpfZ2CfzSqz3qbxkv_Shape,6wgCJpfZ2CfzSqz3qbxkv-06:00:00
+N2OOOU6L9K-jBuNe7qmas,Ground_Daily,Amasaman Trotro Station,1,6wgCJpfZ2CfzSqz3qbxkv_Shape,6wgCJpfZ2CfzSqz3qbxkv-10:00:00
+PO6XbHGOD6hAjB-nydn-D,Ground_Daily,Ashalaja Station,0,hbXDokC6KIdtYO-c0U1oL_Shape,hbXDokC6KIdtYO-c0U1oL-15:00:00
+PO6XbHGOD6hAjB-nydn-D,Ground_Daily,Ashalaja Station,0,hbXDokC6KIdtYO-c0U1oL_Shape,hbXDokC6KIdtYO-c0U1oL-06:00:00
+PO6XbHGOD6hAjB-nydn-D,Ground_Daily,Ashalaja Station,0,hbXDokC6KIdtYO-c0U1oL_Shape,hbXDokC6KIdtYO-c0U1oL-10:00:00
+Lkpg7JywqsgtuI2O7A4wB,Ground_Daily,Zenu,0,6l2ofLcn2pAxeocgQgtyc_Shape,6l2ofLcn2pAxeocgQgtyc-15:00:00
+Lkpg7JywqsgtuI2O7A4wB,Ground_Daily,Zenu,0,6l2ofLcn2pAxeocgQgtyc_Shape,6l2ofLcn2pAxeocgQgtyc-06:00:00
+Lkpg7JywqsgtuI2O7A4wB,Ground_Daily,Zenu,0,6l2ofLcn2pAxeocgQgtyc_Shape,6l2ofLcn2pAxeocgQgtyc-10:00:00
+ooWHXaGhnZt5jXW4n9gMa,Ground_Daily,Santa Maria,1,lH1rg3mpHIxfYPYlmm2HS_Shape,lH1rg3mpHIxfYPYlmm2HS-15:00:00
+ooWHXaGhnZt5jXW4n9gMa,Ground_Daily,Santa Maria,1,lH1rg3mpHIxfYPYlmm2HS_Shape,lH1rg3mpHIxfYPYlmm2HS-06:00:00
+ooWHXaGhnZt5jXW4n9gMa,Ground_Daily,Santa Maria,1,lH1rg3mpHIxfYPYlmm2HS_Shape,lH1rg3mpHIxfYPYlmm2HS-10:00:00
+CLvAQbMUB-HOgIGDTV3jc,Ground_Daily,Abokobi Station,1,PBY6jv3sEsCOwArvGgmJr_Shape,PBY6jv3sEsCOwArvGgmJr-15:00:00
+CLvAQbMUB-HOgIGDTV3jc,Ground_Daily,Abokobi Station,1,PBY6jv3sEsCOwArvGgmJr_Shape,PBY6jv3sEsCOwArvGgmJr-06:00:00
+CLvAQbMUB-HOgIGDTV3jc,Ground_Daily,Abokobi Station,1,PBY6jv3sEsCOwArvGgmJr_Shape,PBY6jv3sEsCOwArvGgmJr-10:00:00
+uJ7tg8VcZe6k96qkYPN4b,Ground_Daily,Nsakina,1,SRjO-EZeZw6N1hTc1K1RF_Shape,SRjO-EZeZw6N1hTc1K1RF-15:00:00
+uJ7tg8VcZe6k96qkYPN4b,Ground_Daily,Nsakina,1,SRjO-EZeZw6N1hTc1K1RF_Shape,SRjO-EZeZw6N1hTc1K1RF-06:00:00
+uJ7tg8VcZe6k96qkYPN4b,Ground_Daily,Nsakina,1,SRjO-EZeZw6N1hTc1K1RF_Shape,SRjO-EZeZw6N1hTc1K1RF-10:00:00
+BmDj69zoD4b-zQ0e-HmHB,Ground_Daily,Kasoa,0,vCYrIApK64oDJKyt_Cs9a_Shape,vCYrIApK64oDJKyt_Cs9a-15:00:00
+BmDj69zoD4b-zQ0e-HmHB,Ground_Daily,Kasoa,0,vCYrIApK64oDJKyt_Cs9a_Shape,vCYrIApK64oDJKyt_Cs9a-06:00:00
+BmDj69zoD4b-zQ0e-HmHB,Ground_Daily,Kasoa,0,vCYrIApK64oDJKyt_Cs9a_Shape,vCYrIApK64oDJKyt_Cs9a-10:00:00
+refXBkqRL7SEg4R61hoPQ,Ground_Daily,Mallam Junction,0,QG3wN2TZUeQVdaMYmfW_N_Shape,QG3wN2TZUeQVdaMYmfW_N-15:00:00
+refXBkqRL7SEg4R61hoPQ,Ground_Daily,Mallam Junction,0,QG3wN2TZUeQVdaMYmfW_N_Shape,QG3wN2TZUeQVdaMYmfW_N-06:00:00
+refXBkqRL7SEg4R61hoPQ,Ground_Daily,Mallam Junction,0,QG3wN2TZUeQVdaMYmfW_N_Shape,QG3wN2TZUeQVdaMYmfW_N-10:00:00
+hSCAEudDarddLkc5rpYLw,Ground_Daily,Accra CMB,0,pNwn2z1HPDdMcrnClyOEb_Shape,pNwn2z1HPDdMcrnClyOEb-15:00:00
+hSCAEudDarddLkc5rpYLw,Ground_Daily,Accra CMB,0,pNwn2z1HPDdMcrnClyOEb_Shape,pNwn2z1HPDdMcrnClyOEb-06:00:00
+hSCAEudDarddLkc5rpYLw,Ground_Daily,Accra CMB,0,pNwn2z1HPDdMcrnClyOEb_Shape,pNwn2z1HPDdMcrnClyOEb-10:00:00
+qESQOm2rQBBx1PeVhUufn,Ground_Daily,Accra New Tema Station,0,aBqHkqkP8lmeDyEQFJ7MB_Shape,aBqHkqkP8lmeDyEQFJ7MB-15:00:00
+qESQOm2rQBBx1PeVhUufn,Ground_Daily,Accra New Tema Station,0,aBqHkqkP8lmeDyEQFJ7MB_Shape,aBqHkqkP8lmeDyEQFJ7MB-06:00:00
+qESQOm2rQBBx1PeVhUufn,Ground_Daily,Accra New Tema Station,0,aBqHkqkP8lmeDyEQFJ7MB_Shape,aBqHkqkP8lmeDyEQFJ7MB-10:00:00
+mlGbE-vda23eDbo8ikbIS,Ground_Daily,Accra New Tema Station,0,2mJflmiUhfhpqJAKNi7Gz_Shape,2mJflmiUhfhpqJAKNi7Gz-15:00:00
+mlGbE-vda23eDbo8ikbIS,Ground_Daily,Accra New Tema Station,0,2mJflmiUhfhpqJAKNi7Gz_Shape,2mJflmiUhfhpqJAKNi7Gz-06:00:00
+mlGbE-vda23eDbo8ikbIS,Ground_Daily,Accra New Tema Station,0,2mJflmiUhfhpqJAKNi7Gz_Shape,2mJflmiUhfhpqJAKNi7Gz-10:00:00
+qApQxV1jSTWBZYHN9xaCy,Ground_Daily,Community 1 (Tema Casino),1,2IVmexBQp1LB7xmMub6tg_Shape,2IVmexBQp1LB7xmMub6tg-15:00:00
+qApQxV1jSTWBZYHN9xaCy,Ground_Daily,Community 1 (Tema Casino),1,2IVmexBQp1LB7xmMub6tg_Shape,2IVmexBQp1LB7xmMub6tg-06:00:00
+qApQxV1jSTWBZYHN9xaCy,Ground_Daily,Community 1 (Tema Casino),1,2IVmexBQp1LB7xmMub6tg_Shape,2IVmexBQp1LB7xmMub6tg-10:00:00
+yH_2VgtgUypp837-hyLYi,Ground_Daily,Haatso,1,XbwGEIjBv-vS_7oDPhtql_Shape,XbwGEIjBv-vS_7oDPhtql-15:00:00
+yH_2VgtgUypp837-hyLYi,Ground_Daily,Haatso,1,XbwGEIjBv-vS_7oDPhtql_Shape,XbwGEIjBv-vS_7oDPhtql-06:00:00
+yH_2VgtgUypp837-hyLYi,Ground_Daily,Haatso,1,XbwGEIjBv-vS_7oDPhtql_Shape,XbwGEIjBv-vS_7oDPhtql-10:00:00
+EnJRSOrP3-Atbjc0ijj8K,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,7UpXRKwasF_vwwUaydMxZ_Shape,7UpXRKwasF_vwwUaydMxZ-15:00:00
+EnJRSOrP3-Atbjc0ijj8K,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,7UpXRKwasF_vwwUaydMxZ_Shape,7UpXRKwasF_vwwUaydMxZ-06:00:00
+EnJRSOrP3-Atbjc0ijj8K,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,7UpXRKwasF_vwwUaydMxZ_Shape,7UpXRKwasF_vwwUaydMxZ-10:00:00
+3VuL1po8UIv80Q3rlWp3L,Ground_Daily,Circle Station,0,oUG4620YVjX5RLOHucVVE_Shape,oUG4620YVjX5RLOHucVVE-15:00:00
+3VuL1po8UIv80Q3rlWp3L,Ground_Daily,Circle Station,0,oUG4620YVjX5RLOHucVVE_Shape,oUG4620YVjX5RLOHucVVE-06:00:00
+3VuL1po8UIv80Q3rlWp3L,Ground_Daily,Circle Station,0,oUG4620YVjX5RLOHucVVE_Shape,oUG4620YVjX5RLOHucVVE-10:00:00
+ACxrVPSYYmCuySoef3qY0,Ground_Daily,Manhean,0,Dk5nOh2seYhfYbvK1mkj2_Shape,Dk5nOh2seYhfYbvK1mkj2-15:00:00
+ACxrVPSYYmCuySoef3qY0,Ground_Daily,Manhean,0,Dk5nOh2seYhfYbvK1mkj2_Shape,Dk5nOh2seYhfYbvK1mkj2-06:00:00
+ACxrVPSYYmCuySoef3qY0,Ground_Daily,Manhean,0,Dk5nOh2seYhfYbvK1mkj2_Shape,Dk5nOh2seYhfYbvK1mkj2-10:00:00
+Ec3R_EzAhGKpA2UJ_uAi5,Ground_Daily,Kaneshie Market station,0,9YQsPjoJYnercH9HlSlvn_Shape,9YQsPjoJYnercH9HlSlvn-15:00:00
+Ec3R_EzAhGKpA2UJ_uAi5,Ground_Daily,Kaneshie Market station,0,9YQsPjoJYnercH9HlSlvn_Shape,9YQsPjoJYnercH9HlSlvn-06:00:00
+Ec3R_EzAhGKpA2UJ_uAi5,Ground_Daily,Kaneshie Market station,0,9YQsPjoJYnercH9HlSlvn_Shape,9YQsPjoJYnercH9HlSlvn-10:00:00
+iCoTbChFeIO1U5Y8ZmbVo,Ground_Daily,Chemuna Mamponse,1,aOSIAP3lGz0N_o_ZvTPrj_Shape,aOSIAP3lGz0N_o_ZvTPrj-15:00:00
+iCoTbChFeIO1U5Y8ZmbVo,Ground_Daily,Chemuna Mamponse,1,aOSIAP3lGz0N_o_ZvTPrj_Shape,aOSIAP3lGz0N_o_ZvTPrj-06:00:00
+iCoTbChFeIO1U5Y8ZmbVo,Ground_Daily,Chemuna Mamponse,1,aOSIAP3lGz0N_o_ZvTPrj_Shape,aOSIAP3lGz0N_o_ZvTPrj-10:00:00
+fNLTpbp4hZLavlBpjnnqO,Ground_Daily,Atadeka,0,YwJfpa3bQxw3Ro8sHzrfI_Shape,YwJfpa3bQxw3Ro8sHzrfI-15:00:00
+fNLTpbp4hZLavlBpjnnqO,Ground_Daily,Atadeka,0,YwJfpa3bQxw3Ro8sHzrfI_Shape,YwJfpa3bQxw3Ro8sHzrfI-06:00:00
+fNLTpbp4hZLavlBpjnnqO,Ground_Daily,Atadeka,0,YwJfpa3bQxw3Ro8sHzrfI_Shape,YwJfpa3bQxw3Ro8sHzrfI-10:00:00
+3VuL1po8UIv80Q3rlWp3L,Ground_Daily,Manhean,1,F_bS5-997SLcblt3Vd7ZX_Shape,F_bS5-997SLcblt3Vd7ZX-15:00:00
+3VuL1po8UIv80Q3rlWp3L,Ground_Daily,Manhean,1,F_bS5-997SLcblt3Vd7ZX_Shape,F_bS5-997SLcblt3Vd7ZX-06:00:00
+3VuL1po8UIv80Q3rlWp3L,Ground_Daily,Manhean,1,F_bS5-997SLcblt3Vd7ZX_Shape,F_bS5-997SLcblt3Vd7ZX-10:00:00
+MJENs7-8Fa_3RRdjd6q3P,Ground_Daily,Haatso,1,bv7Nfzmx_iXiTnyKcqJrB_Shape,bv7Nfzmx_iXiTnyKcqJrB-15:00:00
+MJENs7-8Fa_3RRdjd6q3P,Ground_Daily,Haatso,1,bv7Nfzmx_iXiTnyKcqJrB_Shape,bv7Nfzmx_iXiTnyKcqJrB-06:00:00
+MJENs7-8Fa_3RRdjd6q3P,Ground_Daily,Haatso,1,bv7Nfzmx_iXiTnyKcqJrB_Shape,bv7Nfzmx_iXiTnyKcqJrB-10:00:00
+87bjK7ZUlR7cmFVCLBg3S,Ground_Daily,Washington,0,Ld50BJVmOId7Ybhfu8y7C_Shape,Ld50BJVmOId7Ybhfu8y7C-15:00:00
+87bjK7ZUlR7cmFVCLBg3S,Ground_Daily,Washington,0,Ld50BJVmOId7Ybhfu8y7C_Shape,Ld50BJVmOId7Ybhfu8y7C-06:00:00
+87bjK7ZUlR7cmFVCLBg3S,Ground_Daily,Washington,0,Ld50BJVmOId7Ybhfu8y7C_Shape,Ld50BJVmOId7Ybhfu8y7C-10:00:00
+Z0_PYuBeCGpmejSWcflsb,Ground_Daily,Madina Station (Zongo Junction) ,1,sbnX5AHOjnajni3MvPGQn_Shape,sbnX5AHOjnajni3MvPGQn-15:00:00
+Z0_PYuBeCGpmejSWcflsb,Ground_Daily,Madina Station (Zongo Junction) ,1,sbnX5AHOjnajni3MvPGQn_Shape,sbnX5AHOjnajni3MvPGQn-06:00:00
+Z0_PYuBeCGpmejSWcflsb,Ground_Daily,Madina Station (Zongo Junction) ,1,sbnX5AHOjnajni3MvPGQn_Shape,sbnX5AHOjnajni3MvPGQn-10:00:00
+NOz-Q0TkXw5dtR8Zt8ggV,Ground_Daily,Amasaman Trotro Station,0,UwnETpjKO_PGp7e4uWohU_Shape,UwnETpjKO_PGp7e4uWohU-15:00:00
+NOz-Q0TkXw5dtR8Zt8ggV,Ground_Daily,Amasaman Trotro Station,0,UwnETpjKO_PGp7e4uWohU_Shape,UwnETpjKO_PGp7e4uWohU-06:00:00
+NOz-Q0TkXw5dtR8Zt8ggV,Ground_Daily,Amasaman Trotro Station,0,UwnETpjKO_PGp7e4uWohU_Shape,UwnETpjKO_PGp7e4uWohU-10:00:00
+3-HoAr2BSFvsXf64Zqifg,Ground_Daily,Ashongman Estates,1,m_LAHKr_0RRI67j5m-X6G_Shape,m_LAHKr_0RRI67j5m-X6G-15:00:00
+3-HoAr2BSFvsXf64Zqifg,Ground_Daily,Ashongman Estates,1,m_LAHKr_0RRI67j5m-X6G_Shape,m_LAHKr_0RRI67j5m-X6G-06:00:00
+3-HoAr2BSFvsXf64Zqifg,Ground_Daily,Ashongman Estates,1,m_LAHKr_0RRI67j5m-X6G_Shape,m_LAHKr_0RRI67j5m-X6G-10:00:00
+u6SEJYohZ-ZZqn-19EYXC,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,TgdWYBIvmsvOLhvE6G0RC_Shape,TgdWYBIvmsvOLhvE6G0RC-15:00:00
+u6SEJYohZ-ZZqn-19EYXC,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,TgdWYBIvmsvOLhvE6G0RC_Shape,TgdWYBIvmsvOLhvE6G0RC-06:00:00
+u6SEJYohZ-ZZqn-19EYXC,Ground_Daily,Sowutuom - Lapaz (Lapaz Tema),0,TgdWYBIvmsvOLhvE6G0RC_Shape,TgdWYBIvmsvOLhvE6G0RC-10:00:00
+6Whldf529geFppHc_WSFA,Ground_Daily,37 Station,0,fXiI-CnR-oXa5Hf-D8Sre_Shape,fXiI-CnR-oXa5Hf-D8Sre-15:00:00
+6Whldf529geFppHc_WSFA,Ground_Daily,37 Station,0,fXiI-CnR-oXa5Hf-D8Sre_Shape,fXiI-CnR-oXa5Hf-D8Sre-06:00:00
+6Whldf529geFppHc_WSFA,Ground_Daily,37 Station,0,fXiI-CnR-oXa5Hf-D8Sre_Shape,fXiI-CnR-oXa5Hf-D8Sre-10:00:00
+hSCAEudDarddLkc5rpYLw,Ground_Daily,Nsakina,1,NAA7JeBcvQCuT9yivPKqf_Shape,NAA7JeBcvQCuT9yivPKqf-15:00:00
+hSCAEudDarddLkc5rpYLw,Ground_Daily,Nsakina,1,NAA7JeBcvQCuT9yivPKqf_Shape,NAA7JeBcvQCuT9yivPKqf-06:00:00
+hSCAEudDarddLkc5rpYLw,Ground_Daily,Nsakina,1,NAA7JeBcvQCuT9yivPKqf_Shape,NAA7JeBcvQCuT9yivPKqf-10:00:00
+OKBiVQYVV-eXZmoFfCsm9,Ground_Daily,Achimota Station,0,eLN8erCgLaHY3jM8e6krq_Shape,eLN8erCgLaHY3jM8e6krq-15:00:00
+OKBiVQYVV-eXZmoFfCsm9,Ground_Daily,Achimota Station,0,eLN8erCgLaHY3jM8e6krq_Shape,eLN8erCgLaHY3jM8e6krq-06:00:00
+OKBiVQYVV-eXZmoFfCsm9,Ground_Daily,Achimota Station,0,eLN8erCgLaHY3jM8e6krq_Shape,eLN8erCgLaHY3jM8e6krq-10:00:00
+vhnKiRNFdsDBN-tsTt3Hp,Ground_Daily,Ashaiman Station (Kufour Station),1,ViDJwXZ17kkrkkblUvlYn_Shape,ViDJwXZ17kkrkkblUvlYn-15:00:00
+vhnKiRNFdsDBN-tsTt3Hp,Ground_Daily,Ashaiman Station (Kufour Station),1,ViDJwXZ17kkrkkblUvlYn_Shape,ViDJwXZ17kkrkkblUvlYn-06:00:00
+vhnKiRNFdsDBN-tsTt3Hp,Ground_Daily,Ashaiman Station (Kufour Station),1,ViDJwXZ17kkrkkblUvlYn_Shape,ViDJwXZ17kkrkkblUvlYn-10:00:00
+NOz-Q0TkXw5dtR8Zt8ggV,Ground_Daily,Ashaiman Station (Kufour Station),1,wZkDqeauWKZ510ldiHOgb_Shape,wZkDqeauWKZ510ldiHOgb-15:00:00
+NOz-Q0TkXw5dtR8Zt8ggV,Ground_Daily,Ashaiman Station (Kufour Station),1,wZkDqeauWKZ510ldiHOgb_Shape,wZkDqeauWKZ510ldiHOgb-06:00:00
+NOz-Q0TkXw5dtR8Zt8ggV,Ground_Daily,Ashaiman Station (Kufour Station),1,wZkDqeauWKZ510ldiHOgb_Shape,wZkDqeauWKZ510ldiHOgb-10:00:00
+-GliCezro2Hi6kZ3wyrni,Ground_Daily,Madina Station (Zongo Junction) ,1,TEOku3sS5M9fx69SIfz5M_Shape,TEOku3sS5M9fx69SIfz5M-15:00:00
+-GliCezro2Hi6kZ3wyrni,Ground_Daily,Madina Station (Zongo Junction) ,1,TEOku3sS5M9fx69SIfz5M_Shape,TEOku3sS5M9fx69SIfz5M-06:00:00
+-GliCezro2Hi6kZ3wyrni,Ground_Daily,Madina Station (Zongo Junction) ,1,TEOku3sS5M9fx69SIfz5M_Shape,TEOku3sS5M9fx69SIfz5M-10:00:00
+cd5Nt0QusMON9Ygg6rqjG,Ground_Daily,Accra New Tema Station,0,fqkacp4-Q5isHY4GWFWS3_Shape,fqkacp4-Q5isHY4GWFWS3-15:00:00
+cd5Nt0QusMON9Ygg6rqjG,Ground_Daily,Accra New Tema Station,0,fqkacp4-Q5isHY4GWFWS3_Shape,fqkacp4-Q5isHY4GWFWS3-06:00:00
+cd5Nt0QusMON9Ygg6rqjG,Ground_Daily,Accra New Tema Station,0,fqkacp4-Q5isHY4GWFWS3_Shape,fqkacp4-Q5isHY4GWFWS3-10:00:00
+l3JjUHR5eJF618FMUhOD-,Ground_Daily,Tema Harbour,0,-pTR35oxePHuh-pMHxL7C_Shape,-pTR35oxePHuh-pMHxL7C-15:00:00
+l3JjUHR5eJF618FMUhOD-,Ground_Daily,Tema Harbour,0,-pTR35oxePHuh-pMHxL7C_Shape,-pTR35oxePHuh-pMHxL7C-06:00:00
+l3JjUHR5eJF618FMUhOD-,Ground_Daily,Tema Harbour,0,-pTR35oxePHuh-pMHxL7C_Shape,-pTR35oxePHuh-pMHxL7C-10:00:00
+dl7nH6DBwvOKREdTdz4vD,Ground_Daily,Ablekuma Curve,1,wbHS0lR0hS7-febmVSDMs_Shape,wbHS0lR0hS7-febmVSDMs-15:00:00
+dl7nH6DBwvOKREdTdz4vD,Ground_Daily,Ablekuma Curve,1,wbHS0lR0hS7-febmVSDMs_Shape,wbHS0lR0hS7-febmVSDMs-06:00:00
+dl7nH6DBwvOKREdTdz4vD,Ground_Daily,Ablekuma Curve,1,wbHS0lR0hS7-febmVSDMs_Shape,wbHS0lR0hS7-febmVSDMs-10:00:00

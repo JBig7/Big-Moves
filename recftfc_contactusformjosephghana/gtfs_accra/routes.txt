@@ -1,0 +1,115 @@
+route_id,agency_id,route_long_name,route_short_name,route_type
+Lkpg7JywqsgtuI2O7A4wB,trotro,NA,Trotro,3
+tID9RhyAMmVTdnVsVj39f,taxi,NA,Shared Taxi,3
+87bjK7ZUlR7cmFVCLBg3S,trotro,NA,Trotro,3
+-eejXdDU_FPhCM0H-VZh6,trotro,NA,Trotro,3
+D8vp7hmGwLX0zgLwq5X-L,trotro,NA,Trotro,3
+pqO7ErabpYuGhNLjOSexG,trotro,NA,Trotro,3
+iCoTbChFeIO1U5Y8ZmbVo,trotro,NA,Trotro,3
+Af6NbvgePbPHT86h-ZP3N,taxi,NA,Shared Taxi,3
+CINobVTdlDAx-0DhIoasO,trotro,NA,Trotro,3
+uSdL5nignt6tOtS6M9MDu,taxi,NA,Shared Taxi,3
+37hZyi49zfGfpxd4tznjH,trotro,NA,Trotro,3
+Rc5pzzmjZaGfpdTwcYr56,taxi,NA,Shared Taxi,3
+8nqLhr30FSB3cBS6oKL00,trotro,NA,Trotro,3
+d6OHXr4zmeo7nciJOS037,taxi,NA,Shared Taxi,3
+16u8vGHOX-ITC_ygJ4fCN,taxi,NA,Shared Taxi,3
+KM6go9PggdI_tf2I7o0FN,trotro,NA,Trotro,3
+4Za5kNxe03630xsiE2j34,taxi,NA,Shared Taxi,3
+-lM98bru03eZ2HLiOFm-d,trotro,NA,Trotro,3
+l3JjUHR5eJF618FMUhOD-,trotro,NA,Trotro,3
+ej2p6hQxUMGc7aPoCxRiQ,trotro,NA,Trotro,3
+NpWpAP5YZgWGaH_IjL3XB,trotro,NA,Trotro,3
+FOCcKkECrGLGWDEy7xQYx,taxi,NA,Shared Taxi,3
+AIjyOtzFpO0TtyMQRKW2x,taxi,NA,Shared Taxi,3
+qYg-j93PrKUZy8TiLrhmv,taxi,NA,Shared Taxi,3
+5s9jiICqJvYraRGlDy8Ex,trotro,NA,Trotro,3
+OKBiVQYVV-eXZmoFfCsm9,trotro,NA,Trotro,3
+dM9IqdKfZ6wqBBBO5Ie_s,trotro,NA,Trotro,3
+FaDNAl5XWCyXQG7YXWnrM,trotro,NA,Trotro,3
+_p7T806PausOLlhoe0RnT,taxi,NA,Shared Taxi,3
+EnJRSOrP3-Atbjc0ijj8K,trotro,NA,Trotro,3
+rNFuZ1O6sF4kOzj95LiVh,trotro,NA,Trotro,3
+qESQOm2rQBBx1PeVhUufn,trotro,NA,Trotro,3
+w49uY5zcbr7WM4iM_VkS8,trotro,NA,Trotro,3
+-GliCezro2Hi6kZ3wyrni,trotro,NA,Trotro,3
+0mhdZ0V7ngtSqAxu8yOyU,trotro,NA,Trotro,3
+MBHYdSqOXzrLThwiraskW,trotro,NA,Trotro,3
+TY-xclxe7Bo5MBgMCZKSf,trotro,NA,Trotro,3
+eL__yQXkDulDJy--vtSiu,trotro,NA,Trotro,3
+mlGbE-vda23eDbo8ikbIS,trotro,NA,Trotro,3
+TjLQEvNf1LzFpW09ri51f,trotro,NA,Trotro,3
+sdJKMTyc_sXocH5XK_1hG,trotro,NA,Trotro,3
+MJENs7-8Fa_3RRdjd6q3P,trotro,NA,Trotro,3
+wG2YUaUadLLv-k0IrG_U5,trotro,NA,Trotro,3
+0S7GmJnENNkKmYsJnxK_y,trotro,NA,Trotro,3
+ypTJnKt3X9BBf5yrnh7Qv,trotro,NA,Trotro,3
+jY9AM9bHWuceHZP7MIknh,trotro,NA,Trotro,3
+QScOIEbrZml_NVxe4cHma,trotro,NA,Trotro,3
+HiChfKHblcNTG217HY9ja,trotro,NA,Trotro,3
+aW_4UNyIaF0bMmFSA2KMK,trotro,NA,Trotro,3
+hg3pd_vqWIp9aR-vnE3Tt,trotro,NA,Trotro,3
+MOdWIoCGEoSuqBFxx4pVQ,trotro,NA,Trotro,3
+1RkVGvGMtvT9OsOt_PN_Y,trotro,NA,Trotro,3
+rjt15CtpCbkBCPKLJppMc,trotro,NA,Trotro,3
+_vmDlVKVUg18sxdNzhCZt,trotro,NA,Trotro,3
+4KRmOZH2QK2ExyYGiO-ls,trotro,NA,Trotro,3
+zufun5GAVI_Zr0wdokZYU,trotro,NA,Trotro,3
+dkRSMijy71GNbEPjbgGBP,trotro,NA,Trotro,3
+lJEb312-N59xoX7JHLI-n,taxi,NA,Shared Taxi,3
+1ON8TOEKS2KUQHr8fmZCP,trotro,NA,Trotro,3
+mxQRUd2BCUttWxFLOKFCW,trotro,NA,Trotro,3
+dXrIBockxdBK08-dYy2P3,trotro,NA,Trotro,3
+hqAvHeJptNetCYeKfLR7n,trotro,NA,Trotro,3
+BTiXU1HHVsFr06-g0ld8N,trotro,NA,Trotro,3
+vy2sw1hqvO6auywtGX6u2,trotro,NA,Trotro,3
+1_4FJdQLS4oBrmkEzJZVc,trotro,NA,Trotro,3
+acAAd_jiwfLmMXCEcDCCv,taxi,NA,Shared Taxi,3
+eqbjLlrgPipFWcqipPuod,trotro,NA,Trotro,3
+v-rQTOtM-dObQqLG13iSu,trotro,NA,Trotro,3
+r5x8oSBuqsjdcwoks9b4w,trotro,NA,Trotro,3
+u6SEJYohZ-ZZqn-19EYXC,trotro,NA,Trotro,3
+D84oAccZhMqDGa93XXMKq,trotro,NA,Trotro,3
+3-HoAr2BSFvsXf64Zqifg,trotro,NA,Trotro,3
+N2OOOU6L9K-jBuNe7qmas,trotro,NA,Trotro,3
+9aSZoy74ZIoGa7BAw3ujs,trotro,NA,Trotro,3
+OCH2oSd4z4FvGoDiemWUm,trotro,NA,Trotro,3
+QWccH6EZpYP2x2GnPxVyM,trotro,NA,Trotro,3
+BM8baONomcMVSiPCRFs2x,trotro,NA,Trotro,3
+CLvAQbMUB-HOgIGDTV3jc,trotro,NA,Trotro,3
+_TNzCXOHtL0MpOjwoCpXc,trotro,NA,Trotro,3
+cd5Nt0QusMON9Ygg6rqjG,trotro,NA,Trotro,3
+JVqahW5nPZXElwd6t1-jG,trotro,NA,Trotro,3
+ooWHXaGhnZt5jXW4n9gMa,trotro,NA,Trotro,3
+qApQxV1jSTWBZYHN9xaCy,trotro,NA,Trotro,3
+vFT-0w8H5XGCVx4hdh6KB,trotro,NA,Trotro,3
+TH0DJ_NrKtO0IIsowk8UL,trotro,NA,Trotro,3
+Z0_PYuBeCGpmejSWcflsb,trotro,NA,Trotro,3
+VWnqip9wsAwRh1zOXkUSv,trotro,NA,Trotro,3
+pBPzrEOXw2H_Fv34QU96p,trotro,NA,Trotro,3
+6Whldf529geFppHc_WSFA,trotro,NA,Trotro,3
+zvknVa9uJyCKnYLpoo9Zt,trotro,NA,Trotro,3
+Ec3R_EzAhGKpA2UJ_uAi5,trotro,NA,Trotro,3
+PO6XbHGOD6hAjB-nydn-D,taxi,NA,Shared Taxi,3
+NyrPqucTFExh9hbwY05yV,trotro,NA,Trotro,3
+I1pqU6CegaH-9FYUcdXsa,trotro,NA,Trotro,3
+yxIVZwOWCVxLgAsOfaubw,trotro,NA,Trotro,3
+xI_6YElDUMumnNu7HRyEo,trotro,NA,Trotro,3
+yH_2VgtgUypp837-hyLYi,trotro,NA,Trotro,3
+UbUswQ5LEXvdXgG_cyE8X,trotro,NA,Trotro,3
+wlSudWAOTthVFdyqn-kEb,trotro,NA,Trotro,3
+2N58nl6-lnfNAq_TNMnW8,trotro,NA,Trotro,3
+6N9JtuAJCAIiFniNRHFLz,taxi,NA,Shared Taxi,3
+uJ7tg8VcZe6k96qkYPN4b,taxi,NA,Shared Taxi,3
+fNLTpbp4hZLavlBpjnnqO,trotro,NA,Trotro,3
+dl7nH6DBwvOKREdTdz4vD,trotro,NA,Trotro,3
+3hTg2f5q5QGdBXutrvjSj,trotro,NA,Trotro,3
+BmDj69zoD4b-zQ0e-HmHB,trotro,NA,Trotro,3
+vhnKiRNFdsDBN-tsTt3Hp,trotro,NA,Trotro,3
+mkYs6Kw4te5RYAjKAGHhv,trotro,NA,Trotro,3
+se82HPattdPPD8FHCQA1e,trotro,NA,Trotro,3
+refXBkqRL7SEg4R61hoPQ,trotro,NA,Trotro,3
+hSCAEudDarddLkc5rpYLw,trotro,NA,Trotro,3
+3VuL1po8UIv80Q3rlWp3L,trotro,NA,Trotro,3
+ACxrVPSYYmCuySoef3qY0,trotro,NA,Trotro,3
+NOz-Q0TkXw5dtR8Zt8ggV,trotro,NA,Trotro,3
