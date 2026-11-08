@@ -1,0 +1,5 @@
+[build]
+  # The static app lives in web/ — publish that folder as the site root.
+  publish = "web"
+  # No build step is needed; data files are pre-generated and committed.
+  command = ""
